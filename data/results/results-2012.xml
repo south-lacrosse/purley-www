@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Premier Division" flags="Senior">
+  <fixture>
+    <date>2011-09-03</date>
+    <location>Bath</location>
+    <competition>Bath 8s</competition>
+    <time>10:00am</time>
+  </fixture>
+  <fixture>
+    <date>2011-10-01</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>1 - 16</result>
+  </fixture>
+  <fixture>
+    <date>2011-10-08</date>
+    <opposition>Cardiff Harlequins</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>4 - 10</result>
+    <!--
+1-4, 2-5, 3-, 4-
+Team: Goal: Tyler Handley; Defence: Andy Booth, Phil Chapman, Dave Copple, Dave Hudson;
+Midfield: Andy Fernando, Matt Payne (2), Jason Klipich; Attack: Andy Davies (1), Jamie Tasko (1), Dave Slaughter
+Ref: Ray Nash -->
+  </fixture>
+  <fixture>
+    <date>2011-10-15</date>
+    <opposition>Bristol Bombers</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>6 - 4</result>
+    <!-- `
+1-1 Darren
+4-2 Billy, Billy(Jamie),Jamie
+5-2 Jamie
+6-4 Jamie(Darren)
+Team: Goal: Paul Terry; Defence: Andy Booth, Phil Chapman, Dave Copple, Dave Hudson, Dean Searle;
+Midfield: Mike Barrett (2), Andy Davies, Matt Payne, Jason Klipich; Attack: Justin Baranowski, Darren Novell (1), Jamie Tasko (3)
+Ref: Dave Slaughter -->
+  </fixture>
+  <fixture>
+    <date>2011-10-29</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <time>1:30pm</time>
+    <result>4 - 11</result>
+    <!--
+1-5,2-6,,4-11
+Team: Goal: Paul Terry; Defence: Andy Booth, Phil Chapman (1), Dave Copple, Dave Slaughter;
+Midfield: Andy Fernando, Andy Davies, Mike Barrett; Attack: Justin Baranowski, Darren Novell (1), Jamie Tasko (2)
+Ref: Welwyn -->
+  </fixture>
+  <fixture>
+    <date>2011-11-05</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>0 - 13</result>
+    <!--
+0-5,0-9,0-11,0-13??
+Team: Goal: Paul Terry; Defence: Andy Booth, Phil Chapman, Dave Copple, Dave Hudson, Dave Slaughter;
+Midfield: Andy Fernando, Andy Davies, Mike Barrett, Rob Clark, Jason Klipich, Matt Payne; Attack: Justin Baranowski, Ned Adriance, Jamie Tasko
+
+Ref: Simon Peach
+ -->
+  </fixture>
+  <fixture>
+    <date>2011-11-12</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>7 - 19</result>
+    <!--
+2-3
+2-3   Jamie,Billy
+4-12  Matt,Justin
+4-15
+7-14  Phil,Jamie,Phil
+Team: Goal: Dave Slaughter; Defence: Andy Booth, Phil Chapman (2), Dave Copple, Dave Hudson;
+Midfield: Andy Fernando, Mike Barrett (1), Rob Clark, Jason Klipich, Matt Payne (1); Attack: Justin Baranowski (1), Darren Novell, Jamie Tasko (2)
+Ref: Dave Cluney, Hamish Dickson
+ -->
+  </fixture>
+  <fixture>
+    <date>2011-11-19</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Snr Flags R1</competition>
+    <result>4 - 16</result>
+    <!--
+2-4 Monkey,Jamie
+4-6 Jordan,Monkey
+4-11,4-16
+Team: Goal: Fred Crips; Defence: Andy Booth, Phil Chapman, Dave Copple, Tom Durrands, Chris;
+Midfield: Dave Hudson (2), Jordan Kepner (1), Dave Slaughter, Andy Fernando, Andy Davies; Attack: Justin Baranowski, Jamie Tasko (1), Jeremy Webb
+
+Ref: Steve Jarvis
+ -->
+  </fixture>
+  <fixture>
+    <date>2011-11-26</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>3 - 16</result>
+    <!--
+Team: Goal: Tyler Handley, Fred Crips; Defence: Andy Booth, Phil Chapman, Dave Copple, Dave Slaughter;
+Midfield: Dave Hudson, Andy Fernando, Andy Davies, Mike Barrett; Attack: Justin Baranowski, Ned Adriance, Jason Klipich (3)
+
+Ref: Simon Peach
+ -->
+  </fixture>
+  <fixture>
+    <date>2011-12-03</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 15</result>
+    <!--
+0-3, 0-5, 0-9, 0-10
+Team: Goal: Fred Crips; Defence: Andy Booth, Phil Chapman, Dave Copple, Dave Slaughter;
+Midfield: Andy Fernando, Dave Cluney, Mike Barrett, Matt Payne (2); Attack: Justin Baranowski (1), Jamie Tasko (1), Jason Klipich (1)
+
+Ref: Hazel Wisbey
+ -->
+  </fixture>
+  <fixture>
+    <date>2011-12-10</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>0 - 10</result>
+    <!--
+Team: Goal: Tyler Handley; Defence: Andy Booth, Phil Chapman, Dave Copple, Charles;
+Midfield: Andy Fernando, Dave Cluney, Andy Davies, Dave Hudson; Attack: Jamie Tasko, Matt Payne, Jason Klipich
+
+Ref: Dave Slaughter
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-01-14</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>3 - 15</result>
+    <!--
+Team: Goal: Fred Cripps; Defence: Andy Booth, Phil Chapman, Dave Copple, Dave Slaughter;
+Midfield: Mike Barrett (1), Andy Fernando, Dave Cluney, Andy Davies; Attack: Jamie Tasko (1), Justin Baranowski, Jason Klipich (1)
+
+Ref: Ian Ballantine
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-01-21</date>
+    <opposition>Cardiff Harlequins</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>5 - 4</result>
+    <!--
+1-1 Jamie
+3-3 1-2,1-3 Matt, Jason
+4-3  Jamie
+5-4  4-4 Billy  (disallowed Darren goal at 4-3 i.e. would have been 5-3 for illegal stick - strings > 2 inches)
+Team: Goal: Tyler Handley; Defence: Andy Booth, Phil Chapman, Dave Copple, Dave Slaughter;
+Midfield: Mike Barrett (1), Andy Fernando, Dave Cluney, Andy Davies, Matt Payne (1);
+Attack: Justin Baranowski, Jamie Tasko (2), Darren Novell, Jason Klipich (1)
+
+Ref: Tom Slade
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-01-28</date>
+    <location>Home</location>
+    <competition>University Day</competition>
+    <time>11:00am</time>
+  </fixture>
+  <fixture>
+    <date>2012-02-04</date>
+    <opposition>Bristol Bombers</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Pitch unavailable, to 31 Mar</comment>
+  </fixture>
+  <fixture>
+    <date>2012-02-11</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Pitch frozen, to 3 Mar</comment>
+  </fixture>
+  <fixture>
+    <date>2012-02-18</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 10</result>
+    <!--
+Ref: Simon Peach
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-02-25</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>7 - 10</result>
+    <!--
+Ref: Trevor Rogers
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-03-03</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>6 - 5</result>
+    <!--
+3-2 Payne, Barrett,Justin 1v0,1v1,2v1,3v1,3v2
+6-2 (3-0) Tasko 3
+6-5 (0-3)
+6-5 (0-0)
+Team: Goal: Paul Terry; Defence: Andy Booth, Phil Chapman, Dave Copple, Dave Slaughter;
+Midfield: Mike Barrett (1), Matt Payne (1), Andy Fernando, Dave Cluney, Andy Davies, Dave Hudson;
+Attack: Jamie Tasko (3), Jason Klipich, Darren Novell, Justin Baranowski (1)
+
+Ref: Rob Collinge -->
+  </fixture>
+  <fixture>
+    <date>2012-03-10</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>4 - 12</result>
+    <!--
+1-3,
+1-7 (0-4)
+2-10 (1-3)
+4-12 (2-2)
+Team: Goal: Tyler Handley; Defence: Andy Booth, Phil Chapman (1), Dave Copple, Dave Slaughter;
+Midfield: Mike Barrett (1), Andy Fernando, Andy Davies, Dave Hudson (1); Attack: Jamie Tasko (1), Matt Payne, Jason Klipich
+
+Ref: Hampstead
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-03-17</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 8</result>
+    <!--
+0-2, 2-4, 3-8, 5-8
+Team: Goal: Tyler Handley; Defence: Andy Booth, Phil Chapman, Dave Slaughter;
+Midfield: Mike Barrett (2), Andy Davies, Dave Hudson; Attack: Jamie Tasko (1), Matt Payne (2), Justin Baranowski
+
+Ref: Bernie Daniels
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-03-24</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>6 - 14</result>
+    <!--
+Team: Goal: Tyler Handley; Defence: Andy Booth, Phil Chapman, Dave Copple, Dave Slaughter;
+Midfield: Mike Barrett (1), Andy Davies, Matt Payne, Andy Fernando, Dave Cluney (2);
+Attack: Jamie Tasko (1), Darren Novell, Jason Klipich (1), Justin Baranowski (1)
+
+Ref: Mike?
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-03-31</date>
+    <opposition>Bristol Bombers</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>3 - 9</result>
+    <!--
+Team: Goal: Dave Slaughter; Defence: Andy Booth, Phil Chapman, Dave Copple;
+Midfield: Mike Barrett (1), Andy Davies, Andy Fernando;
+Attack: Jamie Tasko, Jason Klipich, Justin Baranowski (2)
+
+Ref: Miles Whittle
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-04-21</date>
+    <location>Reading</location>
+    <competition>Flags Finals</competition>
+  </fixture>
+  <fixture>
+    <date>2012-04-28</date>
+    <opposition>Bath</opposition>
+    <location>Walcountians</location>
+    <competition>Play-off</competition>
+    <time>3:30pm</time>
+    <result>6 - 3</result>
+    <!--
+<p>Purley dodged the relegation bullet with a gutsy display to see off Bath's challenge in the driving wind and rain of a bleak Saturday.</p>
+<p>A hat-trick from stalwart Mike Barrett, two clinical strikes from Matt Payne and a Justin Baranowski crease goal were enough to defeat the West Country team 6-3, at Walcountians' ground.</p>
+<p>It was a tough, uncompromising game with both teams struggling to play quality lacrosse in difficult conditions.</p>
+<p>The result was everything. Purley faced their first relegation from the top level in the club's 107-year history while Bath were pushing for a Premier League slot after a memorable season.</p>
+<p>Bath made their third long trip in three weeks for this date with destiny and the club's enthusiasm and commitment was evidenced by a 16-man squad. Purley, who will want to forget this season as swiftly as possible, only had 11 players as squad members were at European tournaments.</p>
+<p>The purple machine started brightly but Bath soon dominated the possession. Neither team was giving an inch but Barrett broke the deadlock with a trademark roll-dodge around the pipe. A deserved equalizer came from Matt King after a well-worked possession.</p>
+<p>Bath turned the screw but found a Purley defence in no mood to allow any clear chances. When they did breakthrough, Tyler Handley was inspired in goal.</p>
+<p>A rare Purley attack resulted in a carbon-copy move from Barrett and they finished the quarter 2-1.</p>
+<p>The second quarter was a battle of attrition between Bath's energetic attack and Purley's brick-wall defence, with Andy Booth the keystone. Shots rained down on the goal but defective radar and Handley's lightning reflexes kept them scoreless.</p>
+<p>Again it was Barrett who broke through and Purley had breathing space at 3-1 at the half.</p>
+<p>It didn't last long as Doug Mackay finished off a sweet move to make it a one-goal game.</p>
+<p>The pattern was clear with Purley holding possession and slowing the game while Bath's athletic line-up endeavoured to keep the tempo high and move them around the pitch.</p>
+<p>Several chances went begging and Purley made them pay when Payne found an acute angle to fire in a low-to-high shot.</p>
+<p>There was little to choose between the teams but Purley's Prem experience helped them take the sting out waves of Bath attacks. But there was no stopping Pete Short as he rounded the goal and fired in an impudent over the shoulder shot.</p>
+<p>Bath, fielding four excellent teenage prospects, continued to attack and were creating more chances.</p>
+<p>Going into the final quarter with a slender 4-3 lead, Purley needed to again take the heat out of the game and did it in style with Payne getting his second just a minute in.</p>
+<p>Bath were chasing and double-teaming Purley at every opportunity and destabilising their previous effective clear. Barrett's post-moves were snuffed out and they powered back into the game. Handley saved spectacularly from Short, shouldering a goal-bound shot onto the crossbar.</p>
+<p>A crucial moment came with ten minutes left when Purley's Alamo defence repelled a man-up minute and then Dan Taylor worked the X under intense pressure to feed Baranowski to score from close range with five mintues to go.</p>
+<p>Both teams were muddied and bloodied after a Herculean effort but Purley managed to hang on for the victory and their Premier League place. Their celebrations were muted as the stark fact remains that much needs to be done to avoid being in a similar position in 2013.</p>
+<p>Bath were bitterly disappointed they didn't convert their opportunities but take great comfort from coming close, the progress of their youngsters and a great Intermediate Flags Win.</p>
+
+<p>Team: Goal: Tyler Handley; Defence: Andy Booth, Dave Copple, Hamish Dickson, Dave Slaughter;
+Midfield: Mike Barrett (3), Andy Fernando, Dave Cluney;
+Attack: Justin Baranowski (1), Matt Payne (2), Dan Taylor</p>
+<p>Refs: Simon Peach, Debbie Field, Hazel Wisbey</p>
+ -->
+  </fixture>
+</fixtures>

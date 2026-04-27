@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Premier Division" flags="Senior">
+  <fixture>
+    <date>2007-09-29</date>
+    <opposition>East Grinstead</opposition>
+    <location>Home</location>
+    <competition>Friendly</competition>
+    <time>12:00pm</time>
+    <result>8 - 7</result>
+    <page href="/2008/east-grinstead-home-match-report-29-sep"/>
+  </fixture>
+  <fixture>
+    <date>2007-10-06</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>7 - 11</result>
+    <page href="/2008/spencer-away-match-report-6-oct"/>
+  </fixture>
+  <fixture>
+    <date>2007-10-13</date>
+    <opposition>Swansea Hawks</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>12 - 4</result>
+    <page href="/2008/swansea-hawks-away-match-report-13-oct"/>
+  </fixture>
+  <fixture>
+    <date>2007-10-20</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>5 - 12</result>
+    <page href="/2008/hampstead-home-match-report-20-oct"/>
+  </fixture>
+  <fixture>
+    <date>2007-11-03</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>15 - 5</result>
+    <page href="/2008/walcountian-blues-home-match-report-3-nov"/>
+  </fixture>
+  <fixture>
+    <date>2007-11-10</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>17 - 2</result>
+    <page href="/2008/reading-wildcats-away-match-report-10-nov"/>
+  </fixture>
+  <fixture>
+    <date>2007-11-17</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>20 - 1</result>
+    <page href="/2008/hillcroft-home-match-report-17-nov"/>
+  </fixture>
+  <fixture>
+    <date>2007-11-24</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Snr Flags R1</competition>
+    <result>10 - 0 w/o</result>
+  </fixture>
+  <fixture>
+    <date>2007-12-01</date>
+    <opposition>East Grinstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>16 - 0</result>
+    <page href="/2008/east-grinstead-away-match-report-1-dec"/>
+  </fixture>
+  <fixture>
+    <date>2007-12-15</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>11 - 10</result>
+    <!-- H   P
+Q1   4   3  Tim,Dennis,Barrett     1v0,1v1,1v2,2v2,3v2,4v2,4v3
+Q2   5   7 (1-4) Matt,Tim,Dennis,Dennis 5v3,5v4,5v5,5v6,5v7
+Q3   7   9 (2-2) Tim,Barrett       6v7,7v7,7v8,7v9
+Q4  10  11 (3-2) Graeme,Barrett    8v9,9v9,9v10,9v11,10v11
+<p>Goals: Tim Richmond 3, Dennis McKenna 3, Mike Barrett 3, Matt Payne 1, Graeme Holland 1
+<br/>Ref: Jon Harrop</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2008-01-12</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2008-01-19</date>
+    <opposition>Swansea Hawks</opposition>
+    <location>Home (Ashburton School)</location>
+    <time>3:00pm</time>
+    <competition>Prem</competition>
+    <result>16 - 4</result>
+    <!--
+    P  Swansea
+Q1  4     0     Denis,Denis,Jamie,John
+Q2  8     1 (4-1)  Denis,Matt,Denis,Matt         5v0,5v1,6v1,7v1,8v1
+Q3 11     2 (3v1)  Denis,Matt,Matt               9v1,10v1,10v2,11v2
+Q4 16     4 (5-2)  Cluney,Matt,Mike,Jamie,Denis  12v2,13v2,14v2,14v3,15v3,15v4,16v4
+
+<p>Goals: Dennis McKenna 6, Matt Payne 5, Jamie Tasko 2, Dave Cluney 1, John Maydick 1, Mike Barrett 1
+<br/>Ref: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2008-01-26</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>8 - 17</result>
+    <!--
+   Ham  P
+Q1  2   2  Jamie,Dennis  1-0,1-1,1-2,2-2
+Q2  6   6  (4-4) Matt,Dennis,Dennis,Jamie   2-3,3-3,3-4,4-4,4-5,5-5,6-5,6-6
+Q3 13   7  (7-1) Matt    7-6,8-6,9-6,9-7,10-7,11-7,12-7,13-7
+Q4 17   8  (4-1) Tim     14-7,15-7,16-7,17-7,17-8
+
+<p>Goals: Dennis McKenna 3, Matt Payne 2, Jamie Tasko 2, Tim Richmond 1
+<br/>Ref: Adam Crowe</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2008-02-02</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>11 - 8</result>
+    <!--
+   WB  P
+Q1  1  3   Barrett,Graham,Matt   1v0,1v1,1v2,1v3
+Q2  5  4 (4-1)  Dennis  1v4,,2v4,3v4,4v4,5v4
+Q3  5  7 (0-3)  Cluney,Matt,Barrett   5v5,5v6,5v7
+Q4  8  11 (3-4) Barrett,Barrett,Jamie,Cluney  5v8,6v8,7v8,7v9,7v10,8v10,8v11
+<p>Goals: Mike Barrett 4, Matt Payne 2, Dave Cluney 2, Jamie Tasko 1, Graeme Holland 1, Dennis McKenna 1
+<br/>Ref: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2008-02-09</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home (Ashburton School)</location>
+    <time>3:00pm</time>
+    <competition>Prem</competition>
+    <result>13 - 6</result>
+    <comment>Sandilands waterlogged</comment>
+    <!--
+    P  R
+Q1  2  1  Dennis,John
+Q2  5  2 (3-1) John,Mike,Dennis
+Q3  10 3 (5-1)  Dennis,Jamie,Greame,Graeme,Matt
+Q4  13 6 (3-3)  Bill Laidler,Mike,Dennis
+
+<p>Goals: Dennis McKenna 4, Graeme Holland 2, John Maydick 2, Mike Barrett 2, Matt Payne 1, Jamie Tasko 1, Bill Laidler 1
+<br/>Refs:Steve Jarvis and Sevan</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2008-02-16</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Flags SF</competition>
+    <result>14 - 4</result>
+    <!--
+    P   S
+Q1  4   1   Dennis,Tim,Dennis,Matt  1-0,2-0,3-0,4-0,4-1
+Q2  6   3 (2v2)  Dennis, Barrett,        5-1,6-1,6-2,6-3
+Q3 10   3 (4v0)  Barrett,Matt,Tim,Tim    7-3,8-3,9-3,10-3
+Q4 14   4 (4v1)  Graeme,Barrett,Billy,Barrett   11-3,11-4,12-4,13-4,14-4
+
+<p>Goals: Mike Barrett 4, Dennis McKenna 3, Tim Richmond 3, Matt Payne 2, Graeme Holland 1, Bill Laidler 1
+<br/>Ref: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2008-02-23</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>19 - 2</result>
+    <!--H  P
+Q1  1  4   Dennis,Bill,Matt,Cluney 0v1,0v2,0v3,1v3,1v4
+Q2  1  8 (0-4) Dennis,Bill,Barrett,Bill 1v5,1v6,1v7,1v8
+Q3  2 16 (1-8) Dennis,Barret,Matt,Matt,Bill,Barrett,Barrett,Barrett 2v8,2v9,2v10,2v11,2v12,2v13,2v14,2v15,2v16
+Q4  2 19 (0-3) Barrett,Matt,Dennis
+
+<p>Goals: Mike Barrett 6, Matt Payne 4, Dennis McKenna 4, Bill Laidler 4, Dave Cluney  1
+<br/>Ref: Ian Ballantine</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2008-03-01</date>
+    <opposition>East Grinstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>18 - 0</result>
+    <page href="/2008/east-grinstead-home-match-report-1-mar"/>
+  </fixture>
+  <fixture>
+    <date>2008-03-15</date>
+    <opposition>Hampstead</opposition>
+    <location>Reading</location>
+    <competition>Flags Final</competition>
+    <!--
+    H    P
+Q1  6    1    Matt                  1v0,1v1,2v1,3v1,4v1,5v1,6v1         6-1
+Q2  9    3    Matt,Dennis  7v1,8v1,8v2,8v3,9,3                     3-2
+Q3  10   3                      10v3                                          1-0
+Q4  14   5    Graeme,Jamie   10v4,10v5,11v5,12v5,13v5,14v5    4-2
+Goals: Matt Payne 2, Graeme Holland 1, Jamie Tasko 1, Dennis McKenna 1
+ -->
+    <result>5 - 14</result>
+  </fixture>
+  <fixture>
+    <date>2008-03-22</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>19 - 11</result>
+    <!--
+    P   Spencer
+Q1  3   4     Dennis,Barrett,Barrett  0-1,0-2,1-2,2-2,2-3,2-4,3-4
+Q2  7   7  (4v3)   Jamie,Tim,Jess,Dennis   4-4,4-5,4-6,5-6,6-6,7-6,7-7
+Q3  11  8  (4v1)   Jess,Barrett,Barrett,Jamie  8-7,8-8,9-8,10-8,11-8
+Q4  19  11 (8v3)   Dennis,Barrett,Graeme,Tim,Graeme,Graeme,Tim,Barrett   12-8,12-9,13-9,13-10,14-10,15-10,15-11,16-11,17-11,18-11,19-11
+Great second half & marvellous last quarter. Graeme was on fire in the last quarter
+both in attack and as a midi as I recall.
+<p>Goals: Mike Barrett 6, Graeme Holland 3, Tim Richmond 3, Dennis McKenna 3,
+Jamie Tasko 2, Jessie O'Hanley 2
+<br/>Ref: Simon Peach</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2008-03-29</date>
+    <opposition>Hitchin</opposition>
+    <location>Home (Ashburton School)</location>
+    <competition>Prem</competition>
+    <result>13 - 11</result>
+    <comment>Sandilands waterlogged</comment>
+    <page href="/2008/hitchin-home-match-report-29-mar"/>
+  </fixture>
+  <fixture>
+    <date>2008-04-19</date>
+    <location>Croydon</location>
+    <time>11:00am</time>
+    <competition>Six-a-sides</competition>
+    <result>Won</result>
+    <page href="/2008/six-a-sides-report-19-apr"/>
+  </fixture>
+</fixtures>

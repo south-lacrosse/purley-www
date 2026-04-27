@@ -1,0 +1,180 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2015-09-05",
+			"location": "Bath",
+			"competition": "Bath 8s",
+			"result": ""
+		},
+		{
+			"date": "2015-09-12",
+			"opposition": "Croydon",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "12 - 13"
+		},
+		{
+			"date": "2015-09-19",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Friendly",
+			"result": "4 - 9"
+		},
+		{
+			"date": "2015-09-26",
+			"location": "Hillcroft",
+			"competition": "3 Way Tournament v Hillcroft/EG",
+			"result": ""
+		},
+		{
+			"date": "2015-10-10",
+			"opposition": "Cardiff Harlequins",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "2 - 11"
+		},
+		{
+			"date": "2015-10-17",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "4 - 18"
+		},
+		{
+			"date": "2015-10-24",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed"
+		},
+		{
+			"date": "2015-10-31",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "4 - 17"
+		},
+		{
+			"date": "2015-11-07",
+			"pitch": "Sand-Astro",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "8 - 16"
+		},
+		{
+			"date": "2015-11-14",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Snr Flags R2",
+			"result": "0 - 23"
+		},
+		{
+			"date": "2015-11-21",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2015-11-28",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "4 - 10"
+		},
+		{
+			"date": "2015-12-05",
+			"opposition": "Bristol Bombers",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 8"
+		},
+		{
+			"date": "2015-12-12",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "0 - 17"
+		},
+		{
+			"date": "2016-01-09",
+			"opposition": "Cardiff Harlequins",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "Abandonded",
+			"comment": "Abandonded at half-time due to unplayable pitch (Purley 3-2 ahead)"
+		},
+		{
+			"date": "2016-01-16",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2016-01-23",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "Postponed"
+		},
+		{
+			"date": "2016-02-06",
+			"pitch": "3G",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "1 - 24"
+		},
+		{
+			"date": "2016-02-13",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "7 - 8"
+		},
+		{
+			"date": "2016-02-20",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "2 - 24"
+		},
+		{
+			"date": "2016-03-12",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "2 - 11",
+			"comment": "Switched from Home because of waterlogged pitch"
+		},
+		{
+			"date": "2016-03-19",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "3 - 14"
+		},
+		{
+			"date": "2016-04-02",
+			"opposition": "Bristol Bombers",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "4 - 4"
+		},
+		{
+			"date": "2016-04-12",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "1 - 14",
+			"comment": "Switched from Home to play midweek under floodlights"
+		}
+	]
+}

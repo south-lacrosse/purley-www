@@ -1,0 +1,110 @@
+---
+/**
+ * Render an image gallery as thumbnails with a lightbox.
+ *
+ * Data is stored in JSON files named *.gal.json in the archives directory,
+ * and retrieved using an Astro Content Collection so we get validation,
+ * intellisense, and type checking.
+ */
+import 'glightbox/dist/css/glightbox.css';
+import { getEntry } from 'astro:content';
+import { Image, getImage } from 'astro:assets';
+
+interface Props {
+	/**
+	 * Gallery id, will be the relative filename before `.gal.json` in the archives directory
+	 *
+	 * Defaults to the current route for dynamic pages (i.e. ``.mdx`` files), so
+	 * for file `2000/flags.mdx` the gallery id will be `2000/flags.gal.json`
+	 */
+	id?: string;
+	/**
+	 * Gallery name. Used to separate galleries on the page, defaults to 1.
+	 *
+	 * Galleries with the same name will be displayed together inside the lightbox
+	 */
+	name?: string;
+}
+
+const { id = Astro.params.id, name = '1' } = Astro.props;
+if (!id) {
+	throw new Error('Invalid use of Gallery - no gallery id, and no Astro.params.id');
+}
+
+const gallery = await getEntry('galleries', id);
+if (!gallery) {
+	throw new Error('Unknown gallery: ' + id);
+}
+// default alt text
+const alt = gallery.data.alt ?? 'Game action';
+const images = [];
+for (const item of gallery.data.images) {
+	const { src, caption, alt } = item;
+	const responsiveImage = await getImage({ src, layout: 'constrained' });
+	images.push({
+		src,
+		caption,
+		alt,
+		href: responsiveImage.src,
+		srcSet: responsiveImage.srcSet.attribute,
+		sizes: responsiveImage.attributes.sizes,
+	});
+}
+---
+
+<div class="gallery content">
+	{
+		images.map((item) => (
+			<a
+				href={item.href}
+				class="glightbox"
+				data-gallery={name}
+				data-description={item.caption}
+				data-sizes={item.sizes}
+				data-srcset={item.srcSet}
+			>
+				<Image
+					src={item.src}
+					alt={item.alt || alt}
+					height="90"
+					quality="mid"
+					layout="none"
+				/>
+			</a>
+		))
+	}
+</div>
+
+<style is:global>
+	.gallery {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.75em;
+		margin-bottom: 1em;
+	}
+	.glightbox {
+		border: 1px solid var(--light-border);
+	}
+	/* Override GLightbox styles */
+	.glightbox-clean .gdesc-inner {
+		padding: 0.25rem 0.5rem;
+	}
+	.glightbox-clean .gslide-desc {
+		font-size: 0.875rem;
+		font-family: inherit;
+		line-height: inherit;
+	}
+	.glightbox-clean .gslide-description {
+		text-align: center;
+		background-color: var(--table-cell-bg);
+	}
+	.glightbox-mobile .glightbox-container .gslide-desc {
+		color: #fff;
+	}
+</style>
+<script>
+	import GLightbox from 'glightbox';
+
+	// eslint-disable-next-line @typescript-eslint/no-unused-vars
+	const lightbox = GLightbox({});
+</script>

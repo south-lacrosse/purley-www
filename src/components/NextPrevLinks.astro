@@ -1,0 +1,33 @@
+---
+/**
+ * Next/previous links for archives collection.
+ */
+import { getNextPrev } from '~/archives';
+import { entryTitle } from '~/util/titles';
+
+interface Props {
+	index: number;
+}
+
+const { index } = Astro.props;
+const { next, prev } = getNextPrev(index);
+---
+
+<nav class="page-nav next-prev">
+	{
+		prev ? (
+			<a href={`/${prev.id}`} rel="prev">
+				« {entryTitle(prev)}
+			</a>
+		) : (
+			<span />
+		)
+	}
+	{
+		next && (
+			<a class="next-link" href={`/${next.id}`} rel="next">
+				{entryTitle(next)} »
+			</a>
+		)
+	}
+</nav>

@@ -1,0 +1,372 @@
+/*--------------------- Normalize rules -------------------*/
+
+/* From normalize.css v8.0.1 | https://github.com/necolas/normalize.css
+   Rules for IE are omitted as we no longer care about that, also omitted rules
+   that don't apply e.g legend, and stuff overridden later anyway */
+
+html {
+	-webkit-text-size-adjust: 100%;
+}
+body {
+	margin: 0;
+}
+hr {
+	height: 0;
+	overflow: visible;
+}
+strong {
+	font-weight: bolder;
+}
+
+/*-------------------- Now all our site specific stuff -----------------*/
+
+:root {
+	--content-width: 45rem;
+	--wide-width: 64rem;
+	--gutter: 0.625rem; /* min margin for content */
+	--negative-gutter: -0.625rem; /* to undo above */
+
+	--text: #333;
+	--byline-text: #707070;
+	--white-text: #fff;
+
+	--background: #fff;
+	--purple-logo: #672b7d; /* dark purple in logo */
+	--purple-lighter: #8200db;
+	--gold-logo: #fcb52e; /* gold from logo */
+	--table-cell-bg: #f8f8f8; /* for header/hover */
+	--table-borders: #d8d8d8;
+	--light-border: #ccc;
+}
+
+html {
+	/* shows at bottom of page if body is not long enough */
+	background-color: #bec3c6;
+	/* System fonts */
+	font-family:
+		-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+		'Helvetica Neue', sans-serif;
+	font-size: 100%;
+}
+
+body {
+	line-height: 1.5;
+	color: var(--text);
+	background-color: var(--background);
+}
+
+/*--------------------- Base layout -------------------*/
+
+.banner {
+	text-align: center;
+	padding: 0.625rem 0.375rem 0.25rem 0.375rem;
+	background: var(--purple-logo);
+	border-bottom: 0.25rem solid var(--gold-logo);
+}
+
+nav,
+lite-youtube {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: var(--wide-width);
+}
+/* need padding on the figcaption as the parent figure is full width */
+.main,
+figcaption {
+	padding-left: var(--gutter);
+	padding-right: var(--gutter);
+}
+p,
+table,
+figcaption,
+h1,
+h2,
+h3,
+h4,
+hr,
+blockquote,
+article > ul,
+article > ol,
+.archives-list,
+.content {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: var(--content-width);
+}
+.wide {
+	max-width: var(--wide-width);
+}
+p,
+figure,
+blockquote,
+.archives-list,
+lite-youtube {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+figure {
+	/* undo the padding from div.main so figure takes the whole width*/
+	margin-left: var(--negative-gutter);
+	margin-right: var(--negative-gutter);
+	text-align: center;
+	position: relative;
+}
+
+footer {
+	background-color: #333f48;
+	color: var(--background);
+	padding: 1rem 0.75rem;
+	margin-top: 1rem;
+}
+
+/*--------------------- Headings -------------------*/
+
+h1 {
+	font-size: 2.25rem;
+	margin-top: 0;
+	padding-bottom: 0.1em;
+}
+h2 {
+	font-size: 1.625rem;
+	margin-top: 2rem;
+}
+h1 + h2,
+header + h2 {
+	margin-top: 0;
+}
+h3 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+h1,
+h2,
+h3,
+h4 {
+	font-weight: bold;
+	margin-bottom: 1rem;
+	line-height: 1.3;
+	text-wrap: balance;
+	overflow-wrap: break-word;
+}
+.with-byline {
+	margin-bottom: 0;
+}
+.byline {
+	color: var(--byline-text);
+	margin-top: 0;
+	font-size: 0.875rem;
+}
+
+/*--------------- Basic tags -----------------------*/
+
+p {
+	overflow-wrap: break-word;
+}
+/* fit images to container */
+img {
+	max-width: 100%;
+	height: auto;
+	/* lose extra spacing at bottom of image */
+	vertical-align: middle;
+}
+small,
+.small {
+	font-size: 0.8125em;
+}
+.center {
+	text-align: center;
+}
+hr {
+	margin-top: 0.625rem;
+	margin-bottom: 0.625rem;
+	border: 0;
+	border-top: 0.0625rem solid var(--light-border);
+}
+a {
+	color: var(--purple-logo);
+}
+blockquote {
+	box-sizing: border-box;
+	font-style: italic;
+	padding: 1em 1em 1em 3.5em;
+	border-left: 0.5em solid var(--purple-lighter);
+	position: relative;
+	background: var(--table-cell-bg);
+}
+blockquote > p {
+	margin: 0;
+	max-width: initial;
+}
+blockquote::before {
+	font-family: Arial, Helvetica, sans-serif;
+	content: '\201C';
+	color: var(--purple-lighter);
+	font-size: 3em;
+	position: absolute;
+	left: 0.625rem;
+	top: -0.625rem;
+}
+
+/*--------------- Navigation -----------------------*/
+
+.archives-list {
+	padding: 0;
+	list-style: none;
+}
+.archives-list > li {
+	margin-bottom: 0.625rem;
+}
+
+.top-nav {
+	margin-top: 0.25rem;
+}
+/* used for page 1/2/3 and also next/prev */
+.page-nav {
+	padding-top: 0.25rem;
+	border-top: 0.0625rem solid;
+}
+.next-prev {
+	display: flex;
+	justify-content: space-between;
+	gap: 1.5em 2em;
+}
+@media screen and (max-width: 22rem) {
+	.next-prev {
+		flex-wrap: wrap;
+	}
+}
+.related-heading {
+	max-width: initial;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	color: var(--gold-logo);
+}
+.related-ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	column-count: auto;
+	column-width: 12.5rem;
+	column-gap: 1rem;
+	column-rule-color: var(--light-border);
+	column-rule-style: solid;
+	column-rule-width: 0.0625rem;
+	margin-bottom: 1rem;
+}
+.related-link {
+	padding: 0.25rem 0 0.25rem 0.5rem;
+	display: block;
+	color: var(--white-text);
+	line-height: 1.875;
+}
+.related-link:visited {
+	color: var(--white-text);
+}
+.related-link:hover,
+.related-link:focus-visible {
+	color: var(--gold-logo);
+}
+
+/*--------------- Tables ---------------------------*/
+
+/* Allow tables to be scrollable, and not overflow the screen. overflow-x on
+	tables does nothing, so you need an enclosing div.
+   Note: we only ever have 1 table per .scrollable, and it only wraps tables */
+.scrollable {
+	overflow-x: auto;
+	margin-bottom: 1.25em;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* td & th inherit */
+tbody {
+	vertical-align: top;
+}
+thead {
+	vertical-align: bottom;
+}
+th,
+td {
+	padding: 0.3125em 0.75em;
+	border: 0.0625rem solid var(--table-borders);
+}
+/** only 2px in table heading */
+th {
+	border-bottom-width: 0.125rem;
+}
+@media screen and (max-width: 40rem) {
+	th,
+	td {
+		padding: 0.3125em;
+	}
+}
+/* markdown tables may generate th and td with align=".." */
+.striped > thead {
+	text-align: left;
+}
+
+.striped > tbody > tr:nth-of-type(odd) {
+	background-color: var(--table-cell-bg);
+}
+
+/*--------------- Miscellaneous --------------------*/
+
+/* caption */
+.inside-image {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: fit-content;
+	padding: 0.3125em 0.75em;
+	font-weight: bold;
+	background: rgba(0, 0, 0, 0.3);
+	color: var(--white-text);
+}
+.float-left {
+	padding: 0 1em 0.625em 0;
+	float: left;
+	background-color: var(--background);
+}
+.float-right {
+	padding: 0 0 0.625em 1em;
+	float: right;
+	background-color: var(--background);
+}
+
+/*--------------- Accessibility --------------------*/
+
+/* Text meant only for screen readers. */
+.sr-only {
+	border: 0;
+	clip-path: inset(50%);
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute !important;
+	word-wrap: normal !important;
+	/* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+/*--------------- Printing ------------------------*/
+
+@media print {
+	.banner,
+	nav,
+	footer {
+		display: none !important;
+	}
+	body {
+		color: black !important;
+	}
+	a:link,
+	a:visited {
+		color: black !important;
+		text-decoration: none !important;
+	}
+}

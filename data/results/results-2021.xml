@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Division 2, Local Home Counties" flags="Intermediate">
+<fixture>
+<date>2020-10-03</date>
+<opposition>Canterbury City</opposition>
+<location>Away</location>
+<competition>L-HC</competition>
+<result>9 - 18</result>
+</fixture>
+<fixture>
+<date>2020-10-10</date>
+<pitch>3G</pitch>
+<opposition>Canterbury City</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>5 - 3</result>
+</fixture>
+<fixture>
+<date>2020-10-17</date>
+<opposition>Cheltenham</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>Postponed</result>
+</fixture>
+<fixture>
+<date>2020-10-24</date>
+<time>12:00pm</time>
+<pitch>3G</pitch>
+<opposition>Walcountian Blues</opposition>
+<location>Home</location>
+<competition>L-HC</competition>
+<result>2 - 11</result>
+</fixture>
+<fixture>
+<date>2020-10-31</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>6 - 10</result>
+</fixture>
+<fixture>
+<date>2020-11-07</date>
+<pitch>3G</pitch>
+<opposition>Bath</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>Postponed</result>
+<comment>COVID, to 5/6</comment>
+</fixture>
+<fixture>
+<date>2020-11-21</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Away</location>
+<competition>L-HC</competition>
+<result>Postponed</result>
+<comment>COVID, to 5/12</comment>
+</fixture>
+<fixture>
+<date>2020-11-28</date>
+<pitch>3G</pitch>
+<opposition>Bristol Bombers</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>Cancelled</result>
+<comment>COVID</comment>
+</fixture>
+<fixture>
+<date>2020-12-05</date>
+<opposition>Spencer</opposition>
+<location>Away</location>
+<competition>Snr Flags R16</competition>
+<result>Cancelled</result>
+<comment>COVID</comment>
+</fixture>
+<fixture>
+<date>2020-12-05</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Away</location>
+<competition>L-HC</competition>
+<comment>From 21/11</comment>
+<result>2 - 7</result>
+</fixture>
+<fixture>
+<date>2021-01-09</date>
+<pitch>3G</pitch>
+<opposition>Hitchin A</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>Postponed</result>
+<comment>COVID, to 22/5</comment>
+</fixture>
+<fixture>
+<date>2021-01-16</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Home</location>
+<competition>L-HC</competition>
+</fixture>
+<fixture>
+<date>2021-01-30</date>
+<opposition>Walcountian Blues</opposition>
+<location>Away</location>
+<competition>L-HC</competition>
+<result>Postponed</result>
+<comment>COVID, to 17/4</comment>
+</fixture>
+<fixture>
+<date>2021-02-06</date>
+<opposition>Canterbury City</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>Cancelled</result>
+<comment>COVID</comment>
+</fixture>
+<fixture>
+<date>2021-02-13</date>
+<pitch>3G</pitch>
+<opposition>Cheltenham</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>Cancelled</result>
+<comment>COVID</comment>
+</fixture>
+<fixture>
+<date>2021-02-20</date>
+<pitch>3G</pitch>
+<opposition>Canterbury City</opposition>
+<location>Home</location>
+<competition>L-HC</competition>
+<result>Postponed</result>
+<comment>COVID, to 10/4</comment>
+</fixture>
+<fixture>
+<date>2021-02-27</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>Cancelled</result>
+<comment>COVID</comment>
+</fixture>
+<fixture>
+<date>2021-03-13</date>
+<opposition>Bath</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>Cancelled</result>
+<comment>COVID</comment>
+</fixture>
+<fixture>
+<date>2021-03-27</date>
+<opposition>Bristol Bombers</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>Cancelled</result>
+<comment>COVID</comment>
+</fixture>
+<fixture>
+<date>2021-04-10</date>
+<pitch>3G</pitch>
+<opposition>Canterbury City</opposition>
+<location>Home</location>
+<competition>L-HC</competition>
+<result>7 - 6</result>
+</fixture>
+<fixture>
+<date>2021-04-17</date>
+<opposition>Hitchin A</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>Cancelled</result>
+<comment>COVID</comment>
+</fixture>
+<fixture>
+<date>2021-04-17</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Home</location>
+<competition>L-HC</competition>
+<result>Postponed</result>
+<comment>To 8 May at EG</comment>
+</fixture>
+<fixture>
+<date>2021-04-24</date>
+<opposition>Walcountian Blues</opposition>
+<location>Away</location>
+<competition>L-HC</competition>
+</fixture>
+<fixture>
+<date>2021-05-08</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Away</location>
+<competition>L-HC</competition>
+<comment>Rearranged from home game on 17 May</comment>
+<result>1 - 14</result>
+</fixture>
+<fixture>
+<date>2021-05-22</date>
+<pitch>3G</pitch>
+<opposition>Hitchin A</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>7 - 11</result>
+</fixture>
+<fixture>
+<date>2021-06-05</date>
+<pitch>3G</pitch>
+<opposition>Bath</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>Void</result>
+</fixture>
+<fixture>
+<date>2021-06-12</date>
+<pitch>3G</pitch>
+<opposition>Bristol Bombers</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>6 - 14</result>
+</fixture>
+</fixtures>

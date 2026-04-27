@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Division 2, Local Home Counties D1" flags="Intermediate">
+<fixture>
+<date>2018-09-15</date>
+<opposition>Old Purley</opposition>
+<location>Home</location>
+<competition>Friendly</competition>
+</fixture>
+<fixture>
+<date>2018-09-22</date>
+<opposition>Spencer</opposition>
+<location>Away</location>
+<competition>Snr Flags R16</competition>
+<result>Conceded</result>
+</fixture>
+<fixture>
+<date>2018-09-29</date>
+<pitch>3G</pitch>
+<opposition>Cheltenham</opposition>
+<location>Home</location>
+<competition>Div2</competition>
+<result>9 - 9</result>
+</fixture>
+<fixture>
+<date>2018-10-06</date>
+<opposition>Spencer 3</opposition>
+<location>Away</location>
+<competition>Div2</competition>
+<result>6 - 4</result>
+</fixture>
+<fixture>
+<date>2018-10-13</date>
+<opposition>Walcountian Blues</opposition>
+<location>Away</location>
+<competition>L-HC1</competition>
+<result>3 - 16</result>
+</fixture>
+<fixture>
+<date>2018-10-20</date>
+<pitch>3G</pitch>
+<opposition>Epsom</opposition>
+<location>Home</location>
+<competition>L-HC1</competition>
+<result>5 - 7</result>
+</fixture>
+<fixture>
+<date>2018-10-27</date>
+<pitch>3G</pitch>
+<time>1:00pm</time>
+<opposition>Brighton Panthers</opposition>
+<location>Away</location>
+<competition>Int Flags R32</competition>
+<result>Postponed</result>
+<comment>Rearranged to 18 Nov</comment>
+</fixture>
+<fixture>
+<date>2018-11-03</date>
+<pitch>3G</pitch>
+<opposition>Epsom</opposition>
+<location>Home</location>
+<competition>Div2</competition>
+<result>9 - 2</result>
+</fixture>
+<fixture>
+<date>2018-11-17</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Away</location>
+<competition>L-HC1</competition>
+<result>0 - 14</result>
+</fixture>
+<fixture>
+<date>2018-11-18</date>
+<pitch>3G</pitch>
+<time>1:00pm</time>
+<opposition>Brighton Panthers</opposition>
+<location>Away</location>
+<competition>Int Flags R32</competition>
+<result>10 - 0 w/o</result>
+</fixture>
+<fixture>
+<date>2018-11-24</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Home</location>
+<competition>L-HC1</competition>
+<result>0 - 10 w/o</result>
+</fixture>
+<fixture>
+<date>2018-12-01</date>
+<pitch>3G</pitch>
+<opposition>Hillcroft B</opposition>
+<location>Home</location>
+<competition>Div2</competition>
+<result>14 - 5</result>
+</fixture>
+<fixture>
+<date>2018-12-08</date>
+<opposition>Oxford Uni</opposition>
+<location>Away</location>
+<competition>Div2</competition>
+<result>Postponed</result>
+<comment>Waterlogged pitch</comment>
+</fixture>
+<fixture>
+<date>2018-12-15</date>
+<opposition>Hillcroft B</opposition>
+<location>Away</location>
+<competition>Int Flags R16</competition>
+<result>7 - 5</result>
+</fixture>
+<fixture>
+<date>2019-01-05</date>
+<opposition>Cheltenham</opposition>
+<location>Away</location>
+<competition>Div2</competition>
+<result>3 - 7</result>
+</fixture>
+<fixture>
+<date>2019-01-12</date>
+<opposition>Epsom</opposition>
+<location>Away</location>
+<competition>L-HC1</competition>
+<result>10 - 7</result>
+</fixture>
+<fixture>
+<date>2019-01-19</date>
+<pitch>3G</pitch>
+<opposition>Walcountian Blues</opposition>
+<location>Home</location>
+<competition>L-HC1</competition>
+<result>5 - 12</result>
+</fixture>
+<fixture>
+<date>2019-01-26</date>
+<pitch>3G</pitch>
+<opposition>Spencer 3</opposition>
+<location>Home</location>
+<competition>Div2</competition>
+<result>7 - 11</result>
+</fixture>
+<fixture>
+<date>2019-02-09</date>
+<time>1/3pm</time>
+<pitch>3G</pitch>
+<opposition>Hillcroft B</opposition>
+<location>Away</location>
+<competition>Div2</competition>
+<result>2 - 15</result>
+</fixture>
+<fixture>
+<date>2019-02-16</date>
+<opposition>Epsom</opposition>
+<location>Away</location>
+<competition>Div2</competition>
+<result>7 - 13</result>
+</fixture>
+<fixture>
+<date>2019-03-09</date>
+<pitch>3G</pitch>
+<opposition>Oxford Uni</opposition>
+<location>Home</location>
+<competition>Div2</competition>
+<result>4 - 5</result>
+</fixture>
+<fixture>
+<date>2019-03-16</date>
+<opposition>Oxford Uni</opposition>
+<location>Away</location>
+<competition>Int Flags QF</competition>
+<result>3 - 14</result>
+</fixture>
+<fixture>
+<date>2019-04-13</date>
+<opposition>Bath</opposition>
+<location>Away</location>
+<competition>Div2</competition>
+<result>5 - 0</result>
+<comment>Double points</comment>
+</fixture>
+</fixtures>

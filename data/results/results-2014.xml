@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Premier Division" flags="Senior">
+  <fixture>
+    <date>2013-09-07</date>
+    <time>10:30am</time>
+    <location>Bath</location>
+    <competition>Bath 8s</competition>
+    <result>Runners-up</result>
+    <page href="/2014/bath-8s-report-7-sep"/>
+  </fixture>
+  <fixture>
+    <date>2013-09-14</date>
+    <opposition>Maidstone</opposition>
+    <location>Away</location>
+    <competition>Friendly</competition>
+    <result>13 - 4</result>
+    <!--
+2-1 JB(HP),GF
+4-2 JB,JB(HP)
+7-4 34-Maidsne player,AH,HP
+13-4 GF(HP),HP,HP,JB,AB,Tom
+<p class="small">Goal: Dave Slaughter; Defence: Andy Booth (1), Dave Copple; Midfield: Sam Baranowski, Andy Fernando, Guy Francis (2), Alex Hustler (1), A.N.Other (1); Attack: Justin Baranowski (4), Harrison Parr (3,3A), Tom (1)
+<br/>Ref: Joe Burnett</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2013-09-21</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Friendly</competition>
+    <result>4 - 12</result>
+    <!--
+0-1
+0-3
+2-8 JB,JB (score was 2-4 at one point)
+4-12 HP,TH
+<p class="small">Goal: Jacob Thorne; Defence: Andy Booth, Dave Copple, Dave Slaughter; Midfield: Sam Baranowski, Mike Barrett, Tom Brunner, Ben Colville, Tom Hatton (1), Chase Stuart; Attack: Justin Baranowski (2), Guy Francis, Harrison Parr (1)
+<br/>Referee: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-09-28</date>
+    <opposition>Northampton Town</opposition>
+    <location>Home</location>
+    <competition>Friendly</competition>
+    <result>14 - 8</result>
+    <!--
+2-1   RC,TB(33CS)
+5-6 (3-5)  HP,RC,MB
+9-7 (4-1)  MB,31DP,MB,RC
+14-8 (4-1) TB,MB(HP),RC,JB(MB),MB(RC)
+31=Damo? 33=Chase
+
+MB says he had 7 goals, so RC loses 2, MB gains 2 - maybe 2nd/4th quarter goals
+
+<p class="small">Goal: Fred Cripps, Jacob Thorne; Defence: Dave Copple, Tom Durrands, Dave Slaughter; Midfield: Tom Brunner (2), Andy Fernando, Harrison Parr (1,1A), Damien Powell (1), Chase Stuart (1A); Attack: Justin Baranowski (1), Mike Barrett (7,1A), Rob Clark (2,1A)
+<br/>Referee: Justin Baranowski, Mike Barrett, Andy Fernando, Dave Slaughter</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2013-10-05</date>
+    <time>12:30pm</time>
+    <opposition>East Grinstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>3 - 7</result>
+    <!--
+1-1 GF
+4-2 RC
+6-2
+7-3 RC
+<p class="small">Goal: Fred Cripps; Defence: Andy Booth, Dave Copple, Dave Slaughter; Midfield: Sam Baranowski, Mike Barrett, Tom Brunner, Harrison Parr; Attack: Justin Baranowski, Rob Clark (2), Guy Francis (1)
+<br/>Referee: EG</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2013-10-12</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>7 - 9</result>
+    <!--
+3-1 MB, MP(CS),JB(MB)
+3-6
+5-8 RC,MP
+7-9 MJ,CS
+<p class="small">Goal: Jacob Thorne; Defence: Andy Booth, Dave Copple, Dave Slaughter, James; Midfield: Mike Barrett (1,1A), Tom Brunner, Rob Clark (1), Andy Fernando, Harrison Parr, Chase Stuart (1,1A); Attack: Justin Baranowski (1), Mylo Johnstone (1), Matt Payne (2)
+<br/>Referee: Justin Baranowski, Dave Slaughter</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-10-19</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 14</result>
+    <!--
+1-4  MP
+1-7
+3-11  JB,HP
+5-14  MP,JB
+<p class="small">Goal: Fred Cripps; Defence: Andy Booth, Dave Copple, Dave Slaughter, James; Midfield: Sam Baranowski, Mike Barrett, Tom Brunner, Tom Durrands, Guy Francis, Mylo Johnstone, Harrison Parr (1), Damien Powell; Attack: Justin Baranowski (2), Rob Clark, Matt Payne (2)
+<br/>Referee: Simon Peach, Hillcroft</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-10-26</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>Postponed until 8 Mar</result>
+  </fixture>
+  <fixture>
+    <date>2013-11-02</date>
+    <opposition>Bristol Bombers</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>9 - 11</result>
+    <!--
+by Q 1-3, 4-5(?), 6-7,9-11
+<p class="small">Goal: Fred Cripps; Defence: Andy Booth, Dave Copple, Dave Slaughter; Midfield: Rob Clark (1), Andy Fernando, Guy Francis, Mylo Johnstone (3), Harrison Parr (1); Attack: Justin Baranowski (1), Mike Barrett (1), Matt Payne (2)
+<br/>Referee: John Hubbard</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2013-11-09</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>1 - 19</result>
+    <!--
+<p class="small">Goal: Jacob Thorne; Defence: Andy Booth, Dave Copple, Dave Slaughter; Midfield: Andy Fernando, Mylo Johnstone, Harrison Parr; Attack: Justin Baranowski, Mike Barrett, Rob Clark (1)
+<br/>Referee: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-11-16</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Snr Flags R2</competition>
+    <result>4 - 16</result>
+    <!--
+<p class="small">Goal: Liam Rawlings; Defence: Andy Booth, Dave Copple, Dave Slaughter; Midfield: Mike Barrett, Ben Colville, Andy Fernando, Guy Francis, Mylo Johnstone (1), Harrison Parr (2); Attack: Justin Baranowski, Rob Clark (1), Matt Payne
+<br/>Referee: Peter Compton</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2013-11-23</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>1 - 14</result>
+    <!--
+<p class="small">Goal: Liam Rawlings; Defence: Andy Booth, Dave Copple, Dave Slaughter; Midfield: Mike Barrett, Rob Clark, Andy Fernando, Guy Francis, Harrison Parr; Attack: Justin Baranowski, Matt Payne (1), Jamie Tasko
+<br/>Referee: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-11-30</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>8 - 17</result>
+    <!--
+<p class="small">Goal: Liam Rawlings; Defence: Andy Booth, Brian Buskard, Dave Copple, Dave Hudson, Dave Slaughter; Midfield: Tom Brunner, Ben Colville (1), Mylo Johnstone, Harrison Parr (2); Attack: Justin Baranowski (3), Rob Clark (1), Matt Payne (1), Jamie Tasko
+<br/>Referee: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-12-07</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>8 - 18</result>
+    <!--
+<p class="small">Goal: Dill; Defence: Dave Copple, Dave Slaughter, Pinky, Stripes; Midfield: Rob Clark, Andy Fernando, Tom Hatton (2), Harrison Parr (3); Attack: Justin Baranowski, Andy Booth (1), Mylo Johnstone (2)
+<br/>Referee: Trevor Rogers</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2014-01-04</date>
+    <opposition>East Grinstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2014-01-11</date>
+    <time>1:00pm</time>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>7 - 8</result>
+    <!--
+4-0 HP,LJ,LJ,HP   5-1 LJ   5-4   7-8 MP,JB
+<p class="small">Goal: Dave Slaughter; Defence: Andy Booth, Dave Copple, Charles; Midfield: Mike Barrett, Rob Clark, Andy Fernando, Mylo Johnstone, Harrison Parr (2); Attack: Justin Baranowski (1), Luke Johnstone (3), Jack Murray, Matt Payne (1)
+<br/>Referee: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2014-01-18</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2014-01-25</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2014-02-08</date>
+    <time>1:00pm</time>
+    <opposition>Bristol Bombers</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 7</result>
+    <!--
+0-2, 2-4 MP HP, 5-7 JB TH MP, 5-7
+<p class="small">Goal: Jacob Thorne; Defence: Andy Booth, Dave Copple, Dave Slaughter, Stripes; Midfield: Andy Fernando, Tom Hatton (1), Mylo Johnstone, Harrison Parr (1); Attack: Justin Baranowski (1), Mike Barrett, Matt Payne (2)
+<br/>Referee: Miles Whittle</p>
+
+-->
+  </fixture>
+  <fixture>
+    <date>2014-02-15</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2014-02-22</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>7 - 18</result>
+    <!--
+<p class="small">Goal: Jacob Thorne; Defence: Andy Booth, Dave Copple, Dave Hudson, Dave Slaughter, Stripes; Midfield: Mike Barrett (1), Rob Clark (1), Andy Fernando, Tom Hatton (2), Mylo Johnstone (1); Attack: Justin Baranowski, Matt Payne (2), Jamie Tasko
+<br/>Referee: Gregg Irwin</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2014-03-08</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <comment>Double points</comment>
+    <result>8 - 16</result>
+    <!--
+0-3, 1-7 MB,   4-11 RC,RC,MB,   8-16 MB,HP,MB,HP
+<p class="small">Goal: Dave Slaughter; Defence: Justin Baranowski, Andy Booth, Dave Copple; Midfield: Rob Clark (2), Andy Fernando, Mylo Johnstone; Attack: Mike Barrett (4), Harrison Parr (2), Jamie Tasko
+<br/>Referee: Ray Harry</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2014-03-15</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>5 - 11</result>
+    <!--
+1-2 HP, 3-4 MP,HP 4-6 TH, 5-11 TH
+<p class="small">Goal: Dave Slaughter; Defence: Justin Baranowski, Andy Booth, Dave Copple, Stripes; Midfield: Ben Colville, Andy Fernando, Tom Hatton (2), Harrison Parr (2), Kane; Attack: Mike Barrett, Matt Payne (1), Jamie Tasko
+<br/>Referee: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2014-03-22</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>16 - 14</result>
+    <!--
+<p class="small">Goal: Dave Slaughter; Defence: Andy Booth, Dave Copple, Pinky; Midfield: Rob Clark (1), Ben Colville, Andy Fernando, Tom Hatton (2), Mylo Johnstone (2), Harrison Parr (5), Charlie Scott; Attack: Justin Baranowski (2), Mike Barrett (2), Adam (2)
+<br/>Referee: Welwyn</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2014-04-05</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>6 - 9</result>
+    <!--
+<p class="small">Goal: Dave Slaughter; Defence: Andy Booth, Dave Copple; Midfield: Ben Colville (2), Andy Fernando, Harrison Parr (1), Rasmus; Attack: Justin Baranowski (1), Matt Payne, Charlie Scott (2)
+<br/>Referee: John Hubbard</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2014-04-12</date>
+    <time>1:00pm</time>
+    <opposition>East Grinstead</opposition>
+    <location>Reading</location>
+    <competition>Prem</competition>
+    <result>7 - 6</result>
+    <!--
+1-2 TH; 3-3 MP,TH; 4-6 MB; 7-6 HP,MB,MP
+<p class="small">Goal: Jacob Thorne; Defence: Andy Booth, Dave Copple, Charles; Midfield: Mike Barrett (2), Billy Camuso, Rob Clark, Ben Colville, Andy Fernando, Tom Hatton (2), Harrison Parr (1); Attack: Justin Baranowski, Matt Payne (2), Adam
+<br/>Referee: Steve Jarvis, Trevor Rogers, James Kellam; CBO: John Hubbard</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2014-06-21</date>
+    <time>10:30am</time>
+    <competition>Bluesfest</competition>
+    <location>Walcountians</location>
+    <result>5th</result>
+  </fixture>
+  <fixture>
+    <date>2014-06-22</date>
+    <time>10:30am</time>
+    <competition>Bluesfest</competition>
+    <location>Walcountians</location>
+    <result>5th</result>
+  </fixture>
+  <fixture>
+    <date>2014-07-05</date>
+    <time>10:00am</time>
+    <competition>Purley Sixes</competition>
+    <location>Home</location>
+    <result>Won</result>
+  </fixture>
+</fixtures>

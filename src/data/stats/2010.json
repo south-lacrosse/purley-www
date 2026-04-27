@@ -1,0 +1,209 @@
+{
+	"season": "2009/10",
+	"players": [
+		{
+			"name": "Paul Terry",
+			"position": "G",
+			"squadNumber": "1",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 }
+			]
+		},
+		{
+			"name": "Mike Barrett",
+			"position": "M/FO",
+			"squadNumber": "2",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 33 },
+				{ "slug": "flags", "apps": 2, "goals": 3 }
+			]
+		},
+		{
+			"name": "Andy Booth",
+			"position": "D",
+			"squadNumber": "3",
+			"stats": [
+				{ "slug": "league", "apps": 16, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dean Searle",
+			"position": "D",
+			"squadNumber": "4",
+			"stats": [
+				{ "slug": "league", "apps": 6, "goals": 1 },
+				{ "slug": "flags", "apps": 2, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Copple",
+			"position": "D",
+			"squadNumber": "6",
+			"stats": [
+				{ "slug": "league", "apps": 12, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Matt Payne",
+			"position": "A",
+			"squadNumber": "7",
+			"stats": [
+				{ "slug": "league", "apps": 11, "goals": 12 },
+				{ "slug": "flags", "apps": 2, "goals": 1 }
+			]
+		},
+		{
+			"name": "Andy Fernando",
+			"position": "D/M",
+			"squadNumber": "11",
+			"stats": [
+				{ "slug": "league", "apps": 14, "goals": 1 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Hudson",
+			"position": "D/LSM",
+			"squadNumber": "12",
+			"stats": [
+				{ "slug": "league", "apps": 16, "goals": 1 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "James Griffiths",
+			"position": "M",
+			"squadNumber": "13",
+			"stats": [
+				{ "slug": "league", "apps": 13, "goals": 3 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Andy Davies",
+			"position": "A",
+			"squadNumber": "14",
+			"stats": [
+				{ "slug": "league", "apps": 16, "goals": 1 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Bennett",
+			"position": "M",
+			"squadNumber": "15",
+			"stats": [
+				{ "slug": "league", "apps": 17, "goals": 50 },
+				{ "slug": "flags", "apps": 2, "goals": 3 },
+				{ "slug": "friendly", "apps": 1, "goals": 3 }
+			]
+		},
+		{
+			"name": "Guy Francis",
+			"position": "M",
+			"squadNumber": "16",
+			"stats": [
+				{ "slug": "league", "apps": 6, "goals": 1 },
+				{ "slug": "flags", "apps": 1, "goals": 1 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Jesse O'Hanley",
+			"position": "A",
+			"squadNumber": "17",
+			"stats": [
+				{ "slug": "league", "apps": 4, "goals": 5 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Cluney",
+			"position": "M",
+			"squadNumber": "21",
+			"stats": [
+				{ "slug": "league", "apps": 17, "goals": 15 },
+				{ "slug": "flags", "apps": 2, "goals": 1 },
+				{ "slug": "friendly", "apps": 1, "goals": 4 }
+			]
+		},
+		{
+			"name": "Jamie Tasko",
+			"position": "A",
+			"squadNumber": "22",
+			"stats": [
+				{ "slug": "league", "apps": 16, "goals": 37 },
+				{ "slug": "flags", "apps": 2, "goals": 1 }
+			]
+		},
+		{
+			"name": "Dan Afoke",
+			"position": "M",
+			"squadNumber": "24",
+			"stats": [
+				{ "slug": "league", "apps": 5, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 1 }
+			]
+		},
+		{
+			"name": "Rob Clark",
+			"position": "M/FO",
+			"squadNumber": "25",
+			"stats": [
+				{ "slug": "league", "apps": 17, "goals": 16 },
+				{ "slug": "flags", "apps": 2, "goals": 2 },
+				{ "slug": "friendly", "apps": 1, "goals": 2 }
+			]
+		},
+		{
+			"name": "Hamish Dickson",
+			"position": "D",
+			"squadNumber": "27",
+			"stats": [
+				{ "slug": "league", "apps": 16, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Slaughter",
+			"position": "D",
+			"squadNumber": "28",
+			"stats": [
+				{ "slug": "league", "apps": 16, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Wes Wilkinson",
+			"position": "A",
+			"stats": [
+				{ "slug": "league", "apps": 4, "goals": 1 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Ed Thompson",
+			"position": "M",
+			"stats": [
+				{ "slug": "league", "apps": 3, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Hicky",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		}
+	]
+}

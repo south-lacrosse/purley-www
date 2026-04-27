@@ -1,0 +1,53 @@
+---
+/**
+ * Display related entries. Show entries for same category, or for match reports
+ * category/folder (the folder should be the year).
+ */
+import type { CollectionEntry } from 'astro:content';
+import { getRelatedEntries } from '~/archives';
+
+interface Props {
+	category: NonNullable<CollectionEntry<'archives'>['data']['category']>;
+	id: string;
+}
+
+const { category, id } = Astro.props;
+
+const relatedEntries = getRelatedEntries(category, id);
+let heading;
+switch (category) {
+	case 'match-report':
+		heading = "Season's Match Reports";
+		break;
+	case 'results':
+		heading = "Other Season's Results";
+		break;
+	case 'stats':
+		heading = "Other Season's Statistics";
+		break;
+}
+---
+
+{
+	relatedEntries.length > 0 && (
+		<nav slot="related" class="related-nav" aria-label="Secondary">
+			<h2 class="related-heading">{heading}</h2>
+			<ul class="related-ul">
+				{category === 'match-report' && (
+					<li>
+						<a class="related-link" href="results">
+							Results
+						</a>
+					</li>
+				)}
+				{relatedEntries.map((entry) => (
+					<li>
+						<a class="related-link" href={'/' + entry.id}>
+							{entry.data.titleShort ? entry.data.titleShort : entry.data.title}
+						</a>
+					</li>
+				))}
+			</ul>
+		</nav>
+	)
+}

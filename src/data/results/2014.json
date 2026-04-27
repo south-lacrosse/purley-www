@@ -1,0 +1,211 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2013-09-07",
+			"location": "Bath",
+			"competition": "Bath 8s",
+			"result": "Runners-up",
+			"report": "bath-8s-report-7-sep"
+		},
+		{
+			"date": "2013-09-14",
+			"opposition": "Maidstone",
+			"location": "Away",
+			"competition": "Friendly",
+			"result": "13 - 4"
+		},
+		{
+			"date": "2013-09-21",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "4 - 12"
+		},
+		{
+			"date": "2013-09-28",
+			"opposition": "Northampton Town",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "14 - 8"
+		},
+		{
+			"date": "2013-10-05",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "3 - 7"
+		},
+		{
+			"date": "2013-10-12",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "7 - 9"
+		},
+		{
+			"date": "2013-10-19",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 14"
+		},
+		{
+			"date": "2013-10-26",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "Postponed until 8 Mar"
+		},
+		{
+			"date": "2013-11-02",
+			"opposition": "Bristol Bombers",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "9 - 11"
+		},
+		{
+			"date": "2013-11-09",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "1 - 19"
+		},
+		{
+			"date": "2013-11-16",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Snr Flags R2",
+			"result": "4 - 16"
+		},
+		{
+			"date": "2013-11-23",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "1 - 14"
+		},
+		{
+			"date": "2013-11-30",
+			"opposition": "Welwyn Warriors",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "8 - 17"
+		},
+		{
+			"date": "2013-12-07",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "8 - 18"
+		},
+		{
+			"date": "2014-01-04",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2014-01-11",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "7 - 8"
+		},
+		{
+			"date": "2014-01-18",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2014-01-25",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2014-02-08",
+			"opposition": "Bristol Bombers",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 7"
+		},
+		{
+			"date": "2014-02-15",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2014-02-22",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "7 - 18"
+		},
+		{
+			"date": "2014-03-08",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"comment": "Double points",
+			"result": "8 - 16"
+		},
+		{
+			"date": "2014-03-15",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "5 - 11"
+		},
+		{
+			"date": "2014-03-22",
+			"opposition": "Welwyn Warriors",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "16 - 14"
+		},
+		{
+			"date": "2014-04-05",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "6 - 9"
+		},
+		{
+			"date": "2014-04-12",
+			"opposition": "East Grinstead",
+			"location": "Reading",
+			"competition": "Prem",
+			"result": "7 - 6"
+		},
+		{
+			"date": "2014-06-21",
+			"competition": "Bluesfest",
+			"location": "Walcountians",
+			"result": "5th"
+		},
+		{
+			"date": "2014-06-22",
+			"competition": "Bluesfest",
+			"location": "Walcountians",
+			"result": "5th"
+		},
+		{
+			"date": "2014-07-05",
+			"competition": "Purley Sixes",
+			"location": "Home",
+			"result": "Won"
+		}
+	]
+}

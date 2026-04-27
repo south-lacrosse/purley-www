@@ -1,0 +1,234 @@
+{
+	"season": "2015/16",
+	"refGames": true,
+	"players": [
+		{
+			"name": "Dave Baldwin",
+			"position": "M/FO",
+			"squadNumber": "17",
+			"stats": [
+				{ "slug": "league", "apps": 6, "goals": 3 },
+				{ "slug": "friendly", "apps": 2, "goals": 3 }
+			]
+		},
+		{
+			"name": "Justin Baranowski",
+			"position": "A",
+			"squadNumber": "5",
+			"stats": [
+				{ "slug": "league", "apps": 4, "goals": 3 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			],
+			"ref": "1 (1Q)"
+		},
+		{
+			"name": "Andy Booth",
+			"position": "D",
+			"squadNumber": "3",
+			"stats": [
+				{ "slug": "league", "apps": 6, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 0 }
+			],
+			"ref": "1"
+		},
+		{
+			"name": "Felix Bull",
+			"position": "D",
+			"squadNumber": "24",
+			"stats": [
+				{ "slug": "league", "apps": 10, "goals": 2 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 0 }
+			]
+		},
+		{
+			"name": "Rob Clark",
+			"position": "A",
+			"squadNumber": "26",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 0 }]
+		},
+		{
+			"name": "Ben Colville",
+			"position": "M",
+			"stats": [{ "slug": "friendly", "apps": 1, "goals": 1 }]
+		},
+		{
+			"name": "Dave Copple",
+			"position": "D",
+			"squadNumber": "6",
+			"stats": [
+				{ "slug": "league", "apps": 5, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Andy Fernando",
+			"position": "M/FO",
+			"squadNumber": "11",
+			"stats": [
+				{ "slug": "league", "apps": 9, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 0 }
+			],
+			"ref": "1 (1Q)"
+		},
+		{
+			"name": "Elliot Fry",
+			"position": "D",
+			"squadNumber": "13",
+			"stats": [{ "slug": "league", "apps": 11, "goals": 0 }]
+		},
+		{
+			"name": "Alex Griffiths",
+			"position": "M",
+			"stats": [
+				{ "slug": "league", "apps": 10, "goals": 1 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Jussi Grut",
+			"position": "M",
+			"stats": [
+				{ "slug": "league", "apps": 3, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Tom Hatton",
+			"position": "M",
+			"squadNumber": "21",
+			"stats": [
+				{ "slug": "league", "apps": 9, "goals": 3 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 5 }
+			]
+		},
+		{
+			"name": "James Keal",
+			"position": "M",
+			"squadNumber": "14",
+			"stats": [
+				{ "slug": "league", "apps": 6, "goals": 2 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dara McCreary",
+			"position": "D",
+			"squadNumber": "12",
+			"stats": [
+				{ "slug": "league", "apps": 10, "goals": 1 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dan Murphy",
+			"position": "G",
+			"squadNumber": "00",
+			"stats": [
+				{ "slug": "league", "apps": 5, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 0 }
+			]
+		},
+		{
+			"name": "Darren Novell",
+			"position": "A",
+			"squadNumber": "10",
+			"stats": [
+				{ "slug": "league", "apps": 8, "goals": 2 },
+				{ "slug": "friendly", "apps": 1, "goals": 1 }
+			]
+		},
+		{
+			"name": "Matt Payne",
+			"position": "A",
+			"squadNumber": "7",
+			"stats": [
+				{ "slug": "league", "apps": 3, "goals": 7 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Matt Porter",
+			"position": "D",
+			"squadNumber": "15",
+			"stats": [
+				{ "slug": "league", "apps": 3, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Eliot Pugh",
+			"position": "G",
+			"stats": [{ "slug": "league", "apps": 8, "goals": 0 }]
+		},
+		{
+			"name": "Dave Slaughter",
+			"position": "D",
+			"squadNumber": "28",
+			"stats": [
+				{ "slug": "league", "apps": 9, "goals": 1 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 0 }
+			],
+			"ref": "3 (10Qs)"
+		},
+		{
+			"name": "Chase Stuart",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Kaspars 'Stripes' Veips",
+			"position": "D",
+			"squadNumber": "19",
+			"stats": [
+				{ "slug": "league", "apps": 8, "goals": 8 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Eliot Wilde",
+			"position": "D",
+			"squadNumber": "4",
+			"stats": [
+				{ "slug": "league", "apps": 10, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dan",
+			"position": "0",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 2 }]
+		},
+		{
+			"name": "Jimmy",
+			"position": "0",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 3 }]
+		},
+		{
+			"name": "Phil",
+			"position": "0",
+			"stats": [{ "slug": "league", "apps": 2, "goals": 0 }]
+		},
+		{
+			"name": "Jeremy Lee",
+			"position": "0",
+			"stats": [{ "slug": "league", "apps": 4, "goals": 9 }]
+		},
+		{
+			"name": "A.N.Other",
+			"position": "",
+			"stats": [
+				{ "slug": "league", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 1 }
+			]
+		}
+	]
+}

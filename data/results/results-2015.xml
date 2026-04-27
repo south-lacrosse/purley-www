@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Premier Division" flags="Senior">
+  <fixture>
+    <date>2014-09-06</date>
+    <time>10:30am</time>
+    <location>Bath</location>
+    <competition>Bath 8s</competition>
+  </fixture>
+  <fixture>
+    <date>2014-09-27</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Friendly</competition>
+  </fixture>
+  <fixture>
+    <date>2014-10-04</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>4 - 24</result>
+    <!--
+Matt(Harrison), Rob(Copple), Rob(Daisy), Mylo
+<p class="small">Goal: Mat O'Leary; Defence: Andy Booth, Dave Copple (1A), Dave Hudson, Kaspars 'Stripes' Veips; Midfield: Kyle Craig, Steve Dickens, Tom Hatton (1A), Harrison Parr (1A); Attack: Rob Clark (2), Mylo Johnstone (1), Matt Payne (1)
+<br/>Referee: Hazel Wisbey</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2014-10-11</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>5 - 10</result>
+  </fixture>
+  <fixture>
+    <date>2014-10-18</date>
+    <time>1:00pm</time>
+    <opposition>Bristol Bombers</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 12</result>
+  </fixture>
+  <fixture>
+    <date>2014-10-25</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>4 - 7</result>
+  </fixture>
+  <fixture>
+    <date>2014-11-01</date>
+    <time>1:00pm</time>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>8 - 15</result>
+  </fixture>
+  <fixture>
+    <date>2014-11-08</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>6 - 9</result>
+  </fixture>
+  <fixture>
+    <date>2014-11-15</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Snr Flags R2</competition>
+    <result>6 - 14</result>
+  </fixture>
+  <fixture>
+    <date>2014-11-22</date>
+    <opposition>East Grinstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>4 - 6</result>
+  </fixture>
+  <fixture>
+    <date>2014-11-29</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>8 - 4</result>
+  </fixture>
+  <fixture>
+    <date>2014-12-06</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>1 - 20</result>
+  </fixture>
+  <fixture>
+    <date>2014-12-13</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>4 - 7</result>
+  </fixture>
+  <fixture>
+    <date>2015-01-10</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>1 - 15</result>
+  </fixture>
+  <fixture>
+    <date>2015-01-17</date>
+    <opposition>Bristol Bombers</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>7 - 8</result>
+  </fixture>
+  <fixture>
+    <date>2015-01-24</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>3 - 20</result>
+  </fixture>
+  <fixture>
+    <date>2015-02-07</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>10 - 0</result>
+  </fixture>
+  <fixture>
+    <date>2015-02-14</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 8</result>
+  </fixture>
+  <fixture>
+    <date>2015-02-21</date>
+    <opposition>East Grinstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>3 - 9</result>
+  </fixture>
+  <fixture>
+    <date>2015-03-14</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>3 - 12</result>
+  </fixture>
+  <fixture>
+    <date>2015-03-21</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>15 - 10</result>
+  </fixture>
+  <fixture>
+    <date>2015-04-25</date>
+    <competition>Sixes</competition>
+    <location>Reading</location>
+  </fixture>
+  <fixture>
+    <date>2015-05-02</date>
+    <opposition>Maidstone</opposition>
+    <location>Hillcroft</location>
+    <competition>Loser of East v West playoff vs 9th Premier team</competition>
+    <result>10 - 7</result>
+    <page href="/2015/maidstone-playoff-report"/>
+  </fixture>
+</fixtures>

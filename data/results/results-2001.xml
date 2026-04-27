@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Division 1" flags="Senior">
+  <fixture>
+    <date>2000-10-07</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <result>36 - 3</result>
+    <page href="/2001/reports" fragment="#hitchin-at-home---7-oct-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-10-14</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <result>15 - 1</result>
+    <page href="/2001/reports" fragment="#hillcroft-away---14-oct-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-10-21</date>
+    <opposition>Spencer A</opposition>
+    <location>Home</location>
+    <competition>Senior Flags R1</competition>
+    <result>36 - 1</result>
+    <page href="/2001/reports" fragment="#spencer-a-at-home-senior-flags-round-1---21-oct-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-10-28</date>
+    <opposition>Cheadle</opposition>
+    <location>Home</location>
+    <competition>Iroquois Cup/Wilkinson Sword</competition>
+    <result>9 - 12</result>
+    <page href="/2001/wilkinson"/>
+  </fixture>
+  <fixture>
+    <date>2000-11-04</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2000-11-11</date>
+    <opposition>Bath</opposition>
+    <location>Away</location>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch, combined with Flags match on 24 Nov</comment>
+  </fixture>
+  <fixture>
+    <date>2000-11-18</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <result>1 - 0</result>
+  </fixture>
+  <fixture>
+    <date>2000-11-25</date>
+    <opposition>Bath</opposition>
+    <location>Away</location>
+    <competition>Senior Flags SF &amp; League</competition>
+    <result>20 - 3</result>
+    <page href="/2001/reports" fragment="#bath-away-senior-flags-semi-final--league---25-nov-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-12-02</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2000-12-09</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <result>18 - 3</result>
+    <page href="/2001/reports" fragment="#hitchin-away---9-dec-2000"/>
+  </fixture>
+  <fixture>
+    <date>2001-01-06</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2001-01-13</date>
+    <opposition>Bath</opposition>
+    <location>Home</location>
+    <result>31 - 2</result>
+    <page href="/2001/reports" fragment="#bath-at-home---13-jan-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-01-20</date>
+    <opposition>Rochdale</opposition>
+    <location>Away</location>
+    <competition>Tour</competition>
+    <result>16 - 10</result>
+    <page href="/2001/reports" fragment="#rochdale-away-tour---20-jan-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-01-21</date>
+    <opposition>Cheadle</opposition>
+    <location>Away</location>
+    <competition>Tour</competition>
+    <result>8 - 12</result>
+    <page href="/2001/reports" fragment="#cheadle-away-tour---21-jan-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-01-27</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <result>17 - 6</result>
+    <page href="/2001/reports" fragment="#spencer-away---27-jan-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-02-03</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <result>1 - 0</result>
+  </fixture>
+  <fixture>
+    <date>2001-02-10</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2001-02-24</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <result>11 - 1</result>
+    <page href="/2001/reports" fragment="#spencer-at-home---24-feb-2001"/>
+    <comment>Double points</comment>
+  </fixture>
+  <fixture>
+    <date>2001-03-03</date>
+    <opposition>Bath</opposition>
+    <location>Away</location>
+    <result>23 - 2</result>
+    <page href="/2001/reports" fragment="#bath-away---3-mar-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-03-10</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <result>14 - 6</result>
+    <page href="/2001/reports" fragment="#hampstead-at-home---10-mar-2001"/>
+    <comment>Double points</comment>
+  </fixture>
+  <fixture>
+    <date>2001-03-17</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <result>10 - 2</result>
+    <page href="/2001/reports" fragment="#hillcroft-at-home---17-mar-2001"/>
+    <comment>Double points</comment>
+  </fixture>
+  <fixture>
+    <date>2001-03-24</date>
+    <opposition>Hitchin</opposition>
+    <location>Reading</location>
+    <competition>Senior Flags Final</competition>
+    <result>16 - 2</result>
+    <page href="/2001/flags"/>
+  </fixture>
+  <fixture>
+    <date>2001-04-21</date>
+    <competition>Six-a-Sides</competition>
+    <location>Croydon</location>
+    <result>Won</result>
+  </fixture>
+</fixtures>

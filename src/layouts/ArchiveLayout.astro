@@ -1,0 +1,47 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import { getArchivesPage } from '~/archives';
+import NextPrevLinks from '~/components/NextPrevLinks.astro';
+import Related from '~/components/Related.astro';
+import { titleDate } from '~/util/titles';
+
+interface Props {
+	data: CollectionEntry<'archives'>['data'];
+	index: number;
+}
+
+const { id } = Astro.params;
+const { data, index } = Astro.props;
+const { title, date, isApprox, author, category } = data;
+let titleTag = title; // the page title tag, i.e. what appears in the browser tab
+
+let byline = '';
+if (category === 'match-report') {
+	if (author) {
+		byline = `By ${author}`;
+	}
+	if (!isApprox) {
+		const article_date = titleDate(date);
+		if (byline) byline += ' - ';
+		byline += article_date;
+		titleTag += ` - ${article_date}`;
+	}
+}
+
+const archivesHref = '/' + getArchivesPage(index);
+---
+
+<BaseLayout title={titleTag}>
+	<nav slot="top-navigation" class="top-nav"><a href={archivesHref}>Archives</a></nav>
+	<article>
+		<header>
+			<h1 class={byline ? 'with-byline' : undefined}>{title}</h1>
+			{byline && <p class="byline">{byline}</p>}
+		</header>
+		<slot />
+	</article>
+	<NextPrevLinks index={index} slot="bottom-navigation" />
+	{category && <Related id={id!} category={category} slot="related" />}
+</BaseLayout>

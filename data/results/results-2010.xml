@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Premier Division" flags="Senior">
+  <fixture>
+    <date>2009-09-19</date>
+    <time>3:00pm</time>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Friendly</competition>
+    <result>10 - 15</result>
+    <page href="/2010/walcountian-blues-away-match-report-19-sep"/>
+  </fixture>
+  <fixture>
+    <date>2009-10-03</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>11 - 9</result>
+    <page href="/2010/hitchin-away-match-report-3-oct"/>
+  </fixture>
+  <fixture>
+    <date>2009-10-10</date>
+    <opposition>East Grinstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>9 - 6</result>
+    <page href="/2010/east-grinstead-home-match-report-10-oct"/>
+  </fixture>
+  <fixture>
+    <date>2009-10-17</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>6 - 16</result>
+    <page href="/2010/hampstead-away-match-report-17-oct"/>
+  </fixture>
+  <fixture>
+    <date>2009-10-31</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>18 - 3</result>
+    <page href="/2010/hillcroft-home-match-report-31-oct"/>
+  </fixture>
+  <fixture>
+    <date>2009-11-07</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>6 - 8</result>
+    <page href="/2010/reading-wildcats-away-match-report-7-nov"/>
+  </fixture>
+  <fixture>
+    <date>2009-11-14</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2009-11-21</date>
+    <opposition>Bath</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>14 - 9</result>
+    <page href="/2010/bath-home-match-report-21-nov"/>
+  </fixture>
+  <fixture>
+    <date>2009-11-28</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Snr Flags R1</competition>
+    <result>7 - 3</result>
+    <!--
+2-0 DB, MB
+5-1 JT,GF,MB
+7-2 DB,RC
+7-3
+<p>Goals: Dave Bennett 2, Mike Barrett 2, Jamie Tasko 1, Rob Clark 1, Guy Francis 1
+<br/>Ref: Ian Ballantine, CBO: Jeff Lee</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2009-12-05</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>9 - 16</result>
+    <!--
+   WB   P
+Q1  3   2   Bennett, Tasko  1-0,1-1,2-1,2-2,3-2
+Q2  8   4  5v2  Barrett, Cluney 4-2,4-3,5-3,6-3,6-4,7-4,8-4
+Q3 12   7  4v3  Cluney, Bennett, Bennett 9-4,9-5,10-5,11-5,12-5,12-6,12-7
+Q4 16   9  4v2  Clark, Barrett 13-7,14-7,14-8,14-9,15-9,16-9
+
+<p>Goals: Dave Bennett 3, Mike Barrett 2, Dave Cluney 2, Jamie Tasko 1, Rob Clark 1
+<br/>Ref: Rob Collinge</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2009-12-12</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Pitch unplayable</comment>
+  </fixture>
+  <fixture>
+    <date>2010-01-09</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Pitch unplayable</comment>
+  </fixture>
+  <fixture>
+    <date>2010-01-16</date>
+    <opposition>East Grinstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 11</result>
+    <!--
+   EG   P
+Q1  3   2   Payne, Gordy    1v0,2v0,2v1,2v2,3v2
+Q2  7   3   (4v1)  Tasko   3v3,4v3,5v3,6v3,7v3
+Q3  8   4   (1v1)  Gordy   7v4,8v4
+Q4  11  5   (3v1)  Tasko   9v4,10v4,10v5,11v5
+
+Goals: Jamie Tasko 2, Dave Bennett 2, Matt Payne 1
+Ref: Ian Ballantine
+-->
+  </fixture>
+  <fixture>
+    <date>2010-01-23</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>13 - 9</result>
+    <!--
+   Sp  P
+Q1  2  3     Payne,Griffiths,Tasko    1-0,1-1,1-2,1-3,2-3
+Q2  4  6  2v3  Gordy,Gordy,Gordy    3-3,3-4,4-4,4-5,4-6
+Q3  5  9  1v3  Tasko,Tasko,Payne     5-6,5-7,5-8,5-9
+Q4  9  13 4v4  Clark,Clark,Payne,Gordy  5-10,6-10,6-11,7-11,7-12,7-13,8-13,9-13
+
+Goals: Dave Bennett 4, Matt Payne 3, Jamie Tasko 3, Rob Clark 2, James Griffiths 1
+Refs: Dan Wright, Simon Peach; CBO: Rob Curtis
+-->
+    <comment>Rearranged match</comment>
+  </fixture>
+  <fixture>
+    <date>2010-01-30</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2010-02-06</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>13 - 10</result>
+    <!--
+    H  P
+Q1  4  4    Jamie,Bennett,Jamie,Jess  1-0,1-1,1-2,2-2,2-3,3-3,3-4,4-4
+Q2  6  6    2v2 Jamie,Barrett    4-5,5-5,6-5,6-6
+Q3  8  10   2v4 Jamie,Jess,Jamie,Jamie 7-6,7-7,7-8,7-9,8-9,8-10
+Q4 10  13   2v3 Jamie,Bennett,Cluney   8-10,8-11,8-12,8-13,9-13,10-13
+
+<p>Goals: Jamie Tasko 7, Jesse O'Hanley 2, Dave Bennett 2, Mike Barrett 1, Dave Cluney 1
+<br/>Refs: Jon Harrop, Rob Curtis</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2010-02-13</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem &amp; Flags SF</competition>
+    <result>5 - 13</result>
+    <!--
+    P  Hamp
+Q1  1   2              Payne    1-0,1-1,1-2
+Q2  3   6    2v4  Gordy,Cluney    1-3,2-3,3-3,3-4,3-6,3-6
+Q3  5   10   2v4  Barrett,Clark      4-6,4-7,4-8,4-9,4-10,5-10
+Q4  5   13   0v3
+<p>Goals: Matt Payne 1, Dave Bennett 1, Dave Cluney 1, Mike Barrett 1, Rob Clark 1
+<br/>Ref: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2010-02-20</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2010-02-27</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>13 - 7</result>
+    <comment>at Monks Hill</comment>
+    <!--
+    P  S
+Q1  5  1   Matt(Jamie),Griff,Gordie,Jamie(Griff),Gordie 5-0, 5-1 (late in 1/4)
+Q2  8  5  3v4  Jamie,Rob,Gordie(Jamie) 5-2,5-3,6-3,7-3,7-4??
+Q3  10 5  2v0  Matt,Jamie(Gordie)
+Q4  13 7  3v2  Billy(Gordie),Gordie(Jamie),Billy(DC)     11-5
+<p>Goals(assists): Dave Bennett 4(2), Jamie Tasko 3(3), Matt Payne 2, Mike Barrett 2, James Griffiths 1(1), Rob Clark 1, Dave Cluney (1)
+<br/>Ref: Dave Slaughter; CBO: Jeff Lee</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2010-03-06</date>
+    <opposition>Bath</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>13 - 7</result>
+    <!--
+    P  B
+Q1  4  1   Gordie x4
+Q2  8  5   Jamie,Gordie
+Q3  10 5   Jamie,Rob,DC,Rob,Rob
+Q4  13 7   Gordie x2
+<p>Goals: Dave Bennett 7, Rob Clark 3, Jamie Tasko 2, Dave Cluney 1
+<br/>Ref: Nik Roberts</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2010-03-13</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>11 - 13</result>
+    <!--
+    P  W
+Q1  2  3     Gordy,Billy
+Q2  7  6  5v3  Jamie,Rob,Billy,Rob,James
+Q3  5  9  3v0  Billy,Gordy,Jamie
+Q4  11 13  1v7 Jamie  10-10,11-10,11-11,..
+
+Goals: Jamie Tasko 3, Mike Barrett 3, Rob Clark 2, Dave Bennett 2, James Griffiths 1
+Refs: Simon Peach; CBO: Jeff Lee
+-->
+    <comment>Rearranged game</comment>
+  </fixture>
+  <fixture>
+    <date>2010-03-20</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>12 - 13</result>
+    <!--
+    P  B
+Q1  2  3   Jamie x2
+Q2  5  9  3v6  Matt,Jamie,Billy
+Q3  8  12 3v3  Billy,DC,Gordie
+Q4  12 13 4v1  Jamie,Billy,Gordie,Jamie
+<p>Goals: Jamie Tasko 5, Mike Barrett 3, Dave Bennett 2, Matt Payne 1, Dave Cluney 1
+<br/>Ref: Simon Peach; CBO: Jeff Lee</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2010-03-21</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>12 - 6</result>
+    <!--
+    P  R
+Q1  4  1   DC,Gordie,DC,Jamie
+Q2  7  1  3v0 Jamie,Gordie,Gordie
+Q3  11 2  4v1 Gordie,DC,Jamie,Billy
+Q4  12 6  1v4 DC
+<p>Goals: Dave Cluney 4, Dave Bennett 4, Jamie Tasko 2, Mike Barrett 1
+<br/>Ref: Simon Peach; CBO: Jeff Lee</p>
+ -->
+    <comment>Rearranged game at the Priory</comment>
+  </fixture>
+  <fixture>
+    <date>2010-03-27</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>8 - 12</result>
+    <!--
+    P  W
+Q1  1  1   Andy D
+Q2  5  6  4v5 Gordie,Rob,Gordie,Jamie
+Q3  8  7  3v1 Rob,Billy,Billy
+Q4  8 12  0v5
+<p>Goals: Rob Clark 2, Dave Bennett 2, Mike Barrett 2, Andy Davies 1, Jamie Tasko 1
+<br/>Ref: Hazel +1</p>
+ -->
+    <comment>Rearranged game</comment>
+  </fixture>
+  <fixture>
+    <date>2010-04-10</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>19 - 8</result>
+    <!--
+    P  H
+Q1  1  0
+Q2  5  6
+Q3  8  7
+Q4 19  8
+<p>Goals: Rob Clark 2, Dave Bennett 2, Mike Barrett 2, Andy Davies 1, Jamie Tasko 1
+<br/>Ref: Hamish Dickson/James Griffiths</p>
+ -->
+    <comment>Rearranged game, at the Priory</comment>
+  </fixture>
+  <fixture>
+    <date>2010-04-24</date>
+    <location>Walcountians</location>
+    <time>11:30am</time>
+    <competition>Six-a-sides</competition>
+  </fixture>
+</fixtures>

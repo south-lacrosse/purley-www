@@ -1,0 +1,173 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2007-09-29",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "8 - 7",
+			"report": "east-grinstead-home-match-report-29-sep"
+		},
+		{
+			"date": "2007-10-06",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "7 - 11",
+			"report": "spencer-away-match-report-6-oct"
+		},
+		{
+			"date": "2007-10-13",
+			"opposition": "Swansea Hawks",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "12 - 4",
+			"report": "swansea-hawks-away-match-report-13-oct"
+		},
+		{
+			"date": "2007-10-20",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "5 - 12",
+			"report": "hampstead-home-match-report-20-oct"
+		},
+		{
+			"date": "2007-11-03",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "15 - 5",
+			"report": "walcountian-blues-home-match-report-3-nov"
+		},
+		{
+			"date": "2007-11-10",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "17 - 2",
+			"report": "reading-wildcats-away-match-report-10-nov"
+		},
+		{
+			"date": "2007-11-17",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "20 - 1",
+			"report": "hillcroft-home-match-report-17-nov"
+		},
+		{
+			"date": "2007-11-24",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Snr Flags R1",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2007-12-01",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "16 - 0",
+			"report": "east-grinstead-away-match-report-1-dec"
+		},
+		{
+			"date": "2007-12-15",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "11 - 10"
+		},
+		{
+			"date": "2008-01-12",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2008-01-19",
+			"opposition": "Swansea Hawks",
+			"location": "Home (Ashburton School)",
+			"competition": "Prem",
+			"result": "16 - 4"
+		},
+		{
+			"date": "2008-01-26",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "8 - 17"
+		},
+		{
+			"date": "2008-02-02",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "11 - 8"
+		},
+		{
+			"date": "2008-02-09",
+			"opposition": "Reading Wildcats",
+			"location": "Home (Ashburton School)",
+			"competition": "Prem",
+			"result": "13 - 6",
+			"comment": "Sandilands waterlogged"
+		},
+		{
+			"date": "2008-02-16",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Flags SF",
+			"result": "14 - 4"
+		},
+		{
+			"date": "2008-02-23",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "19 - 2"
+		},
+		{
+			"date": "2008-03-01",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "18 - 0",
+			"report": "east-grinstead-home-match-report-1-mar"
+		},
+		{
+			"date": "2008-03-15",
+			"opposition": "Hampstead",
+			"location": "Reading",
+			"competition": "Flags Final",
+			"result": "5 - 14"
+		},
+		{
+			"date": "2008-03-22",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "19 - 11"
+		},
+		{
+			"date": "2008-03-29",
+			"opposition": "Hitchin",
+			"location": "Home (Ashburton School)",
+			"competition": "Prem",
+			"result": "13 - 11",
+			"comment": "Sandilands waterlogged",
+			"report": "hitchin-home-match-report-29-mar"
+		},
+		{
+			"date": "2008-04-19",
+			"location": "Croydon",
+			"competition": "Six-a-sides",
+			"result": "Won",
+			"report": "six-a-sides-report-19-apr"
+		}
+	]
+}

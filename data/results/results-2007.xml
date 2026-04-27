@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Premier Division" flags="Senior">
+  <fixture>
+    <date>2006-10-14</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>23 - 1</result>
+    <page href="/2007/walcountian-blues-away-match-report-14-oct"/>
+  </fixture>
+  <fixture>
+    <date>2006-10-21</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>6 - 10</result>
+    <page href="/2007/hitchin-home-match-report-21-oct"/>
+  </fixture>
+  <fixture>
+    <date>2006-10-28</date>
+    <opposition>Oxford Uni</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>18 - 4</result>
+    <page href="/2007/oxford-univ-away-match-report-28-oct"/>
+  </fixture>
+  <fixture>
+    <date>2006-11-04</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>11 - 2</result>
+    <page href="/2007/hillcroft-home-match-report-4-nov"/>
+  </fixture>
+  <fixture>
+    <date>2006-11-18</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>12 - 8</result>
+    <page href="/2007/spencer-home-match-report-18-nov"/>
+  </fixture>
+  <fixture>
+    <date>2006-11-25</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>12 - 9</result>
+    <page href="/2007/hampstead-away-match-report-25-nov"/>
+  </fixture>
+  <fixture>
+    <date>2006-12-02</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>11 - 3</result>
+    <page href="/2007/reading-wildcats-away-match-report-2-dec"/>
+  </fixture>
+  <fixture>
+    <date>2006-12-09</date>
+    <opposition>Bath</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>14 - 1 </result>
+    <page href="/2007/bath-away-match-report-9-dec"/>
+  </fixture>
+  <fixture>
+    <date>2007-01-13</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>6 - 12</result>
+    <!--
+Dan Heighway 2, Jamie Tasko 1, Matt Payne 1, Jesse O'Hanley, Mike Barrett 1
+            Hitchin P
+Q1        2          1          Jamie                            1-0,1-1,2-1
+Q2        5          4          Dan,Jess,Matt               3-1,4-1,5-1,5-2,5-3,5-4
+Q3        8          6          Dan,Mike                      6-4,7-4,7-5,8-5,8-6                      Think that was end Q3, busy treating Paul
+Q4        12         6
+actually
+Q1        2          1          Jamie                            1-0,1-1,2-1
+Q2        5          4          Dan,Jess,Matt               3-1,4-1,5-1,5-2,5-3,5-4
+Q3        7          5          Dan                      6-4,7-4,7-5                      Think that was end Q3, busy treating Paul
+Q4        12         6          Mike         8-5,8-6
+
+Ref has it
+Hitchin.............. Purley
+1st Quarter
+16/14/.............. 22/
+
+2nd Qtr
+22/23/8/............9/17/7/
+
+3rd Qtr
+23/14/...............9/
+
+4th Qtr
+14/54/17/..........2/
+14/17/
+ -->
+  </fixture>
+  <fixture>
+    <date>2007-01-27</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>18 - 4</result>
+    <page href="/2007/reading-wildcats-home-match-report-27-jan"/>
+  </fixture>
+  <fixture>
+    <date>2007-02-03</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Snr Flags R2</competition>
+    <result>20 - 4</result>
+    <page href="/2007/spencer-home-match-report-3-feb"/>
+  </fixture>
+  <fixture>
+    <date>2007-02-17</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Flags SF</competition>
+    <result>15 - 3</result>
+    <page href="/2007/reading-wildcats-away-match-report-17-feb"/>
+  </fixture>
+  <fixture>
+    <date>2007-02-24</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>8 - 6</result>
+    <page href="/2007/hampstead-home-match-report-24-feb"/>
+  </fixture>
+  <fixture>
+    <date>2007-03-03</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>11 - 7</result>
+    <page href="/2007/spencer-away-match-report-3-mar"/>
+  </fixture>
+  <fixture>
+    <date>2007-03-10</date>
+    <opposition>Bath</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>23 - 1</result>
+    <page href="/2007/bath-home-match-report-10-mar"/>
+  </fixture>
+  <fixture>
+    <date>2007-03-17</date>
+    <time>3:00pm</time>
+    <opposition>Hampstead</opposition>
+    <location>Reading</location>
+    <competition>Flags Final</competition>
+    <result>8 - 4</result>
+    <page href="/2007/flags-final-report-17-mar"/>
+  </fixture>
+  <fixture>
+    <date>2007-03-24</date>
+    <opposition>Oxford Uni</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>10 - 0 w/o</result>
+  </fixture>
+  <fixture>
+    <date>2007-03-31</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>24 - 0</result>
+    <page href="/2007/hillcroft-away-match-report-31-mar"/>
+  </fixture>
+  <fixture>
+    <date>2007-04-14</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>12 - 7</result>
+    <comment>Sandilands not available, so switched to away</comment>
+    <page href="/2007/walcountian-blues-away-match-report-14-apr"/>
+  </fixture>
+  <fixture>
+    <date>2007-04-21</date>
+    <location>Walcountians</location>
+    <time>11:00am</time>
+    <competition>Six-a-sides</competition>
+    <result>Runners-up</result>
+  </fixture>
+</fixtures>

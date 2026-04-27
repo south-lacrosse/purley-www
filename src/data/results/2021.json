@@ -1,0 +1,227 @@
+{
+	"league": "SEMLA Division 2, Local Home Counties",
+	"flags": "Intermediate",
+	"fixtures": [
+		{
+			"date": "2020-10-03",
+			"opposition": "Canterbury City",
+			"location": "Away",
+			"competition": "L-HC",
+			"result": "9 - 18"
+		},
+		{
+			"date": "2020-10-10",
+			"pitch": "3G",
+			"opposition": "Canterbury City",
+			"location": "Home",
+			"competition": "D2",
+			"result": "5 - 3"
+		},
+		{
+			"date": "2020-10-17",
+			"opposition": "Cheltenham",
+			"location": "Away",
+			"competition": "D2",
+			"result": "Postponed"
+		},
+		{
+			"date": "2020-10-24",
+			"pitch": "3G",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "L-HC",
+			"result": "2 - 11"
+		},
+		{
+			"date": "2020-10-31",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "D2",
+			"result": "6 - 10"
+		},
+		{
+			"date": "2020-11-07",
+			"pitch": "3G",
+			"opposition": "Bath",
+			"location": "Home",
+			"competition": "D2",
+			"result": "Postponed",
+			"comment": "COVID, to 5/6"
+		},
+		{
+			"date": "2020-11-21",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "L-HC",
+			"result": "Postponed",
+			"comment": "COVID, to 5/12"
+		},
+		{
+			"date": "2020-11-28",
+			"pitch": "3G",
+			"opposition": "Bristol Bombers",
+			"location": "Home",
+			"competition": "D2",
+			"result": "Cancelled",
+			"comment": "COVID"
+		},
+		{
+			"date": "2020-12-05",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Snr Flags R16",
+			"result": "Cancelled",
+			"comment": "COVID"
+		},
+		{
+			"date": "2020-12-05",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "L-HC",
+			"comment": "From 21/11",
+			"result": "2 - 7"
+		},
+		{
+			"date": "2021-01-09",
+			"pitch": "3G",
+			"opposition": "Hitchin A",
+			"location": "Home",
+			"competition": "D2",
+			"result": "Postponed",
+			"comment": "COVID, to 22/5"
+		},
+		{
+			"date": "2021-01-16",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "L-HC"
+		},
+		{
+			"date": "2021-01-30",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "L-HC",
+			"result": "Postponed",
+			"comment": "COVID, to 17/4"
+		},
+		{
+			"date": "2021-02-06",
+			"opposition": "Canterbury City",
+			"location": "Away",
+			"competition": "D2",
+			"result": "Cancelled",
+			"comment": "COVID"
+		},
+		{
+			"date": "2021-02-13",
+			"pitch": "3G",
+			"opposition": "Cheltenham",
+			"location": "Home",
+			"competition": "D2",
+			"result": "Cancelled",
+			"comment": "COVID"
+		},
+		{
+			"date": "2021-02-20",
+			"pitch": "3G",
+			"opposition": "Canterbury City",
+			"location": "Home",
+			"competition": "L-HC",
+			"result": "Postponed",
+			"comment": "COVID, to 10/4"
+		},
+		{
+			"date": "2021-02-27",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "D2",
+			"result": "Cancelled",
+			"comment": "COVID"
+		},
+		{
+			"date": "2021-03-13",
+			"opposition": "Bath",
+			"location": "Away",
+			"competition": "D2",
+			"result": "Cancelled",
+			"comment": "COVID"
+		},
+		{
+			"date": "2021-03-27",
+			"opposition": "Bristol Bombers",
+			"location": "Away",
+			"competition": "D2",
+			"result": "Cancelled",
+			"comment": "COVID"
+		},
+		{
+			"date": "2021-04-10",
+			"pitch": "3G",
+			"opposition": "Canterbury City",
+			"location": "Home",
+			"competition": "L-HC",
+			"result": "7 - 6"
+		},
+		{
+			"date": "2021-04-17",
+			"opposition": "Hitchin A",
+			"location": "Away",
+			"competition": "D2",
+			"result": "Cancelled",
+			"comment": "COVID"
+		},
+		{
+			"date": "2021-04-17",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "L-HC",
+			"result": "Postponed",
+			"comment": "To 8 May at EG"
+		},
+		{
+			"date": "2021-04-24",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "L-HC"
+		},
+		{
+			"date": "2021-05-08",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "L-HC",
+			"comment": "Rearranged from home game on 17 May",
+			"result": "1 - 14"
+		},
+		{
+			"date": "2021-05-22",
+			"pitch": "3G",
+			"opposition": "Hitchin A",
+			"location": "Home",
+			"competition": "D2",
+			"result": "7 - 11"
+		},
+		{
+			"date": "2021-06-05",
+			"pitch": "3G",
+			"opposition": "Bath",
+			"location": "Home",
+			"competition": "D2",
+			"result": "Void"
+		},
+		{
+			"date": "2021-06-12",
+			"pitch": "3G",
+			"opposition": "Bristol Bombers",
+			"location": "Home",
+			"competition": "D2",
+			"result": "6 - 14"
+		}
+	]
+}

@@ -1,0 +1,149 @@
+---
+/**
+ * Pagination links, nicely styled
+ */
+interface Props {
+	currentPage: number;
+	lastPage: number;
+	currentUrl: string;
+}
+
+const { currentPage, lastPage, currentUrl } = Astro.props;
+const baseUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/') + 1);
+
+// Pagination algorithm is:
+//  display previous/next links if we are not on the first/last page
+//  always display first and last pages
+//  display a window of pages which is aroundCurrent pages before and after current
+//  display a minimum of windowSize pages (if possible), so if we are on page 1
+//    display pages 1 to windowSize, not just aroundCurrent above current
+//  display ellipses in gaps
+
+const aroundCurrent = 2; // number of pages to display around current page
+const windowSize = aroundCurrent * 2 + 1; // size of window we want to display
+// start and end of window
+let start = 1,
+	end = lastPage;
+// if we can fit the window + first + last then leave the window displaying everything
+if (lastPage > windowSize + 2) {
+	// if the window would reach page 1 then make sure we display windowSize pages
+	if (currentPage <= aroundCurrent) {
+		if (lastPage > windowSize) end = windowSize;
+		// and the same check for the window reaching the last page
+	} else if (lastPage - currentPage <= aroundCurrent) {
+		start = Math.max(lastPage - windowSize + 1, start);
+		// otherwise the window must be  between the first and last pages
+	} else {
+		start = currentPage - aroundCurrent;
+		end = currentPage + aroundCurrent;
+	}
+	// increase the range to include the first/last page if needed, which stops
+	// ellipsis being printed
+	if (start === 2) start = 1;
+	if (end === lastPage - 1) end = lastPage;
+}
+
+// create array to loop over
+const pagesNumbers = Array.from({ length: end - start + 1 }, (_, index) => start + index);
+---
+
+{
+	lastPage > 1 && (
+		<nav class="page-nav paging">
+			<h2 class="sr-only">Page Links</h2>
+			{currentPage > 1 && (
+				<a class="paging-item page-link" href={baseUrl + (currentPage - 1)} rel="prev">
+					<svg
+						viewBox="0 0 32 32"
+						width="0.6875rem"
+						height="0.6875rem"
+						focusable="false"
+						aria-hidden="true"
+					>
+						<path d="M10.4 14.3 26.5 31h-6.4L5.5 16 20.1 1h6.4L10.4 17.7z" />
+					</svg>
+					<span class="sr-only">previous page</span>
+				</a>
+			)}
+			{start > 1 && (
+				<Fragment>
+					<a class="paging-item page-link" href={baseUrl + '1'}>
+						1
+					</a>
+					<div class="paging-item paging-gap">..</div>
+				</Fragment>
+			)}
+			{pagesNumbers.map((pageNumber) => {
+				if (pageNumber == currentPage) {
+					return (
+						<span class="paging-item page-current" aria-current="page">
+							{pageNumber}
+						</span>
+					);
+				} else {
+					return (
+						<a class="paging-item page-link" href={baseUrl + pageNumber}>
+							{pageNumber}
+						</a>
+					);
+				}
+			})}
+			{end < lastPage && (
+				<Fragment>
+					<div class="paging-item paging-gap">..</div>
+					<a class="paging-item page-link" href={baseUrl + lastPage}>
+						{lastPage}
+					</a>
+				</Fragment>
+			)}
+			{currentPage < lastPage && (
+				<a class="paging-item page-link" href={baseUrl + (currentPage + 1)} rel="next">
+					<svg
+						viewBox="0 0 32 32"
+						width="0.6875rem"
+						height="0.6875rem"
+						focusable="false"
+						aria-hidden="true"
+					>
+						<path d="M21.6 14.3 5.5 31h6.4l14.6-15L11.9 1H5.5l16.1 16.7z" />
+					</svg>
+					<span class="sr-only">next page</span>
+				</a>
+			)}
+		</nav>
+	)
+}
+
+<style is:global>
+	/* Note: if you change the size of the boxes (line height/padding etc)
+	   then you may also need to change the SVG sizes above. */
+	.paging {
+		padding-top: 0.5rem;
+		max-width: var(--content-width);
+		font-size: 0.875rem;
+		line-height: 2.25;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.25rem;
+	}
+	.paging-item {
+		--_item-bc: var(--table-borders);
+		border: 0.065rem solid var(--_item-bc);
+		border-radius: 0.25rem;
+		padding: 0 0.625rem;
+		color: var(--text);
+		text-decoration: none;
+	}
+	.paging-gap {
+		--_item-bc: transparent;
+		padding: 0;
+	}
+	.page-link:hover {
+		background-color: var(--gold-logo);
+	}
+	.page-current {
+		--_item-bc: transparent;
+		color: var(--white-text);
+		background-color: #606060;
+	}
+</style>

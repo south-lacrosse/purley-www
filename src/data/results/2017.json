@@ -1,0 +1,161 @@
+{
+	"league": "SEMLA East One",
+	"flags": "Intermediate",
+	"fixtures": [
+		{
+			"date": "2016-09-24",
+			"opposition": "Croydon",
+			"location": "Away",
+			"competition": "Int Flags R1",
+			"result": "5 - 3"
+		},
+		{
+			"date": "2016-10-01",
+			"opposition": "Hillcroft B",
+			"location": "Home",
+			"competition": "East1",
+			"result": "3 - 6"
+		},
+		{
+			"date": "2016-10-08",
+			"opposition": "Spencer 2",
+			"location": "Away",
+			"competition": "East1",
+			"result": "4 - 9"
+		},
+		{
+			"date": "2016-10-15",
+			"opposition": "Maidstone",
+			"location": "Home",
+			"competition": "East1",
+			"result": "9 - 9"
+		},
+		{
+			"date": "2016-10-29",
+			"opposition": "Buckhurst Hill",
+			"location": "Home",
+			"competition": "East1",
+			"result": "12 - 9"
+		},
+		{
+			"date": "2016-11-05",
+			"opposition": "Oxford Uni",
+			"location": "Away",
+			"competition": "East1",
+			"result": "Postponed",
+			"comment": "Reverse to be played for double points"
+		},
+		{
+			"date": "2016-11-12",
+			"opposition": "Hillcroft A",
+			"location": "Home",
+			"pitch": "Astro",
+			"competition": "Flags R2",
+			"result": "3 - 13"
+		},
+		{
+			"date": "2016-11-19",
+			"opposition": "Welwyn Warriors",
+			"location": "Home",
+			"pitch": "Astro",
+			"competition": "East1",
+			"result": "3 - 11"
+		},
+		{
+			"date": "2016-11-26",
+			"opposition": "Croydon",
+			"location": "Home",
+			"pitch": "Astro",
+			"competition": "East1",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2016-12-03",
+			"pitch": "3G",
+			"opposition": "Hillcroft A",
+			"location": "Away",
+			"competition": "East1",
+			"result": "7 - 9"
+		},
+		{
+			"date": "2016-12-10",
+			"pitch": "3G",
+			"opposition": "Hillcroft B",
+			"location": "Away",
+			"competition": "East1",
+			"result": "6 - 4"
+		},
+		{
+			"date": "2017-01-07",
+			"opposition": "Spencer 2",
+			"location": "Away",
+			"competition": "East1",
+			"result": "1 - 22",
+			"comment": "Switched from Home because of unavailable pitch"
+		},
+		{
+			"date": "2017-01-14",
+			"opposition": "Maidstone",
+			"location": "Away",
+			"competition": "East1",
+			"result": "Postponed",
+			"comment": "Pitch unplayable"
+		},
+		{
+			"date": "2017-01-28",
+			"opposition": "Buckhurst Hill",
+			"location": "Away",
+			"competition": "East1",
+			"result": "10 - 5"
+		},
+		{
+			"date": "2017-02-18",
+			"opposition": "Oxford Uni",
+			"location": "Away",
+			"competition": "East1",
+			"comment": "Double points, changed to away as 5 Nov game was postponed",
+			"result": "4 - 6"
+		},
+		{
+			"date": "2017-02-25",
+			"pitch": "3G",
+			"opposition": "Welwyn Warriors",
+			"location": "Away",
+			"competition": "East1",
+			"result": "5 - 12"
+		},
+		{
+			"date": "2017-03-04",
+			"opposition": "Hillcroft A",
+			"location": "Home",
+			"pitch": "Astro",
+			"competition": "East1",
+			"result": "0 - 14"
+		},
+		{
+			"date": "2017-03-18",
+			"pitch": "3G",
+			"opposition": "Croydon",
+			"location": "Away",
+			"competition": "East1",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2017-03-25",
+			"opposition": "Maidstone",
+			"location": "Away",
+			"competition": "East1",
+			"result": "8 - 13"
+		},
+		{
+			"date": "2017-06-10",
+			"competition": "BluesFest",
+			"location": "Walcountians"
+		},
+		{
+			"date": "2017-06-11",
+			"competition": "BluesFest",
+			"location": "Walcountians"
+		}
+	]
+}

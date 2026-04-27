@@ -1,0 +1,189 @@
+---
+/**
+ * Render results. Data is stored in JSON files, and retrieved using an Astro
+ * Content Collection so we get validation, intellisense, and type checking.
+ *
+ * Note: the included styles are marked is:global as it's assumed there will
+ * only be 1 table (i.e. this one) on the page, and this saves Astro adding
+ * data-astro-cid-... attributes to each element in this component.
+ */
+import { getEntry } from 'astro:content';
+
+interface Props {
+	year: number;
+}
+interface Fixture_Row {
+	mm: string;
+	dd: string;
+	opposition?: string;
+	location?: string;
+	result?: string;
+	info?: string;
+	report?: string;
+}
+
+const { year } = Astro.props;
+
+const entry = await getEntry('results', year.toString());
+if (!entry) {
+	throw new Error('Unknown results: ' + year);
+}
+const { league, flags, fixtures } = entry.data;
+
+let semlaLinks = 'See also full SEMLA ',
+	separator = '';
+const leagues = league.split(', ');
+leagues.forEach((league) => {
+	let uri = 'tables';
+	let division = league.split(' ').splice(1).join(' ');
+	if (league.startsWith('SEMLA')) {
+		league = division;
+	} else {
+		uri += '-local';
+	}
+	uri += `-${year}#${division.replaceAll(' ', '-')}`;
+	semlaLinks += `${separator}<a href="https://www.southlacrosse.org.uk/history/${uri}">${league} Table</a>`;
+	separator = ', ';
+});
+
+// No flags rounds on SEMLA until 2002
+if (year > 2001) {
+	semlaLinks += leagues.length > 1 ? ', and ' : ' and ';
+	semlaLinks += `<a href="https://www.southlacrosse.org.uk/history/flags-${year}#${flags}">${flags} Flags</a>`;
+}
+semlaLinks += '.';
+
+const months = 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_');
+
+let prev = { yyyy: '', mm: '' };
+let fixtures_by_year: { year: string; fixtures: Fixture_Row[] }[] = [];
+let curr_year_fixtures: Fixture_Row[];
+let hasReport = false;
+
+fixtures.forEach((fixture) => {
+	let { date, opposition, location, competition, result, comment, report } = fixture;
+	const [yyyy, mm, dd] = date.split('-');
+
+	let display_mm;
+	if (yyyy !== prev.yyyy) {
+		curr_year_fixtures = [];
+		const year_fixtures = { year: yyyy, fixtures: curr_year_fixtures };
+		fixtures_by_year.push(year_fixtures);
+		display_mm = months[+mm - 1];
+	} else {
+		display_mm = mm === prev.mm ? '' : months[+mm - 1];
+	}
+	if (!opposition) {
+		opposition = competition;
+	} else if (fixture.competition) {
+		comment = comment ? `${competition}, ${comment}` : competition;
+	}
+	curr_year_fixtures.push({
+		dd,
+		mm: display_mm,
+		opposition,
+		location,
+		result,
+		info: comment,
+		report,
+	});
+	if (report) {
+		hasReport = true;
+	}
+	prev = { yyyy, mm };
+});
+---
+
+<p set:html={semlaLinks} />
+{hasReport && <p>Click the result for the match report.</p>}
+{
+	fixtures_by_year.map((year_info) => (
+		<div class="scrollable">
+			<table>
+				<caption>
+					<span class="caption-text">{year_info.year}</span>
+				</caption>
+				<colgroup>
+					<col span="2" style="width:1%" />
+					<col style="width:30%" />
+					<col style="width:15%" />
+					<col style="width:1%" />
+					<col style="width:30%" />
+				</colgroup>
+				<thead>
+					<tr>
+						<th colspan="2">Date</th>
+						<th class="opposition">Opposition</th>
+						<th>Location</th>
+						<th>Result</th>
+						<th class="left">Info</th>
+					</tr>
+				</thead>
+				<tbody>
+					{year_info.fixtures.map((fixture) => (
+						<tr>
+							<td>{fixture.mm}</td>
+							<td>{fixture.dd}</td>
+							<td class="opposition">{fixture.opposition}</td>
+							<td>{fixture.location}</td>
+							<td class="result">
+								{fixture.report ? (
+									<a href={fixture.report}>{fixture.result}</a>
+								) : (
+									fixture.result
+								)}
+							</td>
+							<td class="left">{fixture.info}</td>
+						</tr>
+					))}
+				</tbody>
+			</table>
+		</div>
+	))
+}
+
+<style is:global>
+	table {
+		text-align: center;
+		box-sizing: border-box;
+		width: 100%;
+	}
+	caption {
+		font-size: 1.15rem;
+		font-weight: 700;
+		text-align: left;
+		margin-bottom: 0.625em;
+	}
+	/* separate span so only it is underlined using the border */
+	.caption-text {
+		border-bottom: 0.25em solid var(--text);
+	}
+	thead {
+		background-color: var(--table-cell-bg);
+	}
+	th {
+		border-width: 0 0 0.0625rem 0;
+		padding-left: 0.1875em;
+		padding-right: 0.1875em;
+	}
+	td {
+		padding: 0.1875rem;
+		border-width: 0 0 0.0625rem 0;
+	}
+	.opposition {
+		text-align: left;
+		padding-left: 1em;
+	}
+	.result {
+		padding-left: 1em;
+		padding-right: 1em;
+		white-space: nowrap;
+	}
+	/* need extra specificity for th to override previous rule */
+	.left {
+		text-align: left;
+	}
+	tbody > tr:hover {
+		background-color: var(--table-cell-bg);
+	}
+</style>

@@ -1,0 +1,173 @@
+---
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import { Image } from 'astro:assets';
+
+import img_shield from '~/archives/shield.png';
+import img_1947lords4 from '~/archives/1940s/1947lords4.jpg';
+import img_1990team from '~/archives/1990s/1990team.jpg';
+import img_2004flags_01 from '~/archives/2004/2004flags-01.jpg';
+import img_20080419_sixes_1 from '~/archives/2008/20080419-sixes-1.jpg';
+---
+
+<BaseLayout title="Purley Lacrosse Club">
+	<article>
+		<figure>
+			<a href="1940s/1947lords" aria-labelledby="lords1947"
+				><Image src={img_1947lords4} alt="Goalmouth action" loading="eager" /></a
+			>
+			<figcaption id="lords1947" class="inside-image">Lords 1947</figcaption>
+		</figure>
+		<div class="content">
+			<Image src={img_shield} alt="Purley shield" loading="eager" class="float-left" />
+		</div>
+		<p>
+			Purley Lacrosse Club was formed in 1906 - unfortunately we don't have a picture from
+			then, but why not check out our oldest photo from <a href="1900s/1908team">1908</a>, or
+			see <a href="1930s/lacrosse-78-purley-history">a brief history from 1938</a>.
+		</p>
+		<p>
+			Alternatively watch a <a href="1950s/1950-purley-v-hampstead-video"
+				>Pathé video from 1950</a
+			>, or the <a href="1940s/1947camb">1947 game vs Cambridge</a> has some excellent action photos.
+		</p>
+		<p>
+			And if you only visit one page in the archives, then check out
+			<a href="1950s/1953all">1953</a> - it really was a year to remember. Purley won all three
+			flags trophies, and two of the leagues.
+		</p>
+		<p>Or see the <a href="1">Full Archives</a>.</p>
+		<h1>Honours</h1>
+		<h2>League</h2>
+		<figure>
+			<a href="1990s/1990team" aria-labelledby="1990team"
+				><Image src={img_1990team} alt="" /></a
+			>
+			<figcaption id="1990team" class="inside-image">1990 League Winners</figcaption>
+		</figure>
+		<p>Click the year to link to the full tables on the SEMLA site.</p>
+		<h3>League Champions (15)</h3>
+		<p class="small">(Division 1, Premier Division or Senior Championship)</p>
+		<p>
+			1951/52, <a
+				href="https://www.southlacrosse.org.uk/history/tables-1953#Senior-Championship"
+				>1952/53</a
+			>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-1954#Senior-Championship"
+				>1953/54</a
+			>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-1956#Senior-Championship"
+				>1955/56</a
+			>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-1960#Division-1">1959/60</a>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-1962#Division-1">1961/62</a>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-1963#Division-1">1962/63</a>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-1965#Division-1">1964/65</a>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-1990#Upper-Conference"
+				>1989/90</a
+			>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-1998#Premier-Division"
+				>1997/98</a
+			>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-2000#Division-1">1999/2000</a>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-2001#Division-1">2000/01</a>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-2002#Division-1">2001/02</a>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-2003#Division-1">2002/03</a>,
+			<a href="https://www.southlacrosse.org.uk/history/tables-2004#Division-1">2003/04</a>
+		</p>
+		<h3>Division 2 Champions (5)</h3>
+		<p class="small">(or Junior Championship)</p>
+		<p>
+			<a href="https://www.southlacrosse.org.uk/history/tables-1955#Junior-Championship"
+				>1954/55</a
+			> (II),
+			<a href="https://www.southlacrosse.org.uk/history/tables-1956#Junior-Championship"
+				>1955/56</a
+			> (II),
+			<a href="https://www.southlacrosse.org.uk/history/tables-1957#Junior-Championship"
+				>1956/57</a
+			> (II),
+			<a href="https://www.southlacrosse.org.uk/history/tables-1967#Division-2">1966/67</a> (A),
+			<a href="https://www.southlacrosse.org.uk/history/tables-1974#Division-2">1973/74</a> (A)
+		</p>
+		<h3>Division 3 Champions (1)</h3>
+		<p>
+			<a href="https://www.southlacrosse.org.uk/history/tables-1972#Division-3">1971/72</a> (B)
+		</p>
+		<h3>Division 4 Champions (1)</h3>
+		<p>
+			<a href="https://www.southlacrosse.org.uk/history/tables-1989#Division-4">1988/89</a> (A)
+		</p>
+		<h2>Flags</h2>
+		<figure>
+			<a href="2004/2004flags" aria-labelledby="2004flags"
+				><Image src={img_2004flags_01} alt="" /></a
+			>
+			<figcaption id="2004flags" class="inside-image">2004 Senior Flags</figcaption>
+		</figure>
+		<h3>Senior Flags Winners (10)</h3>
+		<p>
+			<a href="1950s/1952flags">1952 (beat Cambridge University 8-7)</a><br />
+			<a href="1950s/1953all#flags">1953 (beat Oxford University 17-6)</a><br />
+			1967 (beat Oxford University 11-8) <br />
+			<a href="1990s/1997flags">1997 (beat Kenton 12-9)</a><br />
+			<a href="2000/flags">2000 (beat Kenton 14-7)</a><br />
+			<a href="2001/flags">2001 (beat Hitchin 16-2)</a><br />
+			<a href="2002/2002flags">2002 (beat Hampstead 12-8)</a><br />
+			<a href="2003/2003flags">2003 (beat Hampstead 10-8)</a><br />
+			<a href="2004/2004flags">2004 (beat Hillcroft 16-5)</a><br />
+			<a href="2007/flags-final-report-17-mar">2007 (beat Hampstead 8-4)</a>
+		</p>
+		<h3>Intermediate Flags Winners (13)</h3>
+		<p>
+			1928 (beat Catford II 7-1) <br />
+			1932 (beat Old Dunstonians 5-4) <br />
+			1938 (beat Old Thorntonians 9-6) <br />
+			1951 (II beat Oxford Iroquois 7-2) <br />
+			1953 (A beat Beckenham 12-7) <br />
+			1955 (A beat Oxford Iroquois 6-3) <br />
+			1957 (A beat London Uni 8-4) <br />
+			1958 (A beat Oxford Iroquois 4-1) <br />
+			1959 (A beat Oxford Iroquois 14-8) <br />
+			1961 (B beat Cambridge Eagles 10-4) <br />
+			1963 (A beat Cambridge Eagles 10-1) <br />
+			1966 (B leat Lee A 9-6) <br />
+			<a href="1980s/1982intflags">1982 (A beat Beckenham 16-8)</a>
+		</p>
+		<h3>Minor (originally Junior) Flags Winners (5)</h3>
+		<p>
+			1911 <br />
+			1953 (B beat Old Sedcopians 8-6) <br />
+			1972 (B beat Oxford Iroquois 22-9) <br />
+			1975 (C beat Lee B 12-5) <br />
+			1984 (A beat Swanley 15-14 in Sudden death over-time)
+		</p>
+		<h2>Six-a-sides</h2>
+		<figure>
+			<a href="2008/six-a-sides-report-19-apr" aria-labelledby="2008sixes"
+				><Image src={img_20080419_sixes_1} alt="" /></a
+			>
+			<figcaption id="2008sixes" class="inside-image">2008 Sixes</figcaption>
+		</figure>
+		<h3>Senior Six-a-sides (12)</h3>
+		<p>
+			1950, 1952, 1953, 1958, 1996, 2001, 2002,
+			<a href="2003/six-a-sides-report-26-apr">2003</a>,
+			<a href="2004/2004sixes-pics">2004</a>,
+			<a href="2006/six-a-sides-report-22-apr">2006</a>,
+			<a href="2008/six-a-sides-report-19-apr">2008</a>, 2011
+		</p>
+		<h3>Intermediate Six-a-sides (4)</h3>
+		<p>1959 (A), 1960 (A), 1967 (B), 1974 (A)</p>
+		<h3>Minor Six-a-sides (5)</h3>
+		<p>1972 (B), 1974 (C), 1975 (C), 1985 (A), 1996 (A)</p>
+		<h2>Others</h2>
+		<h3>Berlin Open (1)</h3>
+		<p><a href="1990s/berlin99">1999</a></p>
+		<h3>Final Four (3)</h3>
+		<p>1998, 1999, 2000</p>
+		<p class="small">
+			<strong>Please note</strong> records are not complete. All records refer to the first team
+			unless noted e.g. (A) denotes A team.
+		</p>
+	</article>
+</BaseLayout>

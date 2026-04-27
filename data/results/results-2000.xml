@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Division 1" flags="Senior">
+  <fixture>
+    <date>1999-10-02</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <result>24 - 4</result>
+    <page href="/2000/reports" fragment="#hampstead-at-home---2-oct-1999"/>
+  </fixture>
+  <fixture>
+    <date>1999-10-09</date>
+    <opposition>Kenton</opposition>
+    <location>Away</location>
+    <result>15 - 2</result>
+    <page href="/2000/reports" fragment="#kenton-away---9-oct-1999"/>
+  </fixture>
+  <fixture>
+    <date>1999-10-16</date>
+    <opposition>Bath</opposition>
+    <location>Away</location>
+    <competition>Senior Flags Round 1</competition>
+    <result>22 - 6</result>
+    <page href="/2000/reports" fragment="#bath-away-senior-flags-round-1---16-oct-1999"/>
+  </fixture>
+  <fixture>
+    <date>1999-10-23</date>
+    <opposition>Cheadle</opposition>
+    <location>Home</location>
+    <competition>Friendly</competition>
+    <result>13 - 17</result>
+    <page href="/2000/reports" fragment="#cheadle-at-home-friendly---23-oct-1999"/>
+  </fixture>
+  <fixture>
+    <date>1999-10-30</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <result>17 - 1</result>
+    <page href="/2000/reports" fragment="#hillcroft-at-home---30-oct-1999"/>
+  </fixture>
+  <fixture>
+    <date>1999-11-06</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <result>15 - 4</result>
+    <page href="/2000/reports" fragment="#hitchin-away---6-nov-1999"/>
+  </fixture>
+  <fixture>
+    <date>1999-11-13</date>
+    <opposition>Beckenham</opposition>
+    <location>Home</location>
+    <result>22 - 0</result>
+    <page href="/2000/reports" fragment="#beckenham-at-home---13-nov-1999"/>
+  </fixture>
+  <fixture>
+    <date>1999-11-20</date>
+    <opposition>Kenton</opposition>
+    <location>Home</location>
+    <result>14 - 7</result>
+    <page href="/2000/reports" fragment="#kenton-at-home---20-nov-1999"/>
+  </fixture>
+  <fixture>
+    <date>1999-11-27</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <result>7 - 6</result>
+    <page href="/2000/reports" fragment="#hampstead-away---27-nov-1999"/>
+  </fixture>
+  <fixture>
+    <date>1999-12-04</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Senior Flags Semi-Final</competition>
+    <result>25 - 4</result>
+    <page href="/2000/reports" fragment="#hillcroft-at-home-senior-flags-semi-final---4-dec-1999"/>
+  </fixture>
+  <fixture>
+    <date>2000-01-15</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <result>19 - 5</result>
+    <page href="/2000/reports" fragment="#hitchin-at-home---15-jan-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-01-22</date>
+    <opposition>Beckenham</opposition>
+    <location>Away</location>
+    <result>1 - 0 w/o</result>
+  </fixture>
+  <fixture>
+    <date>2000-01-29</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <result>14 - 2</result>
+    <page href="/2000/reports" fragment="#hampstead-at-home---29-jan-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-02-12</date>
+    <opposition>Kenton</opposition>
+    <location>Away</location>
+    <result>13 - 5</result>
+    <page href="/2000/reports" fragment="#kenton-away---12-feb-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-02-19</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <result>19 - 0</result>
+    <page href="/2000/reports" fragment="#hillcroft-at-home---19-feb-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-02-26</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <result>16 - 5</result>
+    <page href="/2000/reports" fragment="#hitchin-away---26-feb-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-03-04</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <result>18 - 4</result>
+    <page href="/2000/reports" fragment="#hillcroft-at-home---4-mar-2000"/>
+  </fixture>
+  <fixture>
+    <date>2000-03-11</date>
+    <opposition>Beckenham</opposition>
+    <location>Home</location>
+    <result>1 - 0 w/o</result>
+  </fixture>
+  <fixture>
+    <date>2000-03-25</date>
+    <opposition>Kenton</opposition>
+    <location>Hitchin</location>
+    <competition>Senior Flags Final</competition>
+    <result>14 - 7</result>
+    <page href="/2000/flags"/>
+  </fixture>
+  <fixture>
+    <date>2000-04-01</date>
+    <location>Walcountians</location>
+    <competition>Final Four</competition>
+    <result>Winners</result>
+  </fixture>
+  <fixture>
+    <date>2000-04-15</date>
+    <location>Berlin</location>
+    <competition>Berlin Open</competition>
+    <result>3rd</result>
+    <page href="/2000/berlin2000"/>
+  </fixture>
+</fixtures>

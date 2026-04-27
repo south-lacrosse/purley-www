@@ -1,0 +1,153 @@
+{
+	"season": "2006/7",
+	"friendlies": false,
+	"players": [
+		{
+			"name": "Paul Terry",
+			"position": "G",
+			"squadNumber": "1",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 0 },
+				{ "slug": "flags", "apps": 3, "goals": 0 }
+			]
+		},
+		{
+			"name": "Mike Barrett",
+			"position": "M/FO",
+			"squadNumber": "2",
+			"stats": [
+				{ "slug": "league", "apps": 12, "goals": 26 },
+				{ "slug": "flags", "apps": 3, "goals": 6 }
+			]
+		},
+		{
+			"name": "Andrew Booth",
+			"position": "D",
+			"squadNumber": "3",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 0 },
+				{ "slug": "flags", "apps": 3, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dean Searle",
+			"position": "D",
+			"squadNumber": "4",
+			"stats": [
+				{ "slug": "league", "apps": 8, "goals": 0 },
+				{ "slug": "flags", "apps": 3, "goals": 0 }
+			]
+		},
+		{
+			"name": "Matt Payne",
+			"position": "A",
+			"squadNumber": "7",
+			"stats": [
+				{ "slug": "league", "apps": 14, "goals": 26 },
+				{ "slug": "flags", "apps": 2, "goals": 2 }
+			]
+		},
+		{
+			"name": "Dan Heighway",
+			"position": "M",
+			"squadNumber": "9",
+			"stats": [
+				{ "slug": "league", "apps": 5, "goals": 19 },
+				{ "slug": "flags", "apps": 1, "goals": 5 }
+			]
+		},
+		{
+			"name": "Denham Pope",
+			"position": "D/LSM",
+			"squadNumber": "11",
+			"stats": [{ "slug": "league", "apps": 5, "goals": 1 }]
+		},
+		{
+			"name": "Jesse O'Hanley",
+			"position": "M",
+			"squadNumber": "17",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 49 },
+				{ "slug": "flags", "apps": 3, "goals": 8 }
+			]
+		},
+		{
+			"name": "Adam Culling",
+			"position": "M",
+			"squadNumber": "18",
+			"stats": [
+				{ "slug": "league", "apps": 1, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 }
+			]
+		},
+		{
+			"name": "Nick",
+			"position": "M",
+			"squadNumber": "19",
+			"stats": [{ "slug": "flags", "apps": 1, "goals": 4 }]
+		},
+		{
+			"name": "Dave Cluney",
+			"position": "M",
+			"squadNumber": "21",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 4 },
+				{ "slug": "flags", "apps": 3, "goals": 1 }
+			]
+		},
+		{
+			"name": "Jamie Tasko",
+			"position": "A",
+			"squadNumber": "22",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 50 },
+				{ "slug": "flags", "apps": 3, "goals": 6 }
+			]
+		},
+		{
+			"name": "Graeme Holland",
+			"position": "A",
+			"squadNumber": "23",
+			"stats": [
+				{ "slug": "league", "apps": 13, "goals": 12 },
+				{ "slug": "flags", "apps": 3, "goals": 8 }
+			]
+		},
+		{
+			"name": "Ian Nesbitt",
+			"position": "D",
+			"squadNumber": "25",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 8 },
+				{ "slug": "flags", "apps": 3, "goals": 1 }
+			]
+		},
+		{
+			"name": "Chris Spence",
+			"position": "M",
+			"squadNumber": "26",
+			"stats": [
+				{ "slug": "league", "apps": 10, "goals": 7 },
+				{ "slug": "flags", "apps": 1, "goals": 2 }
+			]
+		},
+		{
+			"name": "Dave Slaughter",
+			"position": "D",
+			"squadNumber": "28",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 0 },
+				{ "slug": "flags", "apps": 3, "goals": 0 }
+			]
+		},
+		{
+			"name": "Luke Smith",
+			"position": "M/FO",
+			"squadNumber": "29",
+			"stats": [
+				{ "slug": "league", "apps": 9, "goals": 3 },
+				{ "slug": "flags", "apps": 2, "goals": 0 }
+			]
+		}
+	]
+}

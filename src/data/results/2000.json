@@ -1,0 +1,154 @@
+{
+	"league": "SEMLA Division 1",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "1999-10-02",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"result": "24 - 4",
+			"report": "reports#hampstead-at-home---2-oct-1999"
+		},
+		{
+			"date": "1999-10-09",
+			"opposition": "Kenton",
+			"location": "Away",
+			"result": "15 - 2",
+			"report": "reports#kenton-away---9-oct-1999"
+		},
+		{
+			"date": "1999-10-16",
+			"opposition": "Bath",
+			"location": "Away",
+			"competition": "Senior Flags Round 1",
+			"result": "22 - 6",
+			"report": "reports#bath-away-senior-flags-round-1---16-oct-1999"
+		},
+		{
+			"date": "1999-10-23",
+			"opposition": "Cheadle",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "13 - 17",
+			"report": "reports#cheadle-at-home-friendly---23-oct-1999"
+		},
+		{
+			"date": "1999-10-30",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"result": "17 - 1",
+			"report": "reports#hillcroft-at-home---30-oct-1999"
+		},
+		{
+			"date": "1999-11-06",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"result": "15 - 4",
+			"report": "reports#hitchin-away---6-nov-1999"
+		},
+		{
+			"date": "1999-11-13",
+			"opposition": "Beckenham",
+			"location": "Home",
+			"result": "22 - 0",
+			"report": "reports#beckenham-at-home---13-nov-1999"
+		},
+		{
+			"date": "1999-11-20",
+			"opposition": "Kenton",
+			"location": "Home",
+			"result": "14 - 7",
+			"report": "reports#kenton-at-home---20-nov-1999"
+		},
+		{
+			"date": "1999-11-27",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"result": "7 - 6",
+			"report": "reports#hampstead-away---27-nov-1999"
+		},
+		{
+			"date": "1999-12-04",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Senior Flags Semi-Final",
+			"result": "25 - 4",
+			"report": "reports#hillcroft-at-home-senior-flags-semi-final---4-dec-1999"
+		},
+		{
+			"date": "2000-01-15",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"result": "19 - 5",
+			"report": "reports#hitchin-at-home---15-jan-2000"
+		},
+		{
+			"date": "2000-01-22",
+			"opposition": "Beckenham",
+			"location": "Away",
+			"result": "1 - 0 w/o"
+		},
+		{
+			"date": "2000-01-29",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"result": "14 - 2",
+			"report": "reports#hampstead-at-home---29-jan-2000"
+		},
+		{
+			"date": "2000-02-12",
+			"opposition": "Kenton",
+			"location": "Away",
+			"result": "13 - 5",
+			"report": "reports#kenton-away---12-feb-2000"
+		},
+		{
+			"date": "2000-02-19",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"result": "19 - 0",
+			"report": "reports#hillcroft-at-home---19-feb-2000"
+		},
+		{
+			"date": "2000-02-26",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"result": "16 - 5",
+			"report": "reports#hitchin-away---26-feb-2000"
+		},
+		{
+			"date": "2000-03-04",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"result": "18 - 4",
+			"report": "reports#hillcroft-at-home---4-mar-2000"
+		},
+		{
+			"date": "2000-03-11",
+			"opposition": "Beckenham",
+			"location": "Home",
+			"result": "1 - 0 w/o"
+		},
+		{
+			"date": "2000-03-25",
+			"opposition": "Kenton",
+			"location": "Hitchin",
+			"competition": "Senior Flags Final",
+			"result": "14 - 7",
+			"report": "flags"
+		},
+		{
+			"date": "2000-04-01",
+			"location": "Walcountians",
+			"competition": "Final Four",
+			"result": "Winners"
+		},
+		{
+			"date": "2000-04-15",
+			"location": "Berlin",
+			"competition": "Berlin Open",
+			"result": "3rd",
+			"report": "berlin2000"
+		}
+	]
+}

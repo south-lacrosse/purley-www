@@ -1,0 +1,161 @@
+{
+	"league": "SEMLA Division 2, Local Home Counties",
+	"flags": "Intermediate",
+	"fixtures": [
+		{
+			"date": "2019-09-21",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "L-HC",
+			"result": "0 - 10 w/o"
+		},
+		{
+			"date": "2019-09-28",
+			"opposition": "Spencer 3",
+			"location": "Home",
+			"competition": "D2",
+			"result": "5 - 5"
+		},
+		{
+			"date": "2019-10-05",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "L-HC",
+			"result": "1 - 11"
+		},
+		{
+			"date": "2019-10-12",
+			"opposition": "Oxford Owls",
+			"location": "Home",
+			"competition": "D2",
+			"result": "16 - 0",
+			"comment": "Double points"
+		},
+		{
+			"date": "2019-10-19",
+			"opposition": "Canterbury City",
+			"location": "Away",
+			"competition": "L-HC",
+			"result": "8 - 12"
+		},
+		{
+			"date": "2019-10-26",
+			"opposition": "Camden Capybaras",
+			"location": "Away",
+			"competition": "D2",
+			"result": "2 - 13"
+		},
+		{
+			"date": "2019-11-02",
+			"opposition": "Canterbury City",
+			"location": "Home",
+			"competition": "L-HC",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2019-11-09",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "D2",
+			"result": "4 - 4"
+		},
+		{
+			"date": "2019-11-16",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Snr Flags R16",
+			"result": "0 - 10 w/o"
+		},
+		{
+			"date": "2019-11-30",
+			"opposition": "Epsom",
+			"location": "Away",
+			"competition": "D2",
+			"result": "16 - 2"
+		},
+		{
+			"date": "2019-12-07",
+			"opposition": "Cheltenham",
+			"location": "Away",
+			"competition": "D2",
+			"result": "0 - 10 w/o"
+		},
+		{
+			"date": "2020-01-11",
+			"opposition": "Spencer 3",
+			"location": "Away",
+			"competition": "D2",
+			"result": "4 - 20"
+		},
+		{
+			"date": "2020-01-18",
+			"opposition": "Camden Capybaras",
+			"location": "Away",
+			"competition": "Int Flags R16",
+			"result": "0 - 10 w/o"
+		},
+		{
+			"date": "2020-01-25",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "L-HC",
+			"result": "3 - 12"
+		},
+		{
+			"date": "2020-02-01",
+			"pitch": "3G",
+			"opposition": "Camden Capybaras",
+			"location": "Home",
+			"competition": "D2",
+			"result": "2 - 18"
+		},
+		{
+			"date": "2020-02-08",
+			"pitch": "3G",
+			"opposition": "Epsom",
+			"location": "Home",
+			"competition": "D2",
+			"result": "6 - 3"
+		},
+		{
+			"date": "2020-02-29",
+			"pitch": "3G",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "L-HC"
+		},
+		{
+			"date": "2020-03-07",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "D2",
+			"result": "Rearranged to 14 Mar"
+		},
+		{
+			"date": "2020-03-14",
+			"pitch": "3G",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "D2",
+			"result": "4 - 11"
+		},
+		{
+			"date": "2020-03-21",
+			"opposition": "Oxford Owls",
+			"location": "Away",
+			"competition": "D2",
+			"result": "Double points on Oct 12",
+			"comment": "Out of term for Oxford"
+		},
+		{
+			"date": "2020-03-28",
+			"pitch": "3G",
+			"opposition": "Cheltenham",
+			"location": "Home",
+			"competition": "D2",
+			"result": "Cancelled (COVD-19)"
+		}
+	]
+}

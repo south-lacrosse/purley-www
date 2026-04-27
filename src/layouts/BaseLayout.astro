@@ -1,0 +1,55 @@
+---
+import '~/styles/global.css';
+
+interface Props {
+	title: string;
+	robots?: boolean;
+}
+
+const { title, robots = true } = Astro.props;
+
+// When we build with format: 'file' the Astro.url will include the '.html' to
+// match the file it generated, and 'index.html' for the home page, so we need
+// to remove those to match our URL scheme.
+const path = Astro.url.pathname.replace(/index.html$/, '').replace(/.html$/, '');
+
+// Note: always set the canonical URL as deploying to platforms like Cloudflare
+// will also serve the page from xxx.pages.dev. The pages domain should be
+// redirected to our domain, but it's better to be safe as we don't want Google
+// to index duplicate content!
+// We could use Astro.url (removing .html etc as above), but this way always
+// links to the production domain
+const canonicalURL = new URL(path, Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<title>{title}{path !== '/' && ' - Purley Lacrosse'}</title>
+		{!robots && <meta name="robots" content="noindex,follow" />}
+		<link rel="icon" type="image/png" href="/favicon.png" sizes="96x96" />
+		<link rel="icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+		<link rel="canonical" href={canonicalURL} />
+	</head>
+	<body>
+		<header class="banner">
+			<a title="Purley Lacrosse Home Page" href="/">
+				<img alt="logo" width="401" height="45" src="/images/logo.png" />
+			</a>
+		</header>
+		<div class="main">
+			<slot name="top-navigation" />
+			<main>
+				<slot />
+			</main>
+			<slot name="bottom-navigation" />
+		</div>
+		<footer>
+			<slot name="related" />
+			<div class="center small">&copy; 1906-2022</div>
+		</footer>
+	</body>
+</html>

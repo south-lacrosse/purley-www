@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Premier Division" flags="Senior">
+  <fixture>
+    <date>2015-09-05</date>
+    <time>10:00am</time>
+    <location>Bath</location>
+    <competition>Bath 8s</competition>
+    <result/>
+  </fixture>
+  <fixture>
+    <date>2015-09-12</date>
+    <opposition>Croydon</opposition>
+    <location>Home</location>
+    <competition>Friendly</competition>
+    <result>12 - 13</result>
+    <!--
+2-3 5JB,21TH
+5-5 17DB,36,21TH(36)
+6-9 21TH
+12-13 36,17DB,21TH,21TH,10DN,OG
+<p class="small">Goal: Dan Murphy; Defence: Andy Booth, Felix Bull, Matt Porter, Dave Slaughter, Eliot Wilde;
+Midfield: Dave Balwdin (2), Andy Fernando, Alex Griffiths, Tom Hatton (5); Attack: Justin Baranowski, Darren Novell (1), Matt Payne; 1 own goal
+<br/>Referee: Justin Baranowski, Andy Fernando, Dave Slaughter</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2015-09-19</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Friendly</competition>
+    <result>4 - 9</result>
+    <!--
+2-3 OG,17DB
+2-6
+4-7 8Ant Peregrine(Croydon),36BC
+<p class="small">Goal: Dan Murphy; Defence: Felix Bull, Dara McCreary, Dave Slaughter, Eliot Wilde;
+Midfield: Dave Balwdin (1), Ben Colville (1), Andy Fernando, Tom Hatton, James Keal; Attack: Andy Booth, Ant Peregrine (1); 1 own goal
+<br/>Referee: Rob Collinge, Henry Collinge</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2015-09-26</date>
+    <location>Hillcroft</location>
+    <competition>3 Way Tournament v Hillcroft/EG</competition>
+    <time>4:00pm</time>
+    <result/>
+  </fixture>
+  <fixture>
+    <date>2015-10-10</date>
+    <opposition>Cardiff Harlequins</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>2 - 11</result>
+    <!--
+0-3 / 1-8 / 1-10 / 2-11
+<p class="small">Goal: Dan Murphy; Defence: Andy Booth, Felix Bull, Elliot Fry, Dara McCreary, Matt Porter, Eliot Wilde; Midfield: Dave Balwdin, Rob Clark, Andy Fernando, Alex Griffiths, Tom Hatton, James Keal, Chase Stuart; Attack: Justin Baranowski, Darren Novell, Matt Payne (2)
+<br/>Referee: Dave Slaughter</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2015-10-17</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>4 - 18</result>
+    <!--
+2-2 7MP,17DB / 3-9 5JB / 4-12 5JB / 4-18
+-->
+  </fixture>
+  <fixture>
+    <date>2015-10-24</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+  </fixture>
+  <fixture>
+    <date>2015-10-31</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>4 - 17</result>
+    <!--
+0-4 / 1-11 21TH / 3-13 17DB,19KS / 4-17 19KS
+-->
+  </fixture>
+  <fixture>
+    <date>2015-11-07</date>
+    <pitch>Sand-Astro</pitch>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>8 - 16</result>
+    <!--
+1-3 7MP / 4-6 7MP,14JK,10DN / 7-10 7MP, 17DB, 5JB / 8-16 7MP
+-->
+  </fixture>
+  <fixture>
+    <date>2015-11-14</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Snr Flags R2</competition>
+    <result>0 - 23</result>
+    <!--
+0-5 / 0-7 / 0-14? / 0-23
+-->
+  </fixture>
+  <fixture>
+    <date>2015-11-21</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2015-11-28</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>4 - 10</result>
+    <!--
+0-5, 1-7 KV, 2-8 DM, 4-10 KV, AG
+-->
+  </fixture>
+  <fixture>
+    <date>2015-12-05</date>
+    <opposition>Bristol Bombers</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 8</result>
+    <!--
+KV 4 goals, TH 1 goal 4 assists
+-->
+</fixture>
+<fixture>
+<date>2015-12-12</date>
+<opposition>East Grinstead</opposition>
+<location>Home</location>
+<competition>Prem</competition>
+<result>0 - 17</result>
+</fixture>
+<fixture>
+<date>2016-01-09</date>
+<opposition>Cardiff Harlequins</opposition>
+<location>Away</location>
+<competition>Prem</competition>
+<result>Abandonded</result>
+<comment>Abandonded at half-time due to unplayable pitch (Purley 3-2 ahead)</comment>
+</fixture>
+<fixture>
+<date>2016-01-16</date>
+<opposition>Hillcroft</opposition>
+<location>Home</location>
+<competition>Prem</competition>
+<result>Postponed</result>
+<comment>Waterlogged pitch</comment>
+</fixture>
+<fixture>
+<date>2016-01-23</date>
+<opposition>Walcountian Blues</opposition>
+<location>Away</location>
+<competition>Prem</competition>
+<result>Postponed</result>
+</fixture>
+<fixture>
+<date>2016-02-06</date>
+<time>1:00pm</time>
+<pitch>3G</pitch>
+<opposition>Hampstead</opposition>
+<location>Away</location>
+<competition>Prem</competition>
+<result>1 - 24</result>
+</fixture>
+<fixture>
+<date>2016-02-13</date>
+<opposition>Reading Wildcats</opposition>
+<location>Home</location>
+<competition>Prem</competition>
+<result>7 - 8</result>
+</fixture>
+<fixture>
+<date>2016-02-20</date>
+<opposition>Spencer</opposition>
+<location>Away</location>
+<competition>Prem</competition>
+<result>2 - 24</result>
+</fixture>
+<fixture>
+<date>2016-03-12</date>
+<opposition>Hitchin</opposition>
+<location>Away</location>
+<competition>Prem</competition>
+<result>2 - 11</result>
+<comment>Switched from Home because of waterlogged pitch</comment>
+</fixture>
+<fixture>
+<date>2016-03-19</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Away</location>
+<competition>Prem</competition>
+<result>3 - 14</result>
+</fixture>
+<fixture>
+<date>2016-04-02</date>
+<opposition>Bristol Bombers</opposition>
+<location>Home</location>
+<competition>Prem</competition>
+<result>4 - 4</result>
+<!-- 1-2 JK, 2-3 JL, 3-4 JL, 4-4 JL -->
+</fixture>
+<fixture>
+<date>2016-04-12</date>
+<opposition>Hillcroft</opposition>
+<location>Away</location>
+<competition>Prem</competition>
+<result>1 - 14</result>
+<comment>Switched from Home to play midweek under floodlights</comment>
+</fixture>
+</fixtures>

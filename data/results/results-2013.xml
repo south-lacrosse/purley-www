@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Premier Division" flags="Senior">
+  <fixture>
+    <date>2012-08-11</date>
+    <time>10:30am</time>
+    <location>Maidstone</location>
+    <competition>Baggataway Tournament</competition>
+  </fixture>
+  <fixture>
+    <date>2012-09-01</date>
+    <time>10:30am</time>
+    <location>Bath</location>
+    <competition>Bath 8s</competition>
+  </fixture>
+  <fixture>
+    <date>2012-09-15</date>
+    <time>12:00pm</time>
+    <opposition>East Grinstead</opposition>
+    <location>Away</location>
+    <competition>Friendly</competition>
+    <!--
+8 - 13?
+Justin 3
+Matt 3
+Billy 2
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-09-22</date>
+    <opposition>Croydon</opposition>
+    <location>Home</location>
+    <competition>Friendly</competition>
+    <result>10 - 1</result>
+    <!--
+Trigger 1, Monkey 1, JB 3, Carey 3, Billy 2
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-09-29</date>
+    <opposition>Northampton Uni</opposition>
+    <location>Home</location>
+    <competition>Friendly</competition>
+    <result>14 - 4</result>
+    <!-- Billy 7, Carey 5, JB 2
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-10-06</date>
+    <time>1:30pm</time>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>6 - 11</result>
+    <page href="/2013/hampstead-away-match-report-6-oct"/>
+  </fixture>
+  <fixture>
+    <date>2012-10-13</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>2 - 11</result>
+    <!--
+1-4 (Billy), 2-5 Matt, 2-8,2-11
+Ref: Simon Peach
+-->
+  </fixture>
+  <fixture>
+    <date>2012-10-20</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Snr Flags R1</competition>
+    <result>6 - 5</result>
+    <page href="/2013/walcountian-blues-home-match-report-20-oct"/>
+  </fixture>
+  <fixture>
+    <date>2012-10-27</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>10 - 9</result>
+    <!--
+Purley 1st
+1-2 (Billy), 4-6 (Billy,MC,MC),6-7 (JB,JB), 10-9 (MC,MC,MC,JB)
+<p class="small">Team: Goal: Paul Terry; Defence: Andy Booth, Dave Copple, Dave Slaughter, Dave Hudson; Midfield: Mike Barrett (2), Andy Fernando, Sam Baranowski; Attack: Justin Baranowski(3), Matt Carey (5), Darren Novell
+<br/>Ref: Hazel Wisbey</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-11-03</date>
+    <opposition>Cardiff Harlequins</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2012-11-10</date>
+    <opposition>East Grinstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>5 - 7</result>
+    <page href="/2013/east-grinstead-home-match-report-10-nov"/>
+  </fixture>
+  <fixture>
+    <date>2012-11-17</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Flags R2</competition>
+    <result>10 - 16</result>
+    <!--
+P18=Matt C 5, P2=Billy 3, P10=Darren 1 P9=Chris,Gunther?
+Q1 4-2 P18,H18,P18,P2,P18,H32
+Q2 4-8 H18,H23,H21,H18,H18,H21
+Q3 5-10 H40,H18,P2
+Q4 10-16 H32,H21,P2,H18,H18,H18,P18,P9,P18,P10,H18
+Ref: Alex Twiss
+ -->
+  </fixture>
+  <fixture>
+    <date>2012-11-24</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>5 - 13</result>
+    <!--
+<p class="small">Team: Goal: Paul Terry; Defence: Andy Booth, Dave Copple, Dave Slaughter;
+Midfield: Mike Barrett (2), Dave Hudson, Andy Fernando (2);
+Attack: Justin Baranowski, Matt Carey (1), Andy Davies
+<br/>Ref: Trevor Rogers, Peter Rawsthorne</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2012-12-01</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>3 - 15</result>
+    <!--
+<p class="small">Team: Goal: Paul Terry; Defence: Andy Booth, Dave Copple, Dave Slaughter;
+Midfield: Mike Barrett (1), Guy Francis, Andy Fernando, Sam Baranowski;
+Attack: Darren Novell, Matt Carey (2), Andy Davies
+<br/>Ref: Gunther Schweizer</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2012-12-08</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2012-12-15</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>7 - 14</result>
+    <!--
+q1
+q2 4-6
+<p class="small">Team: Goal: Dave Slaughter; Defence: Andy Booth, Dave Copple, Dave Hudson (1);
+Midfield: Mike Barrett (2), Guy Francis, Andy Fernando, Sam Baranowski;
+Attack: Justin Baranowski (2), Matt Carey (2), Andy Davies
+<br/>Ref: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-01-12</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>6 - 11</result>
+    <!--
+By qtr: 2-3, 3-6, 4-9, 6-11
+<p class="small">Team: Goal: Paul Terry; Defence: Andy Booth, Dave Copple, Dave Slaughter;
+Midfield: Mike Barrett (2), Guy Francis, Andy Fernando, Sam Baranowski;
+Attack: Justin Baranowski (3), Matt Carey (1), Darren Novell
+<br/>Ref: John Hubbard</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-01-19</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Frozen pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2013-01-26</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Pitch unavailable</comment>
+  </fixture>
+  <fixture>
+    <date>2013-02-09</date>
+    <opposition>Cardiff Harlequins</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>11 - 7</result>
+    <page href="/2013/cardiff-home-match-report-9-feb"/>
+    <!--
+Purley 1st
+2-2,4-2,7-5
+<p class="small">Team: Goal: Paul Terry; Defence: Andy Booth, Dave Copple, Dave Slaughter, Dave Hudson; Midfield: Mike Barrett (4), Andy Fernando, Sam Baranowski, Guy Francis (1), Andy Davies (1); Attack: Justin Baranowski (2), Matt Carey (1), Darren Novell, Matt Payne (2)
+<br/>Ref: John Hubbard</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2013-02-16</date>
+    <opposition>East Grinstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>6 - 15</result>
+    <!--
+Purley 1st
+0-4,3-7,5-10,6-15
+<p class="small">Team: Goal: Paul Terry; Defence: Andy Booth, Dave Copple, Dave Slaughter; Midfield: Mike Barrett, Sam Baranowski, Guy Francis (1), Andy Davies; Attack: Justin Baranowski (3), Matt Carey (2), Matt Payne (1)
+<br/>Ref: Gregg Irwin</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2013-02-23</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Pitch frozen</comment>
+  </fixture>
+  <fixture>
+    <date>2013-03-09</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Rearranged match, waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2013-03-10</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <comment>Rearranged match</comment>
+    <result>2 - 21</result>
+    <!--
+<p class="small">Team: Goal: Jacob Thorne; Defence: Andy Booth, Justin Baranowski, Dave Slaughter; Midfield: Sam Baranowski, Andy Fernando, Guy Francis; Attack: Matt Carey (1), Jay Baranowski, Andy Davies
+<br/>Ref: Peter Compton</p>
+middie +, Dave Cluney
+ -->
+  </fixture>
+  <fixture>
+    <date>2013-03-16</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>6 - 9</result>
+    <!--
+Purley 1st
+1-3 (JB), 3-6 (MC,MC)5-8 (MC,JB) 6-9 (MB)
+<p class="small">Team: Goal: Paul Terry; Defence: Andy Booth, Dave Copple, Dave Slaughter, Dave Hudson; Midfield: Mike Barrett (1), Sam Baranowski, Andy Davies, Andy Fernando;
+Attack: Justin Baranowski (2), Matt Carey (3), Matt Payne
+<br/>Ref: Rob Collinge, Gregg Irwin</p>
+ -->
+  </fixture>
+  <fixture>
+    <date>2013-03-23</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>Postponed</result>
+    <comment>Snow</comment>
+  </fixture>
+  <fixture>
+    <date>2013-04-06</date>
+    <opposition>Welwyn Warriors</opposition>
+    <location>Hitchin</location>
+    <competition>Prem</competition>
+    <result>10 - 10</result>
+    <!--
+<p class="small">Team: Goal: Jacob Thorne; Defence: Andy Booth, Dave Copple, Dave Slaughter, Dave Hudson;
+Midfield: Mike Barrett (2), Sam Baranowski, Andy Davies (1), Andy Fernando, Jimmy Steinmetz;
+Attack: Justin Baranowski (1), Matt Carey (4), Jamie Tasko (2)
+<br/>Ref: Mark Buckley, Hazel Wisbey</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-04-13</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <comment>Rearranged match, at Monks Hill</comment>
+    <result>6 - 19</result>
+    <!--
+<p class="small">Team: Goal: Jacob Thorne; Defence: Andy Booth, Dave Copple, Dave Slaughter;
+Midfield: Mike Barrett (1), Sam Baranowski, Andy Davies, Andy Fernando, Jimmy Steinmetz, Erik (1);
+Attack: Justin Baranowski (2), Matt Carey (1), Matt Payne
+<br/>Ref: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-04-14</date>
+    <opposition>Reading</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <comment>Rearranged match, at Monks Hill</comment>
+    <result>6 - 13</result>
+    <!--
+Q1    25=JB   20=Billy
+Q2    20
+Q3    25=JB (Simon has 18=MC, but JB and MC say no)
+Q4     7=MP    25
+<p class="small">Team: Goal: Jacob Thorne; Defence: Andy Booth, Dave Copple, Dave Slaughter;
+Midfield: Ben, Sam Baranowski, Andy Davies, Andy Fernando, Jimmy Steinmetz, Billy yank (2);
+Attack: Justin Baranowski (3), Matt Carey, Matt Payne (1)
+<br/>Ref: Simon Peach</p>
+-->
+  </fixture>
+  <fixture>
+    <date>2013-04-20</date>
+    <opposition>Cardiff Harlequins</opposition>
+    <location>Away</location>
+    <comment>Rearranged match</comment>
+    <result>Void</result>
+  </fixture>
+  <fixture>
+    <date>2013-04-21</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <comment>Rearranged match</comment>
+    <result>Void</result>
+  </fixture>
+  <fixture>
+    <date>2013-06-08</date>
+    <time>9:30am</time>
+    <competition>Bluesfest</competition>
+    <location>Walcountians</location>
+  </fixture>
+  <fixture>
+    <date>2013-06-09</date>
+    <time>9:30am</time>
+    <competition>Bluesfest</competition>
+    <location>Walcountians</location>
+    <result>7th=</result>
+  </fixture>
+  <fixture>
+    <date>2013-07-27</date>
+    <time>10:30am</time>
+    <competition>Purley Sixes</competition>
+    <location>Home</location>
+    <result>Runners-up</result>
+  </fixture>
+</fixtures>

@@ -1,0 +1,200 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2008-09-20",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "Friendly",
+			"result": "7 - 6",
+			"report": "east-grinstead-away-match-report-20-sep"
+		},
+		{
+			"date": "2008-09-27",
+			"opposition": "Cheltenham Cougars",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "10 - 11",
+			"report": "cheltenham-cougars-home-match-report-27-sep"
+		},
+		{
+			"date": "2008-10-04",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "9 - 3",
+			"report": "hillcroft-away-match-report-4-oct"
+		},
+		{
+			"date": "2008-10-11",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "8 - 8",
+			"report": "hampstead-home-match-report-11-oct"
+		},
+		{
+			"date": "2008-10-18",
+			"opposition": "Swansea Hawks",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2008-11-01",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "7 - 19"
+		},
+		{
+			"date": "2008-11-08",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "17 - 11",
+			"report": "reading-wildcats-home-match-report-8-nov"
+		},
+		{
+			"date": "2008-11-15",
+			"opposition": "Welwyn Warriors",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "8 - 8"
+		},
+		{
+			"date": "2008-11-22",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "6 - 6",
+			"report": "east-grinstead-home-match-report-22-nov"
+		},
+		{
+			"date": "2008-11-29",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Snr Flags R1",
+			"result": "9 - 11"
+		},
+		{
+			"date": "2008-12-06",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "7 - 13"
+		},
+		{
+			"date": "2008-12-13",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch unplayable, to 4 Apr"
+		},
+		{
+			"date": "2009-01-10",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch unplayable, to 14th Mar"
+		},
+		{
+			"date": "2009-01-17",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "4 - 16"
+		},
+		{
+			"date": "2009-01-24",
+			"opposition": "Swansea Hawks",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "0 - 10 w/o"
+		},
+		{
+			"date": "2009-01-31",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch unplayable, to 29 Mar"
+		},
+		{
+			"date": "2009-02-07",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch unplayable, to 14 Feb"
+		},
+		{
+			"date": "2009-02-14",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "4 - 3"
+		},
+		{
+			"date": "2009-02-21",
+			"opposition": "Welwyn Warriors",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "3 - 9"
+		},
+		{
+			"date": "2009-02-28",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "7 - 5"
+		},
+		{
+			"date": "2009-03-07",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "9 - 7",
+			"report": "hitchin-home-match-report-7-mar"
+		},
+		{
+			"date": "2009-03-14",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "14 - 2"
+		},
+		{
+			"date": "2009-03-21",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "12 - 10"
+		},
+		{
+			"date": "2009-03-29",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"comment": "Sunday game",
+			"result": "8 - 16"
+		},
+		{
+			"date": "2009-04-04",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "9 - 11"
+		},
+		{
+			"date": "2009-04-18",
+			"location": "Walcountians",
+			"competition": "Six-a-sides",
+			"result": "QF",
+			"report": "six-a-sides-report-18-apr"
+		}
+	]
+}

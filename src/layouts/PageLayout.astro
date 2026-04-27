@@ -1,0 +1,14 @@
+---
+/**
+ * Layout for markdown pages outside of the content directory, e.g. Contact
+ */
+import BaseLayout from '~/layouts/BaseLayout.astro';
+
+const { frontmatter } = Astro.props;
+const { title } = frontmatter;
+---
+
+<BaseLayout {title}>
+	<h1>{title}</h1>
+	<slot />
+</BaseLayout>

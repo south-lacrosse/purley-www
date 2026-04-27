@@ -1,0 +1,162 @@
+{
+	"league": "SEMLA Division 1",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2004-09-11",
+			"opposition": "Stockport",
+			"location": "Home",
+			"competition": "Iroquois Cup",
+			"result": "8 - 11",
+			"report": "stockport-home-iroquois-cup-report-11-sep"
+		},
+		{
+			"date": "2004-09-25",
+			"opposition": "Heaton Mersey",
+			"location": "Home",
+			"competition": "Wilkinson Sword",
+			"result": "6 - 15",
+			"report": "heaton-mersey-home-wilkinson-sword-report-25-sep"
+		},
+		{
+			"date": "2004-10-02",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "D1",
+			"result": "19 - 2",
+			"report": "hitchin-home-d1-report-2-oct"
+		},
+		{
+			"date": "2004-10-16",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "D1",
+			"result": "8 - 11"
+		},
+		{
+			"date": "2004-10-23",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "D1",
+			"result": "Postponed",
+			"comment": "Pitch unavailable"
+		},
+		{
+			"date": "2004-10-30",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "D1",
+			"result": "7 - 6"
+		},
+		{
+			"date": "2004-11-13",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "D1",
+			"result": "11 - 4"
+		},
+		{
+			"date": "2004-11-20",
+			"opposition": "Penarth",
+			"location": "Home",
+			"competition": "D1/2",
+			"result": "23 - 5"
+		},
+		{
+			"date": "2004-11-27",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "D1",
+			"result": "23 - 4"
+		},
+		{
+			"date": "2004-12-04",
+			"opposition": "Bath Uni",
+			"location": "Away",
+			"competition": "D1/2",
+			"result": "24 - 2"
+		},
+		{
+			"date": "2004-12-11",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "D1",
+			"result": "13 - 6"
+		},
+		{
+			"date": "2004-12-18",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "D1",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2005-01-15",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "D1/2",
+			"result": "21 - 1"
+		},
+		{
+			"date": "2005-01-22",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "D1",
+			"result": "11 - 9"
+		},
+		{
+			"date": "2005-01-29",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "D1",
+			"result": "8 - 11"
+		},
+		{
+			"date": "2005-02-05",
+			"opposition": "Oxford Uni",
+			"location": "Away",
+			"competition": "D1/2",
+			"result": "15 - 1"
+		},
+		{
+			"date": "2005-02-26",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Senior Flags Semi Final",
+			"result": "13 - 6"
+		},
+		{
+			"date": "2005-03-05",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "D1",
+			"result": "17 - 7"
+		},
+		{
+			"date": "2005-03-12",
+			"opposition": "Bath",
+			"location": "Home",
+			"competition": "D1/2",
+			"result": "15 - 2"
+		},
+		{
+			"date": "2005-03-19",
+			"opposition": "Hampstead",
+			"location": "Reading",
+			"competition": "Senior Flags Final",
+			"result": "10 - 11 (AET)"
+		},
+		{
+			"date": "2005-04-09",
+			"opposition": "Buckhurst Hill",
+			"location": "Away",
+			"competition": "D1/2",
+			"result": "11 - 8"
+		},
+		{
+			"date": "2005-04-16",
+			"location": "Croydon",
+			"competition": "Six-a-Sides"
+		}
+	]
+}

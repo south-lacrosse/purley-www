@@ -1,0 +1,177 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2011-09-03",
+			"location": "Bath",
+			"competition": "Bath 8s"
+		},
+		{
+			"date": "2011-10-01",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "1 - 16"
+		},
+		{
+			"date": "2011-10-08",
+			"opposition": "Cardiff Harlequins",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "4 - 10"
+		},
+		{
+			"date": "2011-10-15",
+			"opposition": "Bristol Bombers",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "6 - 4"
+		},
+		{
+			"date": "2011-10-29",
+			"opposition": "Welwyn Warriors",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "4 - 11"
+		},
+		{
+			"date": "2011-11-05",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "0 - 13"
+		},
+		{
+			"date": "2011-11-12",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "7 - 19"
+		},
+		{
+			"date": "2011-11-19",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Snr Flags R1",
+			"result": "4 - 16"
+		},
+		{
+			"date": "2011-11-26",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "3 - 16"
+		},
+		{
+			"date": "2011-12-03",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 15"
+		},
+		{
+			"date": "2011-12-10",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "0 - 10"
+		},
+		{
+			"date": "2012-01-14",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "3 - 15"
+		},
+		{
+			"date": "2012-01-21",
+			"opposition": "Cardiff Harlequins",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "5 - 4"
+		},
+		{
+			"date": "2012-01-28",
+			"location": "Home",
+			"competition": "University Day"
+		},
+		{
+			"date": "2012-02-04",
+			"opposition": "Bristol Bombers",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch unavailable, to 31 Mar"
+		},
+		{
+			"date": "2012-02-11",
+			"opposition": "Welwyn Warriors",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch frozen, to 3 Mar"
+		},
+		{
+			"date": "2012-02-18",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 10"
+		},
+		{
+			"date": "2012-02-25",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "7 - 10"
+		},
+		{
+			"date": "2012-03-03",
+			"opposition": "Welwyn Warriors",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "6 - 5"
+		},
+		{
+			"date": "2012-03-10",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "4 - 12"
+		},
+		{
+			"date": "2012-03-17",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 8"
+		},
+		{
+			"date": "2012-03-24",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "6 - 14"
+		},
+		{
+			"date": "2012-03-31",
+			"opposition": "Bristol Bombers",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "3 - 9"
+		},
+		{
+			"date": "2012-04-21",
+			"location": "Reading",
+			"competition": "Flags Finals"
+		},
+		{
+			"date": "2012-04-28",
+			"opposition": "Bath",
+			"location": "Walcountians",
+			"competition": "Play-off",
+			"result": "6 - 3"
+		}
+	]
+}

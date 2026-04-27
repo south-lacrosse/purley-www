@@ -1,0 +1,158 @@
+{
+	"league": "SEMLA Division 1",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2003-10-04",
+			"opposition": "Waconians",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "8 - 15"
+		},
+		{
+			"date": "2003-10-11",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"result": "11 - 4"
+		},
+		{
+			"date": "2003-10-18",
+			"opposition": "Cheadle",
+			"location": "Away",
+			"competition": "Iroquois Cup and Wilkinson Sword",
+			"result": "8 - 11"
+		},
+		{
+			"date": "2003-10-25",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"result": "8 - 6"
+		},
+		{
+			"date": "2003-11-08",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"result": "17 - 6"
+		},
+		{
+			"date": "2003-11-15",
+			"opposition": "",
+			"location": "Walcountians",
+			"competition": "Area Tournament",
+			"result": "Won"
+		},
+		{
+			"date": "2003-11-22",
+			"opposition": "Penarth",
+			"location": "Home",
+			"result": "Postponed"
+		},
+		{
+			"date": "2003-11-29",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"result": "20 - 3"
+		},
+		{
+			"date": "2003-12-06",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Senior Flags Semi-Finals",
+			"result": "20 - 4"
+		},
+		{
+			"date": "2004-01-03",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"result": "8 - 5"
+		},
+		{
+			"date": "2004-01-10",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"result": "14 - 7"
+		},
+		{
+			"date": "2004-01-17",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"result": "18 - 3"
+		},
+		{
+			"date": "2004-01-24",
+			"opposition": "Penarth",
+			"location": "Away",
+			"result": "17 - 2"
+		},
+		{
+			"date": "2004-01-31",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"result": "7 - 5"
+		},
+		{
+			"date": "2004-02-07",
+			"opposition": "Bath",
+			"location": "Home",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2004-02-14",
+			"opposition": "Oxford Uni",
+			"location": "Away",
+			"result": "16 - 4"
+		},
+		{
+			"date": "2004-02-21",
+			"opposition": "Spencer",
+			"location": "Home",
+			"result": "23 - 2"
+		},
+		{
+			"date": "2004-02-28",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"result": "Postponed"
+		},
+		{
+			"date": "2004-03-06",
+			"opposition": "Buckhurst Hill",
+			"location": "Home",
+			"result": "24 - 3"
+		},
+		{
+			"date": "2004-03-13",
+			"opposition": "Croydon",
+			"location": "Away",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2004-03-20",
+			"opposition": "Hillcroft",
+			"location": "Reading",
+			"result": "16 - 5",
+			"competition": "Senior Flags Final",
+			"report": "2004flags"
+		},
+		{
+			"date": "2004-03-27",
+			"opposition": "Penarth",
+			"location": "Home",
+			"result": "24 - 2"
+		},
+		{
+			"date": "2004-04-03",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"result": "15 - 3",
+			"report": "20040403-reading-pics"
+		},
+		{
+			"date": "2004-04-17",
+			"competition": "Six-a-Sides",
+			"location": "Croydon",
+			"result": "Won",
+			"report": "2004sixes-pics"
+		}
+	]
+}

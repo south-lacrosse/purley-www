@@ -1,0 +1,163 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2014-09-06",
+			"location": "Bath",
+			"competition": "Bath 8s"
+		},
+		{
+			"date": "2014-09-27",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Friendly"
+		},
+		{
+			"date": "2014-10-04",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "4 - 24"
+		},
+		{
+			"date": "2014-10-11",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "5 - 10"
+		},
+		{
+			"date": "2014-10-18",
+			"opposition": "Bristol Bombers",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 12"
+		},
+		{
+			"date": "2014-10-25",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "4 - 7"
+		},
+		{
+			"date": "2014-11-01",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "8 - 15"
+		},
+		{
+			"date": "2014-11-08",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "6 - 9"
+		},
+		{
+			"date": "2014-11-15",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Snr Flags R2",
+			"result": "6 - 14"
+		},
+		{
+			"date": "2014-11-22",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "4 - 6"
+		},
+		{
+			"date": "2014-11-29",
+			"opposition": "Welwyn Warriors",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "8 - 4"
+		},
+		{
+			"date": "2014-12-06",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "1 - 20"
+		},
+		{
+			"date": "2014-12-13",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "4 - 7"
+		},
+		{
+			"date": "2015-01-10",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "1 - 15"
+		},
+		{
+			"date": "2015-01-17",
+			"opposition": "Bristol Bombers",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "7 - 8"
+		},
+		{
+			"date": "2015-01-24",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "3 - 20"
+		},
+		{
+			"date": "2015-02-07",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "10 - 0"
+		},
+		{
+			"date": "2015-02-14",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 8"
+		},
+		{
+			"date": "2015-02-21",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "3 - 9"
+		},
+		{
+			"date": "2015-03-14",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "3 - 12"
+		},
+		{
+			"date": "2015-03-21",
+			"opposition": "Welwyn Warriors",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "15 - 10"
+		},
+		{
+			"date": "2015-04-25",
+			"competition": "Sixes",
+			"location": "Reading"
+		},
+		{
+			"date": "2015-05-02",
+			"opposition": "Maidstone",
+			"location": "Hillcroft",
+			"competition": "Loser of East v West playoff vs 9th Premier team",
+			"result": "10 - 7",
+			"report": "maidstone-playoff-report"
+		}
+	]
+}

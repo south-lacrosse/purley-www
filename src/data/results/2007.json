@@ -1,0 +1,163 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2006-10-14",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "23 - 1",
+			"report": "walcountian-blues-away-match-report-14-oct"
+		},
+		{
+			"date": "2006-10-21",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "6 - 10",
+			"report": "hitchin-home-match-report-21-oct"
+		},
+		{
+			"date": "2006-10-28",
+			"opposition": "Oxford Uni",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "18 - 4",
+			"report": "oxford-univ-away-match-report-28-oct"
+		},
+		{
+			"date": "2006-11-04",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "11 - 2",
+			"report": "hillcroft-home-match-report-4-nov"
+		},
+		{
+			"date": "2006-11-18",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "12 - 8",
+			"report": "spencer-home-match-report-18-nov"
+		},
+		{
+			"date": "2006-11-25",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "12 - 9",
+			"report": "hampstead-away-match-report-25-nov"
+		},
+		{
+			"date": "2006-12-02",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "11 - 3",
+			"report": "reading-wildcats-away-match-report-2-dec"
+		},
+		{
+			"date": "2006-12-09",
+			"opposition": "Bath",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "14 - 1 ",
+			"report": "bath-away-match-report-9-dec"
+		},
+		{
+			"date": "2007-01-13",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "6 - 12"
+		},
+		{
+			"date": "2007-01-27",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "18 - 4",
+			"report": "reading-wildcats-home-match-report-27-jan"
+		},
+		{
+			"date": "2007-02-03",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Snr Flags R2",
+			"result": "20 - 4",
+			"report": "spencer-home-match-report-3-feb"
+		},
+		{
+			"date": "2007-02-17",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Flags SF",
+			"result": "15 - 3",
+			"report": "reading-wildcats-away-match-report-17-feb"
+		},
+		{
+			"date": "2007-02-24",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "8 - 6",
+			"report": "hampstead-home-match-report-24-feb"
+		},
+		{
+			"date": "2007-03-03",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "11 - 7",
+			"report": "spencer-away-match-report-3-mar"
+		},
+		{
+			"date": "2007-03-10",
+			"opposition": "Bath",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "23 - 1",
+			"report": "bath-home-match-report-10-mar"
+		},
+		{
+			"date": "2007-03-17",
+			"opposition": "Hampstead",
+			"location": "Reading",
+			"competition": "Flags Final",
+			"result": "8 - 4",
+			"report": "flags-final-report-17-mar"
+		},
+		{
+			"date": "2007-03-24",
+			"opposition": "Oxford Uni",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2007-03-31",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "24 - 0",
+			"report": "hillcroft-away-match-report-31-mar"
+		},
+		{
+			"date": "2007-04-14",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "12 - 7",
+			"comment": "Sandilands not available, so switched to away",
+			"report": "walcountian-blues-away-match-report-14-apr"
+		},
+		{
+			"date": "2007-04-21",
+			"location": "Walcountians",
+			"competition": "Six-a-sides",
+			"result": "Runners-up"
+		}
+	]
+}

@@ -1,0 +1,215 @@
+{
+	"season": "2016/17",
+	"friendlies": false,
+	"refGames": true,
+	"players": [
+		{
+			"name": "Laurence Aston",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 0 }]
+		},
+		{
+			"name": "Justin Baranowski",
+			"position": "A",
+			"squadNumber": "5",
+			"stats": [
+				{ "slug": "league", "apps": 10, "goals": 8 },
+				{ "slug": "flags", "apps": 1, "goals": 2 }
+			],
+			"ref": "2 (2Qs)"
+		},
+		{
+			"name": "Sam Baranowski",
+			"position": "M",
+			"stats": [
+				{ "slug": "league", "apps": 5, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Berman",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 6, "goals": 10 }]
+		},
+		{
+			"name": "Andy Booth",
+			"position": "D",
+			"squadNumber": "3",
+			"stats": [
+				{ "slug": "league", "apps": 13, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Billy Camuso",
+			"position": "A",
+			"stats": [{ "slug": "league", "apps": 7, "goals": 1 }]
+		},
+		{
+			"name": "Cameron Chaundy",
+			"position": "A",
+			"stats": [{ "slug": "league", "apps": 2, "goals": 0 }]
+		},
+		{
+			"name": "David Copple",
+			"position": "D",
+			"squadNumber": "6",
+			"stats": [
+				{ "slug": "league", "apps": 13, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Eddie Dale",
+			"position": "M/A",
+			"stats": [{ "slug": "league", "apps": 6, "goals": 1 }]
+		},
+		{
+			"name": "Ben Iremonger",
+			"position": "M/FO",
+			"stats": [{ "slug": "league", "apps": 4, "goals": 2 }]
+		},
+		{
+			"name": "Luke Johnstone",
+			"position": "A",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Myles Johnstone",
+			"position": "M",
+			"squadNumber": "9",
+			"stats": [
+				{ "slug": "league", "apps": 12, "goals": 14 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dara McCreary",
+			"position": "D/M",
+			"squadNumber": "12",
+			"stats": [
+				{ "slug": "league", "apps": 12, "goals": 1 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Calum McGuckin",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 2, "goals": 8 }]
+		},
+		{
+			"name": "Gavin McGuckin",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Andrew Majoran",
+			"position": "M/A",
+			"stats": [{ "slug": "league", "apps": 6, "goals": 8 }]
+		},
+		{
+			"name": "Rob Moore",
+			"position": "M",
+			"stats": [{ "slug": "flags", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Felix Moriss",
+			"position": "D/M",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 2 }]
+		},
+		{
+			"name": "Darren Novell",
+			"position": "A",
+			"squadNumber": "10",
+			"stats": [
+				{ "slug": "league", "apps": 2, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 1 }
+			],
+			"ref": "3 (10Qs)"
+		},
+		{
+			"name": "Matt Payne",
+			"position": "A",
+			"squadNumber": "7",
+			"stats": [
+				{ "slug": "league", "apps": 9, "goals": 5 },
+				{ "slug": "flags", "apps": 2, "goals": 3 }
+			],
+			"ref": "1 (1Q)"
+		},
+		{
+			"name": "Richard Pearse",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 5, "goals": 3 }]
+		},
+		{
+			"name": "Ruairidh Penman",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Eliot Pugh",
+			"position": "G",
+			"stats": [
+				{ "slug": "league", "apps": 9, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			],
+			"ref": "1"
+		},
+		{
+			"name": "Keanu Ross-Cabrera",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 0 }]
+		},
+		{
+			"name": "Jake Royle",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 0 }]
+		},
+		{
+			"name": "Dave Slaughter",
+			"position": "D",
+			"squadNumber": "28",
+			"stats": [
+				{ "slug": "league", "apps": 11, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 }
+			],
+			"ref": "2 (6Qs)"
+		},
+		{
+			"name": "Kieran Tingle",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Will",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 4, "goals": 0 }]
+		},
+		{
+			"name": "Henry",
+			"position": "A",
+			"stats": [{ "slug": "league", "apps": 2, "goals": 0 }]
+		},
+		{
+			"name": "Eliot ULU",
+			"position": "G",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Tate",
+			"position": "A",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 1 }]
+		},
+		{
+			"name": "Stuart",
+			"position": "M",
+			"stats": [{ "slug": "flags", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "A.N.Other",
+			"position": "",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		}
+	]
+}

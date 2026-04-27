@@ -1,0 +1,69 @@
+---
+title: Wilkinson Sword & Iroquois Cup 2000
+date: 2000-10-28
+---
+
+## October 28th 2000
+
+For those of you who don't know the Wilkinson Sword is played between the
+winners of the Northern and Southern Leagues, and the Iroquois Cup between
+the winners of the Northern and Southern Flags. With Cheadle doing the
+double up North, and Purley emulating them down South, the teams decided to
+play one game for both trophies. The weather conditions were hardly ideal
+for a game of lacrosse, the pitch was soggy and there was a gale blowing.
+But the game had been highlighted in London's Time Out, and Purley's
+captain Mike Barrett was interviewed by London Live Radio station. So
+instead of this game being watched by one man and his dog there was
+something of a crowd on the touchline.
+
+The Purley team was looking forward to a tough game against what promised
+to be the hardest opposition that they would face all season. Mike Barrett
+won the first face and moved the ball to the attack but the shot was poor.
+Cheadle broke quickly and scored from the fast break. 1 - 0 Cheadle. This
+only emphasised that possession was everything and no one could afford to
+give the ball away cheaply. Within minutes the score was level and the
+quarter continued in the same vein with neither team asserting their
+authority on the game. Quarter time 2 - 2.
+
+In the second quarter possession was evenly split between the two teams but
+Cheadle took their chances better and the quarter ended 4 - 2. Midway
+through this quarter it became evident that Cheadle were not going to use
+their entire squad. There had made the journey South with a squad of about
+30 for a weekend tour, of which any 14 could play in each quarter. Since
+the game looked as though it was going to go to the all the way some of
+their less experienced players faced an afternoon on the touchline.
+
+With the familiar names of the Cheadle attack they are always going to
+score goals but the Purley defence was not overwhelmed and was holding up
+well. Cheadle's major threat was Phil Lynch using his strength to hold
+people off, and his accurate shooting to great effect. He was probably the
+man of the match with his six goals. His strength on the ball was matched
+by Purley's Dave Arnot who scored 2 and created many of Purley's goals.
+Purley's attack always looked dangerous with the ball constantly moving and
+relentless cutting creating opportunities. The Purley midfield was working
+hard and middie MJ Berman top scored for Purley with 3 goals.
+
+The third quarter was a closer affair with Purley battling themselves back
+into the game and the lead was beginning to change hands. Purley pulled a
+couple of goals back and before long were 6 - 5 up. But the lead was short
+lived and Cheadle pulled level as the half ended. The quarter ended tied at
+6 - 6.
+
+So with 20 minutes left to play the game could go either way. Purley had
+dominated face-offs and ground balls but this began to change. The Cheadle
+approach changed and instead of trying to win the face cleanly they keep
+the ball in giving their wingmen the opportunity to fight for the ground
+ball. This approach was more successful and added to a couple of lapses in
+concentration in the Purley defence Cheadle were soon a few goals clear. At
+this point the chorus that we'd heard in Berlin of "Cheadle, Cheadle" came
+from their bench and they appeared to think that the game was won. But the
+chorus quickly faded as Purley pulled a couple of goals back. With the
+score at 11 - 9 it still looked close, but Purley's hopes faded when
+Cheadle added another and the final whistle followed soon after. Final
+score 12 - 9.
+
+We'd like to thank the Cheadle lads for making the trip South. It was an
+excellent game to play in and watch and was a great exhibition of Lacrosse.
+
+Goals: MJ Berman 3, Dave Arnot 2, Tim Richmond 2, Scott Nicholls 1, Matt
+Payne 1

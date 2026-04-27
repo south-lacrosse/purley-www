@@ -1,0 +1,153 @@
+{
+	"league": "SEMLA Division 1",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2001-10-06",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"result": "27 - 3",
+			"report": "reports#hitchin-at-home---6-oct-2001"
+		},
+		{
+			"date": "2001-10-13",
+			"opposition": "Bath",
+			"location": "Away",
+			"result": "23 - 3",
+			"report": "reports#bath-away---13-oct-2001"
+		},
+		{
+			"date": "2001-10-20",
+			"opposition": "Penarth",
+			"location": "Home",
+			"result": "18 - 3",
+			"report": "reports#penarth-at-home---20-oct-2001"
+		},
+		{
+			"date": "2001-10-27",
+			"opposition": "Cheadle",
+			"location": "Home",
+			"competition": "Iroquois Cup & Wilkinson Sword",
+			"result": "8 - 11"
+		},
+		{
+			"date": "2001-11-03",
+			"opposition": "Oxford",
+			"location": "Away",
+			"competition": "Senior Flags round 1",
+			"result": "11 - 4",
+			"report": "reports#oxford-away-senior-flags-round-1---3-nov-2001"
+		},
+		{
+			"date": "2001-11-10",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"result": "10 - 1",
+			"report": "reports#hillcroft-at-home---10-nov-2001"
+		},
+		{
+			"date": "2001-11-17",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"result": "11 - 10"
+		},
+		{
+			"date": "2001-12-01",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Senior Flags Semi-final",
+			"result": "13 - 2"
+		},
+		{
+			"date": "2001-12-08",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"result": "13 - 2",
+			"report": "reports#hampstead-away---8-dec-2001"
+		},
+		{
+			"date": "2001-12-15",
+			"opposition": "Spencer",
+			"location": "Home",
+			"result": "17 - 1",
+			"report": "reports#spencer-at-home---15-dec-2001"
+		},
+		{
+			"date": "2002-01-19",
+			"opposition": "Spencer",
+			"location": "Away",
+			"result": "16 - 2",
+			"report": "reports#spencer-away---19-jan-2002"
+		},
+		{
+			"date": "2002-01-26",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"result": "14 - 4",
+			"report": "reports#walcountian-blues-at-home---26-jan-2002"
+		},
+		{
+			"date": "2002-02-02",
+			"opposition": "Penarth",
+			"location": "Away",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2002-02-09",
+			"opposition": "Croydon",
+			"location": "Home",
+			"result": "24 - 1",
+			"report": "reports#croydon-at-home---9-feb-2002"
+		},
+		{
+			"date": "2002-02-16",
+			"opposition": "Cambridge",
+			"location": "Away",
+			"result": "17 - 1"
+		},
+		{
+			"date": "2002-03-02",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"result": "10 - 0 w/o"
+		},
+		{
+			"date": "2002-03-16",
+			"opposition": "Reading",
+			"location": "Away",
+			"result": "12 - 4",
+			"report": "reports#reading-away---16-mar-2002"
+		},
+		{
+			"date": "2002-03-23",
+			"opposition": "Hampstead",
+			"location": "Reading",
+			"result": "12 - 8",
+			"competition": "Senior Flags Final",
+			"report": "2002flags"
+		},
+		{
+			"date": "2002-04-06",
+			"opposition": "Penarth",
+			"location": "Away",
+			"result": "32 - 2",
+			"report": "reports#penarth-away---6-apr-2002",
+			"comment": "Re-arranged game"
+		},
+		{
+			"date": "2002-04-14",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"result": "10 - 0 w/o",
+			"comment": "Re-arranged game"
+		},
+		{
+			"date": "2002-04-20",
+			"opposition": "Six-a-Sides",
+			"location": "Croydon",
+			"competition": "Six-a-Sides",
+			"result": "Won"
+		}
+	]
+}

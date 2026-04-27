@@ -1,0 +1,24 @@
+---
+/**
+ * Define paths for all our archive pages
+ */
+import type { GetStaticPaths } from 'astro';
+import { render } from 'astro:content';
+import { archiveEntries } from '~/archives';
+import ArchiveLayout from '~/layouts/ArchiveLayout.astro';
+
+export const getStaticPaths = (async () => {
+	let index = 0;
+	return archiveEntries.map((entry) => ({
+		params: { id: entry.id },
+		props: { entry, index: index++ },
+	}));
+}) satisfies GetStaticPaths;
+
+const { entry, index } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<ArchiveLayout data={entry.data} index={index}>
+	<Content />
+</ArchiveLayout>

@@ -1,0 +1,173 @@
+{
+	"league": "SEMLA Division 1",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2000-10-07",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"result": "36 - 3",
+			"report": "reports#hitchin-at-home---7-oct-2000"
+		},
+		{
+			"date": "2000-10-14",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"result": "15 - 1",
+			"report": "reports#hillcroft-away---14-oct-2000"
+		},
+		{
+			"date": "2000-10-21",
+			"opposition": "Spencer A",
+			"location": "Home",
+			"competition": "Senior Flags R1",
+			"result": "36 - 1",
+			"report": "reports#spencer-a-at-home-senior-flags-round-1---21-oct-2000"
+		},
+		{
+			"date": "2000-10-28",
+			"opposition": "Cheadle",
+			"location": "Home",
+			"competition": "Iroquois Cup/Wilkinson Sword",
+			"result": "9 - 12",
+			"report": "wilkinson"
+		},
+		{
+			"date": "2000-11-04",
+			"opposition": "Spencer",
+			"location": "Home",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2000-11-11",
+			"opposition": "Bath",
+			"location": "Away",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch, combined with Flags match on 24 Nov"
+		},
+		{
+			"date": "2000-11-18",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"result": "1 - 0"
+		},
+		{
+			"date": "2000-11-25",
+			"opposition": "Bath",
+			"location": "Away",
+			"competition": "Senior Flags SF & League",
+			"result": "20 - 3",
+			"report": "reports#bath-away-senior-flags-semi-final--league---25-nov-2000"
+		},
+		{
+			"date": "2000-12-02",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2000-12-09",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"result": "18 - 3",
+			"report": "reports#hitchin-away---9-dec-2000"
+		},
+		{
+			"date": "2001-01-06",
+			"opposition": "Spencer",
+			"location": "Away",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2001-01-13",
+			"opposition": "Bath",
+			"location": "Home",
+			"result": "31 - 2",
+			"report": "reports#bath-at-home---13-jan-2001"
+		},
+		{
+			"date": "2001-01-20",
+			"opposition": "Rochdale",
+			"location": "Away",
+			"competition": "Tour",
+			"result": "16 - 10",
+			"report": "reports#rochdale-away-tour---20-jan-2001"
+		},
+		{
+			"date": "2001-01-21",
+			"opposition": "Cheadle",
+			"location": "Away",
+			"competition": "Tour",
+			"result": "8 - 12",
+			"report": "reports#cheadle-away-tour---21-jan-2001"
+		},
+		{
+			"date": "2001-01-27",
+			"opposition": "Spencer",
+			"location": "Away",
+			"result": "17 - 6",
+			"report": "reports#spencer-away---27-jan-2001"
+		},
+		{
+			"date": "2001-02-03",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"result": "1 - 0"
+		},
+		{
+			"date": "2001-02-10",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2001-02-24",
+			"opposition": "Spencer",
+			"location": "Home",
+			"result": "11 - 1",
+			"report": "reports#spencer-at-home---24-feb-2001",
+			"comment": "Double points"
+		},
+		{
+			"date": "2001-03-03",
+			"opposition": "Bath",
+			"location": "Away",
+			"result": "23 - 2",
+			"report": "reports#bath-away---3-mar-2001"
+		},
+		{
+			"date": "2001-03-10",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"result": "14 - 6",
+			"report": "reports#hampstead-at-home---10-mar-2001",
+			"comment": "Double points"
+		},
+		{
+			"date": "2001-03-17",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"result": "10 - 2",
+			"report": "reports#hillcroft-at-home---17-mar-2001",
+			"comment": "Double points"
+		},
+		{
+			"date": "2001-03-24",
+			"opposition": "Hitchin",
+			"location": "Reading",
+			"competition": "Senior Flags Final",
+			"result": "16 - 2",
+			"report": "flags"
+		},
+		{
+			"date": "2001-04-21",
+			"competition": "Six-a-Sides",
+			"location": "Croydon",
+			"result": "Won"
+		}
+	]
+}

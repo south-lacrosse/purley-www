@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Premier Division" flags="Senior">
+  <fixture>
+    <date>2005-10-08</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>14 - 4</result>
+    <page href="/2006/spencer-away-match-report-8-oct"/>
+  </fixture>
+  <fixture>
+    <date>2005-10-15</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>12 - 13</result>
+    <page href="/2006/hillcroft-home-match-report-15-oct"/>
+  </fixture>
+  <fixture>
+    <date>2005-10-29</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>8 - 10</result>
+    <page href="/2006/hitchin-home-match-report-29-oct"/>
+  </fixture>
+  <fixture>
+    <date>2005-11-05</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>6 - 16</result>
+    <page href="/2006/hampstead-away-match-report-5-nov"/>
+  </fixture>
+  <fixture>
+    <date>2005-11-12</date>
+    <opposition>Bath</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>15 - 4</result>
+    <page href="/2006/bath-away-match-report-12-nov"/>
+  </fixture>
+  <fixture>
+    <date>2005-11-19</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>12 - 5</result>
+    <page href="/2006/reading-wildcats-home-match-report-19-nov"/>
+  </fixture>
+  <fixture>
+    <date>2005-11-26</date>
+    <opposition>Bath</opposition>
+    <location>Home</location>
+    <competition>Snr Flags R2</competition>
+    <result>17 - 9</result>
+    <page href="/2006/bath-home-match-report-26-nov"/>
+  </fixture>
+  <fixture>
+    <date>2005-12-03</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>8 - 5</result>
+    <page href="/2006/walcountian-blues-away-match-report-3-dec"/>
+  </fixture>
+  <fixture>
+    <date>2005-12-10</date>
+    <opposition>Penarth</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>23 - 6</result>
+    <page href="/2006/penarth-home-match-report-10-dec"/>
+  </fixture>
+  <fixture>
+    <date>2005-12-17</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>11 - 8</result>
+    <page href="/2006/hitchin-away-match-report-17-dec"/>
+  </fixture>
+  <fixture>
+    <date>2006-01-14</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>15 - 3</result>
+    <page href="/2006/spencer-home-match-report-14-jan"/>
+  </fixture>
+  <fixture>
+    <date>2006-01-21</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>9 - 11</result>
+    <page href="/2006/hillcroft-away-match-report-21-jan"/>
+  </fixture>
+  <fixture>
+    <date>2006-01-28</date>
+    <opposition>Oxford</opposition>
+    <location>Home</location>
+    <competition>Friendly</competition>
+    <result>14 - 6</result>
+    <page href="/2006/oxford-home-match-report-28-jan"/>
+  </fixture>
+  <fixture>
+    <date>2006-02-04</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>Flags SF</competition>
+    <result>9 - 8</result>
+    <page href="/2006/hitchin-home-match-report-4-feb"/>
+  </fixture>
+  <fixture>
+    <date>2006-02-11</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>7 - 16</result>
+    <page href="/2006/hampstead-home-match-report-11-feb"/>
+  </fixture>
+  <fixture>
+    <date>2006-02-18</date>
+    <opposition>Bath</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>6 - 12</result>
+    <page href="/2006/bath-home-match-report-18-feb"/>
+  </fixture>
+  <fixture>
+    <date>2006-02-25</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>11 - 1</result>
+    <page href="/2006/reading-wildcats-away-match-report-25-feb"/>
+  </fixture>
+  <fixture>
+    <date>2006-03-04</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>Prem</competition>
+    <result>18 - 3</result>
+    <page href="/2006/walcountian-blues-home-match-report-4-mar"/>
+  </fixture>
+  <fixture>
+    <date>2006-03-11</date>
+    <opposition>Penarth</opposition>
+    <location>Away</location>
+    <competition>Prem</competition>
+    <result>0 - 10 w/o</result>
+  </fixture>
+  <fixture>
+    <date>2006-03-18</date>
+    <opposition>Hampstead</opposition>
+    <location>Reading</location>
+    <competition>Flags Final</competition>
+    <result>4 - 12</result>
+  </fixture>
+  <fixture>
+    <date>2006-04-22</date>
+    <location>Croydon</location>
+    <time>11:00am</time>
+    <competition>Six-a-sides</competition>
+    <result>Won</result>
+    <page href="/2006/six-a-sides-report-22-apr"/>
+  </fixture>
+</fixtures>

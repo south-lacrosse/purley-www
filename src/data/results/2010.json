@@ -1,0 +1,204 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2009-09-19",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Friendly",
+			"result": "10 - 15",
+			"report": "walcountian-blues-away-match-report-19-sep"
+		},
+		{
+			"date": "2009-10-03",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "11 - 9",
+			"report": "hitchin-away-match-report-3-oct"
+		},
+		{
+			"date": "2009-10-10",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "9 - 6",
+			"report": "east-grinstead-home-match-report-10-oct"
+		},
+		{
+			"date": "2009-10-17",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "6 - 16",
+			"report": "hampstead-away-match-report-17-oct"
+		},
+		{
+			"date": "2009-10-31",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "18 - 3",
+			"report": "hillcroft-home-match-report-31-oct"
+		},
+		{
+			"date": "2009-11-07",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "6 - 8",
+			"report": "reading-wildcats-away-match-report-7-nov"
+		},
+		{
+			"date": "2009-11-14",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2009-11-21",
+			"opposition": "Bath",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "14 - 9",
+			"report": "bath-home-match-report-21-nov"
+		},
+		{
+			"date": "2009-11-28",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Snr Flags R1",
+			"result": "7 - 3"
+		},
+		{
+			"date": "2009-12-05",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "9 - 16"
+		},
+		{
+			"date": "2009-12-12",
+			"opposition": "Welwyn Warriors",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch unplayable"
+		},
+		{
+			"date": "2010-01-09",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch unplayable"
+		},
+		{
+			"date": "2010-01-16",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 11"
+		},
+		{
+			"date": "2010-01-23",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "13 - 9",
+			"comment": "Rearranged match"
+		},
+		{
+			"date": "2010-01-30",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2010-02-06",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "13 - 10"
+		},
+		{
+			"date": "2010-02-13",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem & Flags SF",
+			"result": "5 - 13"
+		},
+		{
+			"date": "2010-02-20",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2010-02-27",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "13 - 7",
+			"comment": "at Monks Hill"
+		},
+		{
+			"date": "2010-03-06",
+			"opposition": "Bath",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "13 - 7"
+		},
+		{
+			"date": "2010-03-13",
+			"opposition": "Welwyn Warriors",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "11 - 13",
+			"comment": "Rearranged game"
+		},
+		{
+			"date": "2010-03-20",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "12 - 13"
+		},
+		{
+			"date": "2010-03-21",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "12 - 6",
+			"comment": "Rearranged game at the Priory"
+		},
+		{
+			"date": "2010-03-27",
+			"opposition": "Welwyn Warriors",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "8 - 12",
+			"comment": "Rearranged game"
+		},
+		{
+			"date": "2010-04-10",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "19 - 8",
+			"comment": "Rearranged game, at the Priory"
+		},
+		{
+			"date": "2010-04-24",
+			"location": "Walcountians",
+			"competition": "Six-a-sides"
+		}
+	]
+}

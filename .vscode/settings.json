@@ -1,0 +1,17 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"json.schemas": [
+		{
+			"fileMatch": ["/src/archives/**/*.gal.json"],
+			"url": "./.astro/collections/galleries.schema.json"
+		},
+		{
+			"fileMatch": ["/src/data/results/**"],
+			"url": "./.astro/collections/results.schema.json"
+		},
+		{
+			"fileMatch": ["/src/data/stats/**"],
+			"url": "./.astro/collections/stats.schema.json"
+		}
+	]
+}

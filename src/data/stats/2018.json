@@ -1,0 +1,219 @@
+{
+	"season": "2017/18",
+	"friendlies": false,
+	"refGames": true,
+	"players": [
+		{
+			"name": "Jordan Anning",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Lorenzo Balzarini",
+			"position": "M",
+			"stats": [
+				{ "slug": "league", "apps": 9, "goals": 6 },
+				{ "slug": "flags", "apps": 1, "goals": 1 }
+			]
+		},
+		{
+			"name": "Justin Baranowski",
+			"position": "A",
+			"squadNumber": "5",
+			"stats": [
+				{ "slug": "league", "apps": 12, "goals": 13 },
+				{ "slug": "flags", "apps": 1, "goals": 1 }
+			]
+		},
+		{
+			"name": "Sam Baranowski",
+			"position": "M",
+			"stats": [
+				{ "slug": "league", "apps": 9, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Mike Barratt",
+			"position": "M/FO",
+			"stats": [{ "slug": "league", "apps": 6, "goals": 7 }]
+		},
+		{
+			"name": "Dave Berman",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 3 }]
+		},
+		{
+			"name": "Lewis Blackshaw",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Andy Booth",
+			"position": "D",
+			"squadNumber": "3",
+			"stats": [{ "slug": "league", "apps": 12, "goals": 0 }],
+			"ref": "2"
+		},
+		{
+			"name": "Lygon Bowen-west",
+			"position": "G",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Billy Camuso",
+			"position": "A",
+			"stats": [
+				{ "slug": "league", "apps": 8, "goals": 2 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "David Copple",
+			"position": "D",
+			"squadNumber": "6",
+			"stats": [
+				{ "slug": "league", "apps": 13, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Eddie Dale",
+			"position": "M/FO",
+			"stats": [
+				{ "slug": "league", "apps": 5, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Will Duval",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 1 }]
+		},
+		{
+			"name": "Eugene Fung",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Sam Guest",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 1 }]
+		},
+		{
+			"name": "Jacob Hall",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 5, "goals": 1 }]
+		},
+		{
+			"name": "Sam Hallows",
+			"position": "A",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 0 }]
+		},
+		{
+			"name": "David Hudson",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Ben Iremonger",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 7, "goals": 8 }]
+		},
+		{
+			"name": "Luke Johnstone",
+			"position": "A",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 3 }]
+		},
+		{
+			"name": "Myles Johnstone",
+			"position": "M",
+			"squadNumber": "9",
+			"stats": [
+				{ "slug": "league", "apps": 14, "goals": 6 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Will Lucas",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 3, "goals": 0 }]
+		},
+		{
+			"name": "Kieran Kershaw",
+			"position": "M",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Charlie Merry",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Conor Mills",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 7, "goals": 0 }]
+		},
+		{
+			"name": "Matt Payne",
+			"position": "A",
+			"squadNumber": "7",
+			"stats": [
+				{ "slug": "league", "apps": 11, "goals": 22 },
+				{ "slug": "flags", "apps": 1, "goals": 1 }
+			]
+		},
+		{
+			"name": "Richard Pearse",
+			"position": "M",
+			"stats": [
+				{ "slug": "league", "apps": 11, "goals": 8 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Eliot Pugh",
+			"position": "G",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Ben Reed",
+			"position": "A",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 3 }]
+		},
+		{
+			"name": "Dave Slaughter",
+			"position": "D",
+			"squadNumber": "28",
+			"stats": [
+				{ "slug": "league", "apps": 8, "goals": 1 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			],
+			"ref": "5"
+		},
+		{
+			"name": "Jacob Thorne",
+			"position": "G",
+			"stats": [
+				{ "slug": "league", "apps": 11, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Matt Twose",
+			"position": "M",
+			"stats": [
+				{ "slug": "league", "apps": 12, "goals": 7 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Mark Winter",
+			"position": "D",
+			"stats": [
+				{ "slug": "league", "apps": 14, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		}
+	]
+}

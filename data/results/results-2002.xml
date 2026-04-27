@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Division 1" flags="Senior">
+  <fixture>
+    <date>2001-10-06</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <result>27 - 3</result>
+    <page href="/2002/reports" fragment="#hitchin-at-home---6-oct-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-10-13</date>
+    <opposition>Bath</opposition>
+    <location>Away</location>
+    <result>23 - 3</result>
+    <page href="/2002/reports" fragment="#bath-away---13-oct-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-10-20</date>
+    <opposition>Penarth</opposition>
+    <location>Home</location>
+    <result>18 - 3</result>
+    <page href="/2002/reports" fragment="#penarth-at-home---20-oct-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-10-27</date>
+    <opposition>Cheadle</opposition>
+    <location>Home</location>
+    <competition>Iroquois Cup &amp; Wilkinson Sword</competition>
+    <result>8 - 11</result>
+  </fixture>
+  <fixture>
+    <date>2001-11-03</date>
+    <opposition>Oxford</opposition>
+    <location>Away</location>
+    <competition>Senior Flags round 1</competition>
+    <result>11 - 4</result>
+    <page href="/2002/reports" fragment="#oxford-away-senior-flags-round-1---3-nov-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-11-10</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <result>10 - 1</result>
+    <page href="/2002/reports" fragment="#hillcroft-at-home---10-nov-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-11-17</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <result>11 - 10</result>
+  </fixture>
+  <fixture>
+    <date>2001-12-01</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>Senior Flags Semi-final</competition>
+    <result>13 - 2</result>
+  </fixture>
+  <fixture>
+    <date>2001-12-08</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <result>13 - 2</result>
+    <page href="/2002/reports" fragment="#hampstead-away---8-dec-2001"/>
+  </fixture>
+  <fixture>
+    <date>2001-12-15</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <result>17 - 1</result>
+    <page href="/2002/reports" fragment="#spencer-at-home---15-dec-2001"/>
+  </fixture>
+  <fixture>
+    <date>2002-01-19</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <result>16 - 2</result>
+    <page href="/2002/reports" fragment="#spencer-away---19-jan-2002"/>
+  </fixture>
+  <fixture>
+    <date>2002-01-26</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <result>14 - 4</result>
+    <page href="/2002/reports" fragment="#walcountian-blues-at-home---26-jan-2002"/>
+  </fixture>
+  <fixture>
+    <date>2002-02-02</date>
+    <opposition>Penarth</opposition>
+    <location>Away</location>
+    <result>Postponed</result>
+    <comment>Waterlogged pitch</comment>
+  </fixture>
+  <fixture>
+    <date>2002-02-09</date>
+    <opposition>Croydon</opposition>
+    <location>Home</location>
+    <result>24 - 1</result>
+    <page href="/2002/reports" fragment="#croydon-at-home---9-feb-2002"/>
+  </fixture>
+  <fixture>
+    <date>2002-02-16</date>
+    <opposition>Cambridge</opposition>
+    <location>Away</location>
+    <result>17 - 1</result>
+  </fixture>
+  <fixture>
+    <date>2002-03-02</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <result>10 - 0 w/o</result>
+  </fixture>
+  <fixture>
+    <date>2002-03-16</date>
+    <opposition>Reading</opposition>
+    <location>Away</location>
+    <result>12 - 4</result>
+    <page href="/2002/reports" fragment="#reading-away---16-mar-2002"/>
+  </fixture>
+  <fixture>
+    <date>2002-03-23</date>
+    <opposition>Hampstead</opposition>
+    <location>Reading</location>
+    <result>12 - 8</result>
+    <competition>Senior Flags Final</competition>
+    <page href="/2002/2002flags"/>
+  </fixture>
+  <fixture>
+    <date>2002-04-06</date>
+    <opposition>Penarth</opposition>
+    <location>Away</location>
+    <result>32 - 2</result>
+    <page href="/2002/reports" fragment="#penarth-away---6-apr-2002"/>
+    <comment>Re-arranged game</comment>
+  </fixture>
+  <fixture>
+    <date>2002-04-14</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <result>10 - 0 w/o</result>
+    <comment>Re-arranged game</comment>
+  </fixture>
+  <fixture>
+    <date>2002-04-20</date>
+    <opposition>Six-a-Sides</opposition>
+    <location>Croydon</location>
+    <competition>Six-a-Sides</competition>
+    <result>Won</result>
+  </fixture>
+</fixtures>

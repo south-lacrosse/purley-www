@@ -1,0 +1,171 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2005-10-08",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "14 - 4",
+			"report": "spencer-away-match-report-8-oct"
+		},
+		{
+			"date": "2005-10-15",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "12 - 13",
+			"report": "hillcroft-home-match-report-15-oct"
+		},
+		{
+			"date": "2005-10-29",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "8 - 10",
+			"report": "hitchin-home-match-report-29-oct"
+		},
+		{
+			"date": "2005-11-05",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "6 - 16",
+			"report": "hampstead-away-match-report-5-nov"
+		},
+		{
+			"date": "2005-11-12",
+			"opposition": "Bath",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "15 - 4",
+			"report": "bath-away-match-report-12-nov"
+		},
+		{
+			"date": "2005-11-19",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "12 - 5",
+			"report": "reading-wildcats-home-match-report-19-nov"
+		},
+		{
+			"date": "2005-11-26",
+			"opposition": "Bath",
+			"location": "Home",
+			"competition": "Snr Flags R2",
+			"result": "17 - 9",
+			"report": "bath-home-match-report-26-nov"
+		},
+		{
+			"date": "2005-12-03",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "8 - 5",
+			"report": "walcountian-blues-away-match-report-3-dec"
+		},
+		{
+			"date": "2005-12-10",
+			"opposition": "Penarth",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "23 - 6",
+			"report": "penarth-home-match-report-10-dec"
+		},
+		{
+			"date": "2005-12-17",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "11 - 8",
+			"report": "hitchin-away-match-report-17-dec"
+		},
+		{
+			"date": "2006-01-14",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "15 - 3",
+			"report": "spencer-home-match-report-14-jan"
+		},
+		{
+			"date": "2006-01-21",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "9 - 11",
+			"report": "hillcroft-away-match-report-21-jan"
+		},
+		{
+			"date": "2006-01-28",
+			"opposition": "Oxford",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "14 - 6",
+			"report": "oxford-home-match-report-28-jan"
+		},
+		{
+			"date": "2006-02-04",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Flags SF",
+			"result": "9 - 8",
+			"report": "hitchin-home-match-report-4-feb"
+		},
+		{
+			"date": "2006-02-11",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "7 - 16",
+			"report": "hampstead-home-match-report-11-feb"
+		},
+		{
+			"date": "2006-02-18",
+			"opposition": "Bath",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "6 - 12",
+			"report": "bath-home-match-report-18-feb"
+		},
+		{
+			"date": "2006-02-25",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "11 - 1",
+			"report": "reading-wildcats-away-match-report-25-feb"
+		},
+		{
+			"date": "2006-03-04",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "18 - 3",
+			"report": "walcountian-blues-home-match-report-4-mar"
+		},
+		{
+			"date": "2006-03-11",
+			"opposition": "Penarth",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "0 - 10 w/o"
+		},
+		{
+			"date": "2006-03-18",
+			"opposition": "Hampstead",
+			"location": "Reading",
+			"competition": "Flags Final",
+			"result": "4 - 12"
+		},
+		{
+			"date": "2006-04-22",
+			"location": "Croydon",
+			"competition": "Six-a-sides",
+			"result": "Won",
+			"report": "six-a-sides-report-22-apr"
+		}
+	]
+}

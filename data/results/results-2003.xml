@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Division 1" flags="Senior">
+  <fixture>
+    <date>2002-10-05</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <result>20 - 1</result>
+    <page href="/2003/hillcroft-home-match-report-5-oct"/>
+  </fixture>
+  <fixture>
+    <date>2002-10-12</date>
+    <opposition>Oxford Uni</opposition>
+    <location>Away</location>
+    <result>10 - 0 w/o</result>
+  </fixture>
+  <fixture>
+    <date>2002-10-19</date>
+    <opposition>Cambridge Uni</opposition>
+    <location>Home</location>
+    <result>36 - 0</result>
+    <page href="/2003/cambridge-univ-home-match-report-19-oct"/>
+  </fixture>
+  <fixture>
+    <date>2002-10-26</date>
+    <opposition>Heaton Mersey</opposition>
+    <location>Away</location>
+    <competition>Iroquois Cup</competition>
+    <result>4 - 18</result>
+    <page href="/2003/heaton-mersey-away-iroquois-cup-report-26-oct"/>
+  </fixture>
+  <fixture>
+    <date>2002-11-02</date>
+    <opposition>Mellor</opposition>
+    <location>Home</location>
+    <competition>Wilkinson Sword</competition>
+    <result>7 - 12</result>
+    <page href="/2003/mellor-home-wilkinson-sword-report-2-nov"/>
+  </fixture>
+  <fixture>
+    <date>2002-11-09</date>
+    <opposition>Bath</opposition>
+    <location>Away</location>
+    <result>20 - 2</result>
+    <page href="/2003/bath-away-match-report-9-nov"/>
+  </fixture>
+  <fixture>
+    <date>2002-11-23</date>
+    <opposition>Spencer</opposition>
+    <location>Away</location>
+    <result>21 - 4</result>
+    <page href="/2003/spencer-away-match-report-23-nov"/>
+  </fixture>
+  <fixture>
+    <date>2002-11-30</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Senior Flags Semi-Finals</competition>
+    <result>14 - 2</result>
+    <page href="/2003/reading-wildcats-away-flags-sf-report-30-nov"/>
+  </fixture>
+  <fixture>
+    <date>2002-12-14</date>
+    <opposition>Croydon</opposition>
+    <location>Home</location>
+    <result>10 - 0 w/o</result>
+  </fixture>
+  <fixture>
+    <date>2003-01-18</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <result>12 - 13</result>
+    <page href="/2003/hampstead-away-match-report-18-jan"/>
+  </fixture>
+  <fixture>
+    <date>2003-01-25</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <result>22 - 2</result>
+    <page href="/2003/spencer-home-match-report-25-jan"/>
+  </fixture>
+  <fixture>
+    <date>2003-02-01</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <result>23 - 3</result>
+    <page href="/2003/walcountian-blues-home-match-report-1-feb"/>
+  </fixture>
+  <fixture>
+    <date>2003-02-15</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <result>30 - 4</result>
+    <page href="/2003/hitchin-away-match-report-15-feb"/>
+  </fixture>
+  <fixture>
+    <date>2003-02-22</date>
+    <opposition>Hampstead</opposition>
+    <location>Reading</location>
+    <result>10 - 8</result>
+    <competition>Senior Flags Finals</competition>
+    <page href="/2003/2003flags"/>
+  </fixture>
+  <fixture>
+    <date>2003-03-01</date>
+    <opposition>Penarth</opposition>
+    <location>Away</location>
+    <result>21 - 4</result>
+  </fixture>
+  <fixture>
+    <date>2003-03-08</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <result>19 - 2</result>
+    <page href="/2003/reading-wildcats-away-match-report-8-mar"/>
+    <comment>Double points</comment>
+  </fixture>
+  <fixture>
+    <date>2003-03-15</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <result>23 - 5</result>
+    <page href="/2003/hillcroft-away-match-report-15-mar"/>
+  </fixture>
+  <fixture>
+    <date>2003-03-22</date>
+    <opposition>Penarth</opposition>
+    <location>Home</location>
+    <result>23 - 1</result>
+  </fixture>
+  <fixture>
+    <date>2003-04-05</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <result>15 - 4</result>
+    <page href="/2003/hampstead-home-match-report-5-apr"/>
+  </fixture>
+  <fixture>
+    <date>2003-04-26</date>
+    <competition>Six-a-Sides</competition>
+    <location>Croydon</location>
+    <result>Won</result>
+    <page href="/2003/six-a-sides-report-26-apr"/>
+  </fixture>
+</fixtures>

@@ -1,0 +1,193 @@
+{
+	"season": "2012/13",
+	"players": [
+		{
+			"name": "Paul Terry",
+			"position": "G",
+			"squadNumber": "1",
+			"stats": [
+				{ "slug": "league", "apps": 10, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 0 }
+			]
+		},
+		{
+			"name": "Mike Barrett",
+			"position": "M/FO",
+			"squadNumber": "2",
+			"stats": [
+				{ "slug": "league", "apps": 13, "goals": 20 },
+				{ "slug": "flags", "apps": 2, "goals": 5 },
+				{ "slug": "friendly", "apps": 3, "goals": 11 }
+			]
+		},
+		{
+			"name": "Andrew Booth",
+			"position": "D",
+			"squadNumber": "3",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Copple",
+			"position": "D",
+			"squadNumber": "6",
+			"stats": [
+				{ "slug": "league", "apps": 14, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 3, "goals": 0 }
+			]
+		},
+		{
+			"name": "Matt Payne",
+			"position": "A",
+			"squadNumber": "7",
+			"stats": [
+				{ "slug": "league", "apps": 6, "goals": 4 },
+				{ "slug": "flags", "apps": 1, "goals": 2 }
+			]
+		},
+		{
+			"name": "Darren Novell",
+			"position": "A",
+			"squadNumber": "10",
+			"stats": [
+				{ "slug": "league", "apps": 5, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 1 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Andy Fernando",
+			"position": "M/FO",
+			"squadNumber": "11",
+			"stats": [
+				{ "slug": "league", "apps": 12, "goals": 2 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Hudson",
+			"position": "LSM/D",
+			"squadNumber": "12",
+			"stats": [
+				{ "slug": "league", "apps": 7, "goals": 1 },
+				{ "slug": "friendly", "apps": 1, "goals": 1 }
+			]
+		},
+		{
+			"name": "Andy Davies",
+			"position": "A/M",
+			"squadNumber": "14",
+			"stats": [
+				{ "slug": "league", "apps": 13, "goals": 2 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Guy Francis",
+			"position": "M",
+			"squadNumber": "16",
+			"stats": [
+				{ "slug": "league", "apps": 8, "goals": 2 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Matt Carey",
+			"position": "A",
+			"squadNumber": "18",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 32 },
+				{ "slug": "flags", "apps": 2, "goals": 7 },
+				{ "slug": "friendly", "apps": 3, "goals": 11 }
+			]
+		},
+		{
+			"name": "Jamie Tasko",
+			"position": "A",
+			"squadNumber": "22",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 2 }]
+		},
+		{
+			"name": "Justin Baranowski",
+			"position": "A",
+			"squadNumber": "25",
+			"stats": [
+				{ "slug": "league", "apps": 12, "goals": 23 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 3, "goals": 8 }
+			]
+		},
+		{
+			"name": "Dave Slaughter",
+			"position": "D",
+			"squadNumber": "28",
+			"stats": [
+				{ "slug": "league", "apps": 15, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 3, "goals": 1 }
+			]
+		},
+		{
+			"name": "Sam Baranowski",
+			"position": "M",
+			"squadNumber": "8",
+			"stats": [
+				{ "slug": "league", "apps": 14, "goals": 0 },
+				{ "slug": "flags", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 2, "goals": 0 }
+			]
+		},
+		{
+			"name": "Jay Baranowski",
+			"position": "M",
+			"stats": [
+				{ "slug": "league", "apps": 2, "goals": 0 },
+				{ "slug": "friendly", "apps": 3, "goals": 0 }
+			]
+		},
+		{
+			"name": "Gunther Schweizer",
+			"position": "M",
+			"stats": [
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Tom Durrands",
+			"position": "D",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Jacob Thorne",
+			"position": "G",
+			"stats": [{ "slug": "league", "apps": 4, "goals": 0 }]
+		},
+		{
+			"name": "Jeremy Webb",
+			"position": "A",
+			"stats": [{ "slug": "league", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "Fred Crips",
+			"position": "G",
+			"stats": [{ "slug": "flags", "apps": 1, "goals": 0 }]
+		},
+		{
+			"name": "A.N.Other",
+			"position": "",
+			"stats": [
+				{ "slug": "league", "apps": 11, "goals": 3 },
+				{ "slug": "flags", "apps": 1, "goals": 0 },
+				{ "slug": "friendly", "apps": 1, "goals": 0 }
+			]
+		}
+	]
+}

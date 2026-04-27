@@ -1,0 +1,9 @@
+/.astro/
+/dist/
+/public/
+node_modules
+
+package-lock.json
+
+*.md
+*.mdx

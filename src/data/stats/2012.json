@@ -1,0 +1,145 @@
+{
+	"season": "2011/12",
+	"friendlies": false,
+	"players": [
+		{
+			"name": "Paul Terry",
+			"position": "G",
+			"squadNumber": "1",
+			"stats": [{ "slug": "league", "apps": 5, "goals": 0 }]
+		},
+		{
+			"name": "Mike Barrett",
+			"position": "M/FO",
+			"squadNumber": "2",
+			"stats": [{ "slug": "league", "apps": 17, "goals": 19 }]
+		},
+		{
+			"name": "Andrew Booth",
+			"position": "D",
+			"squadNumber": "3",
+			"stats": [
+				{ "slug": "league", "apps": 18, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Copple",
+			"position": "D",
+			"squadNumber": "6",
+			"stats": [
+				{ "slug": "league", "apps": 18, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Matt Payne",
+			"position": "A",
+			"squadNumber": "7",
+			"stats": [{ "slug": "league", "apps": 15, "goals": 15 }]
+		},
+		{
+			"name": "Jason Klipich",
+			"position": "M",
+			"squadNumber": "8",
+			"stats": [{ "slug": "league", "apps": 16, "goals": 7 }]
+		},
+		{
+			"name": "Darren Novell",
+			"position": "A",
+			"squadNumber": "10",
+			"stats": [{ "slug": "league", "apps": 8, "goals": 2 }]
+		},
+		{
+			"name": "Andy Fernando",
+			"position": "M/FO",
+			"squadNumber": "11",
+			"stats": [
+				{ "slug": "league", "apps": 17, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Hudson",
+			"position": "LSM/D",
+			"squadNumber": "12",
+			"stats": [
+				{ "slug": "league", "apps": 11, "goals": 1 },
+				{ "slug": "flags", "apps": 1, "goals": 2 }
+			]
+		},
+		{
+			"name": "Andy Davies",
+			"position": "A/M",
+			"squadNumber": "14",
+			"stats": [
+				{ "slug": "league", "apps": 16, "goals": 1 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Phil Chapman",
+			"position": "D",
+			"squadNumber": "18",
+			"stats": [
+				{ "slug": "league", "apps": 18, "goals": 4 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Cluney",
+			"position": "M",
+			"squadNumber": "21",
+			"stats": [{ "slug": "league", "apps": 8, "goals": 2 }]
+		},
+		{
+			"name": "Jamie Tasko",
+			"position": "A",
+			"squadNumber": "22",
+			"stats": [
+				{ "slug": "league", "apps": 16, "goals": 19 },
+				{ "slug": "flags", "apps": 1, "goals": 1 }
+			]
+		},
+		{
+			"name": "Justin Baranowski",
+			"position": "A",
+			"squadNumber": "25",
+			"stats": [
+				{ "slug": "league", "apps": 16, "goals": 10 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Dave Slaughter",
+			"position": "D",
+			"squadNumber": "28",
+			"stats": [
+				{ "slug": "league", "apps": 17, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "Tyler Handley",
+			"position": "G",
+			"squadNumber": "20",
+			"stats": [{ "slug": "league", "apps": 10, "goals": 0 }]
+		},
+		{
+			"name": "Fred Crips",
+			"position": "G",
+			"stats": [
+				{ "slug": "league", "apps": 3, "goals": 0 },
+				{ "slug": "flags", "apps": 1, "goals": 0 }
+			]
+		},
+		{
+			"name": "A.N.Other",
+			"position": "",
+			"stats": [
+				{ "slug": "league", "apps": 10, "goals": 1 },
+				{ "slug": "flags", "apps": 5, "goals": 1 }
+			]
+		}
+	]
+}

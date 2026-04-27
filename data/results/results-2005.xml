@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Division 1" flags="Senior">
+  <fixture>
+    <date>2004-09-11</date>
+    <opposition>Stockport</opposition>
+    <location>Home</location>
+    <competition>Iroquois Cup</competition>
+    <result>8 - 11</result>
+    <page href="/2005/stockport-home-iroquois-cup-report-11-sep"/>
+  </fixture>
+  <fixture>
+    <date>2004-09-25</date>
+    <opposition>Heaton Mersey</opposition>
+    <location>Home</location>
+    <competition>Wilkinson Sword</competition>
+    <result>6 - 15</result>
+    <page href="/2005/heaton-mersey-home-wilkinson-sword-report-25-sep"/>
+  </fixture>
+  <fixture>
+    <date>2004-10-02</date>
+    <opposition>Hitchin</opposition>
+    <location>Home</location>
+    <competition>D1</competition>
+    <result>19 - 2</result>
+    <page href="/2005/hitchin-home-d1-report-2-oct"/>
+  </fixture>
+  <fixture>
+    <date>2004-10-16</date>
+    <opposition>Hillcroft</opposition>
+    <location>Away</location>
+    <competition>D1</competition>
+    <result>8 - 11</result>
+  </fixture>
+  <fixture>
+    <date>2004-10-23</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>D1</competition>
+    <result>Postponed</result>
+    <comment>Pitch unavailable</comment>
+  </fixture>
+  <fixture>
+    <date>2004-10-30</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Away</location>
+    <competition>D1</competition>
+    <result>7 - 6</result>
+  </fixture>
+  <fixture>
+    <date>2004-11-13</date>
+    <opposition>Hampstead</opposition>
+    <location>Away</location>
+    <competition>D1</competition>
+    <result>11 - 4</result>
+  </fixture>
+  <fixture>
+    <date>2004-11-20</date>
+    <opposition>Penarth</opposition>
+    <location>Home</location>
+    <competition>D1/2</competition>
+    <result>23 - 5</result>
+  </fixture>
+  <fixture>
+    <date>2004-11-27</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Home</location>
+    <competition>D1</competition>
+    <result>23 - 4</result>
+  </fixture>
+  <fixture>
+    <date>2004-12-04</date>
+    <opposition>Bath Uni</opposition>
+    <location>Away</location>
+    <competition>D1/2</competition>
+    <result>24 - 2</result>
+  </fixture>
+  <fixture>
+    <date>2004-12-11</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>D1</competition>
+    <result>13 - 6</result>
+  </fixture>
+  <fixture>
+    <date>2004-12-18</date>
+    <opposition>Hitchin</opposition>
+    <location>Away</location>
+    <competition>D1</competition>
+    <result>10 - 0 w/o</result>
+  </fixture>
+  <fixture>
+    <date>2005-01-15</date>
+    <opposition>Spencer</opposition>
+    <location>Home</location>
+    <competition>D1/2</competition>
+    <result>21 - 1</result>
+  </fixture>
+  <fixture>
+    <date>2005-01-22</date>
+    <opposition>Hillcroft</opposition>
+    <location>Home</location>
+    <competition>D1</competition>
+    <result>11 - 9</result>
+  </fixture>
+  <fixture>
+    <date>2005-01-29</date>
+    <opposition>Hampstead</opposition>
+    <location>Home</location>
+    <competition>D1</competition>
+    <result>8 - 11</result>
+  </fixture>
+  <fixture>
+    <date>2005-02-05</date>
+    <opposition>Oxford Uni</opposition>
+    <location>Away</location>
+    <competition>D1/2</competition>
+    <result>15 - 1</result>
+  </fixture>
+  <fixture>
+    <date>2005-02-26</date>
+    <opposition>Reading Wildcats</opposition>
+    <location>Away</location>
+    <competition>Senior Flags Semi Final</competition>
+    <result>13 - 6</result>
+  </fixture>
+  <fixture>
+    <date>2005-03-05</date>
+    <opposition>Walcountian Blues</opposition>
+    <location>Home</location>
+    <competition>D1</competition>
+    <result>17 - 7</result>
+  </fixture>
+  <fixture>
+    <date>2005-03-12</date>
+    <opposition>Bath</opposition>
+    <location>Home</location>
+    <competition>D1/2</competition>
+    <result>15 - 2</result>
+  </fixture>
+  <fixture>
+    <date>2005-03-19</date>
+    <opposition>Hampstead</opposition>
+    <location>Reading</location>
+    <competition>Senior Flags Final</competition>
+    <result>10 - 11 (AET)</result>
+  </fixture>
+  <fixture>
+    <date>2005-04-09</date>
+    <opposition>Buckhurst Hill</opposition>
+    <location>Away</location>
+    <competition>D1/2</competition>
+    <result>11 - 8</result>
+  </fixture>
+  <fixture>
+    <date>2005-04-16</date>
+    <location>Croydon</location>
+    <competition>Six-a-Sides</competition>
+  </fixture>
+</fixtures>

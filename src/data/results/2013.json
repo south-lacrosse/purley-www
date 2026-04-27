@@ -1,0 +1,250 @@
+{
+	"league": "SEMLA Premier Division",
+	"flags": "Senior",
+	"fixtures": [
+		{
+			"date": "2012-08-11",
+			"location": "Maidstone",
+			"competition": "Baggataway Tournament"
+		},
+		{
+			"date": "2012-09-01",
+			"location": "Bath",
+			"competition": "Bath 8s"
+		},
+		{
+			"date": "2012-09-15",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "Friendly"
+		},
+		{
+			"date": "2012-09-22",
+			"opposition": "Croydon",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "10 - 1"
+		},
+		{
+			"date": "2012-09-29",
+			"opposition": "Northampton Uni",
+			"location": "Home",
+			"competition": "Friendly",
+			"result": "14 - 4"
+		},
+		{
+			"date": "2012-10-06",
+			"opposition": "Hampstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "6 - 11",
+			"report": "hampstead-away-match-report-6-oct"
+		},
+		{
+			"date": "2012-10-13",
+			"opposition": "Spencer",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "2 - 11"
+		},
+		{
+			"date": "2012-10-20",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Snr Flags R1",
+			"result": "6 - 5",
+			"report": "walcountian-blues-home-match-report-20-oct"
+		},
+		{
+			"date": "2012-10-27",
+			"opposition": "Hitchin",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "10 - 9"
+		},
+		{
+			"date": "2012-11-03",
+			"opposition": "Cardiff Harlequins",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2012-11-10",
+			"opposition": "East Grinstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "5 - 7",
+			"report": "east-grinstead-home-match-report-10-nov"
+		},
+		{
+			"date": "2012-11-17",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Flags R2",
+			"result": "10 - 16"
+		},
+		{
+			"date": "2012-11-24",
+			"opposition": "Reading Wildcats",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "5 - 13"
+		},
+		{
+			"date": "2012-12-01",
+			"opposition": "Walcountian Blues",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "3 - 15"
+		},
+		{
+			"date": "2012-12-08",
+			"opposition": "Welwyn Warriors",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Waterlogged pitch"
+		},
+		{
+			"date": "2012-12-15",
+			"opposition": "Hillcroft",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "7 - 14"
+		},
+		{
+			"date": "2013-01-12",
+			"opposition": "Hampstead",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "6 - 11"
+		},
+		{
+			"date": "2013-01-19",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Frozen pitch"
+		},
+		{
+			"date": "2013-01-26",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch unavailable"
+		},
+		{
+			"date": "2013-02-09",
+			"opposition": "Cardiff Harlequins",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "11 - 7",
+			"report": "cardiff-home-match-report-9-feb"
+		},
+		{
+			"date": "2013-02-16",
+			"opposition": "East Grinstead",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "6 - 15"
+		},
+		{
+			"date": "2013-02-23",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Pitch frozen"
+		},
+		{
+			"date": "2013-03-09",
+			"opposition": "Reading Wildcats",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Rearranged match, waterlogged pitch"
+		},
+		{
+			"date": "2013-03-10",
+			"opposition": "Spencer",
+			"location": "Away",
+			"competition": "Prem",
+			"comment": "Rearranged match",
+			"result": "2 - 21"
+		},
+		{
+			"date": "2013-03-16",
+			"opposition": "Walcountian Blues",
+			"location": "Away",
+			"competition": "Prem",
+			"result": "6 - 9"
+		},
+		{
+			"date": "2013-03-23",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"result": "Postponed",
+			"comment": "Snow"
+		},
+		{
+			"date": "2013-04-06",
+			"opposition": "Welwyn Warriors",
+			"location": "Hitchin",
+			"competition": "Prem",
+			"result": "10 - 10"
+		},
+		{
+			"date": "2013-04-13",
+			"opposition": "Hitchin",
+			"location": "Home",
+			"competition": "Prem",
+			"comment": "Rearranged match, at Monks Hill",
+			"result": "6 - 19"
+		},
+		{
+			"date": "2013-04-14",
+			"opposition": "Reading",
+			"location": "Home",
+			"competition": "Prem",
+			"comment": "Rearranged match, at Monks Hill",
+			"result": "6 - 13"
+		},
+		{
+			"date": "2013-04-20",
+			"opposition": "Cardiff Harlequins",
+			"location": "Away",
+			"comment": "Rearranged match",
+			"result": "Void"
+		},
+		{
+			"date": "2013-04-21",
+			"opposition": "Hillcroft",
+			"location": "Home",
+			"competition": "Prem",
+			"comment": "Rearranged match",
+			"result": "Void"
+		},
+		{
+			"date": "2013-06-08",
+			"competition": "Bluesfest",
+			"location": "Walcountians"
+		},
+		{
+			"date": "2013-06-09",
+			"competition": "Bluesfest",
+			"location": "Walcountians",
+			"result": "7th="
+		},
+		{
+			"date": "2013-07-27",
+			"competition": "Purley Sixes",
+			"location": "Home",
+			"result": "Runners-up"
+		}
+	]
+}

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixtures league="SEMLA Division 2, Local Home Counties" flags="Intermediate">
+<fixture>
+<date>2019-09-21</date>
+<opposition>Walcountian Blues</opposition>
+<location>Away</location>
+<competition>L-HC</competition>
+<result>0 - 10 w/o</result>
+</fixture>
+<fixture>
+<date>2019-09-28</date>
+<opposition>Spencer 3</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>5 - 5</result>
+</fixture>
+<fixture>
+<date>2019-10-05</date>
+<opposition>East Grinstead</opposition>
+<location>Home</location>
+<competition>L-HC</competition>
+<result>1 - 11</result>
+</fixture>
+<fixture>
+<date>2019-10-12</date>
+<opposition>Oxford Owls</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>16 - 0</result>
+<comment>Double points</comment>
+</fixture>
+<fixture>
+<date>2019-10-19</date>
+<opposition>Canterbury City</opposition>
+<location>Away</location>
+<competition>L-HC</competition>
+<result>8 - 12</result>
+</fixture>
+<fixture>
+<date>2019-10-26</date>
+<opposition>Camden Capybaras</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>2 - 13</result>
+</fixture>
+<fixture>
+<date>2019-11-02</date>
+<opposition>Canterbury City</opposition>
+<location>Home</location>
+<competition>L-HC</competition>
+<result>10 - 0 w/o</result>
+</fixture>
+<fixture>
+<date>2019-11-09</date>
+<opposition>East Grinstead</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>4 - 4</result>
+</fixture>
+<fixture>
+<date>2019-11-16</date>
+<opposition>Hillcroft</opposition>
+<location>Away</location>
+<competition>Snr Flags R16</competition>
+<result>0 - 10 w/o</result>
+</fixture>
+<fixture>
+<date>2019-11-30</date>
+<opposition>Epsom</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>16 - 2</result>
+</fixture>
+<fixture>
+<date>2019-12-07</date>
+<opposition>Cheltenham</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>0 - 10 w/o</result>
+</fixture>
+<fixture>
+<date>2020-01-11</date>
+<opposition>Spencer 3</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>4 - 20</result>
+</fixture>
+<fixture>
+<date>2020-01-18</date>
+<opposition>Camden Capybaras</opposition>
+<location>Away</location>
+<competition>Int Flags R16</competition>
+<result>0 - 10 w/o</result>
+</fixture>
+<fixture>
+<date>2020-01-25</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Away</location>
+<competition>L-HC</competition>
+<result>3 - 12</result>
+</fixture>
+<fixture>
+<date>2020-02-01</date>
+<pitch>3G</pitch>
+<opposition>Camden Capybaras</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>2 - 18</result>
+</fixture>
+<fixture>
+<date>2020-02-08</date>
+<pitch>3G</pitch>
+<opposition>Epsom</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>6 - 3</result>
+</fixture>
+<fixture>
+<date>2020-02-29</date>
+<pitch>3G</pitch>
+<opposition>Walcountian Blues</opposition>
+<location>Home</location>
+<competition>L-HC</competition>
+</fixture>
+<fixture>
+<date>2020-03-07</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>Rearranged to 14 Mar</result>
+</fixture>
+<fixture>
+<date>2020-03-14</date>
+<pitch>3G</pitch>
+<opposition>East Grinstead</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>4 - 11</result>
+</fixture>
+<fixture>
+<date>2020-03-21</date>
+<opposition>Oxford Owls</opposition>
+<location>Away</location>
+<competition>D2</competition>
+<result>Double points on Oct 12</result>
+<comment>Out of term for Oxford</comment>
+</fixture>
+<fixture>
+<date>2020-03-28</date>
+<pitch>3G</pitch>
+<opposition>Cheltenham</opposition>
+<location>Home</location>
+<competition>D2</competition>
+<result>Cancelled (COVD-19)</result>
+</fixture>
+</fixtures>

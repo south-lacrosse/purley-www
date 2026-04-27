@@ -1,0 +1,36 @@
+---
+import type { GetStaticPaths } from 'astro';
+
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import { archiveEntries, ARCHIVES_PAGE_SIZE } from '~/archives';
+import PaginationLinks from '~/components/PaginationLinks.astro';
+import { entryTitle } from '~/util/titles';
+
+export const getStaticPaths = (async ({ paginate }) => {
+	return paginate(archiveEntries, {
+		pageSize: ARCHIVES_PAGE_SIZE,
+	});
+}) satisfies GetStaticPaths;
+
+const page = Astro.props.page;
+const { currentPage, lastPage, url } = page;
+---
+
+<BaseLayout title={'Archives' + (currentPage > 1 ? ` Page ${currentPage}` : '')} robots={false}>
+	<h1>Archives</h1>
+	<ul class="archives-list">
+		{
+			page.data.map((entry) => (
+				<li>
+					<a href={`/${entry.id}`}>{entryTitle(entry)}</a>
+				</li>
+			))
+		}
+	</ul>
+	<PaginationLinks
+		currentPage={currentPage}
+		lastPage={lastPage}
+		currentUrl={url.current}
+		slot="bottom-navigation"
+	/>
+</BaseLayout>

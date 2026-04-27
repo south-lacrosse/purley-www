@@ -1,0 +1,178 @@
+---
+/**
+ * Render statistics. Data is stored in JSON files, and retrieved using an Astro
+ * Content Collection so we get validation, intellisense, and type checking.
+ *
+ * Note: the included styles are marked is:global as it's assumed there will
+ * only be 1 table (i.e. this one) on the page, and this saves Astro adding
+ * data-astro-cid-... attributes to each element in this component.
+ */
+import { getEntry } from 'astro:content';
+
+interface Props {
+	year: number;
+}
+
+const { year } = Astro.props;
+const json = await getEntry('stats', year.toString());
+if (!json) {
+	throw new Error('Unknown stats: ' + year);
+}
+const { friendlies = true, refGames = false, players } = json.data;
+const competitionTypes = {
+	league: 'League',
+	flags: 'Flags',
+	...(friendlies && { friendly: 'Friendly' }),
+};
+---
+
+<div class="scrollable">
+	<table class="wide">
+		<thead>
+			<tr>
+				<th rowspan="2" class="name">Name</th>
+				<th rowspan="2">#</th>
+				<th rowspan="2"><abbr title="Position">Posn.</abbr></th>
+				<th colspan="3" class="no-bb">Total</th>
+				<th colspan="3" class="no-bb">League</th>
+				<th colspan="3" class="no-bb">Flags</th>
+				{
+					friendlies && (
+						<th colspan="3" class="no-bb">
+							Friendly
+						</th>
+					)
+				}
+				{
+					refGames && (
+						<th rowspan="2" class="no-bb">
+							<abbr title="Games refereed or part refereed">Ref</abbr>
+						</th>
+					)
+				}
+			</tr>
+			<tr>
+				<th><abbr title="Total appearances">Ap</abbr></th>
+				<th><abbr title="Total goals">G</abbr></th>
+				<th><abbr title="Average total goals">Av</abbr></th>
+				{
+					Object.values(competitionTypes).map((compText) => (
+						<>
+							<th>
+								<abbr title={`${compText} appearances`}>Ap</abbr>
+							</th>
+							<th>
+								<abbr title={`${compText} goals`}>G</abbr>
+							</th>
+							<th>
+								<abbr title={`${compText} avg goals`}>Av</abbr>
+							</th>
+						</>
+					))
+				}
+			</tr>
+		</thead>
+		<tbody>
+			{
+				players.map((player) => {
+					const statsBySlug: {
+						[slug: string]: { apps: number; goals: number };
+					} = {};
+					const { totalApps, totalGoals } = player.stats.reduce(
+						(acc, stat) => {
+							acc.totalApps += stat.apps;
+							acc.totalGoals += stat.goals;
+							statsBySlug[stat.slug] = { apps: stat.apps, goals: stat.goals };
+							return acc;
+						},
+						{ totalApps: 0, totalGoals: 0 }
+					);
+					return (
+						<tr>
+							<td class="name">{player.name}</td>
+							<td>{player.squadNumber}</td>
+							<td>{player.position}</td>
+							<td>{totalApps}</td>
+							<td>{totalGoals}</td>
+							<td>{totalGoals > 0 ? (totalGoals / totalApps).toFixed(2) : ''}</td>
+							{Object.keys(competitionTypes).map((slug) => {
+								const stats = statsBySlug[slug];
+								let apps = '';
+								let goals = '';
+								let avg = '';
+								if (stats) {
+									if (stats.apps > 0) {
+										apps = stats.apps.toString();
+										goals = stats.goals.toString();
+										if (stats.goals > 0) {
+											avg = (stats.goals / stats.apps).toFixed(2);
+										}
+									}
+								}
+								return (
+									<>
+										<td>{apps}</td>
+										<td>{goals}</td>
+										<td>{avg}</td>
+									</>
+								);
+							})}
+							{refGames && <td>{player.ref}</td>}
+						</tr>
+					);
+				})
+			}
+		</tbody>
+	</table>
+</div>
+
+<style is:global>
+	table {
+		text-align: center;
+		/* need to separate the borders so that when the table scrolls the sticky
+		   first column keeps it's borders */
+		border-collapse: separate;
+		max-width: 45rem;
+	}
+	thead {
+		background-color: var(--table-cell-bg);
+	}
+	th {
+		/* global has bottom border of 0.125rem, so override here */
+		border-bottom-width: 0.0625rem;
+	}
+	/* Since borders are separate we need to make sure we don't double up borders.  */
+	.no-bb {
+		border-bottom: none;
+	}
+	td,
+	th {
+		border-left-width: 0;
+	}
+	td {
+		border-top-width: 0;
+	}
+	abbr {
+		text-decoration: none;
+		border-bottom: 0 !important;
+	}
+	.name {
+		text-align: left;
+		border-left-width: 0.0625rem;
+		/* stick column - class will be on th & td  */
+		z-index: 1;
+		position: sticky;
+		left: 0;
+	}
+	/* sticky columns need background otherwise we'll see overlapping content */
+	th.name {
+		background-color: var(--table-cell-bg);
+	}
+	td.name {
+		background-color: var(--background);
+	}
+	tbody > tr:hover,
+	tbody > tr:hover > td.name {
+		background-color: var(--table-cell-bg);
+	}
+</style>
