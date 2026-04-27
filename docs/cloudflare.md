@@ -8,7 +8,7 @@ To connect the repo to Cloudflare we had to install the `Cloudflare Workers and 
 
 Useful links:
 
-* [Cloudflare Dashboard]((https://dash.cloudflare.com/)) - to see Pages apps, on the left select Build > Compute > Workers & Pages
+* [Cloudflare Dashboard](https://dash.cloudflare.com/) - to see Pages apps, on the left select Build > Compute > Workers & Pages
 * [Branch Build Controls](https://developers.cloudflare.com/pages/configuration/branch-build-controls/) - how to pause automatic building for a branch
 
 ## Cloudflare Account
@@ -23,7 +23,9 @@ Cloudflare didn't recognise that is was connected to our GitHub account.
 
 When we started the Create application process, and skipped the Workers page to get to Pages, we followed the instructions to install the Cloudflare app on GitHub, however when we returned from doing that in GitHub to Cloudflare we could not see the repo. On trying again Cloudflare took us to the GitHub page to configure the app which was already correctly configured, but even if we made changes Cloudflare still did not recognise that the app was set up.
 
-We eventually went back to the first page after "Create application" (Create a Worker) and chose "Continue with GitHub" there. When we returned this time the connection was set up, so we went back and chose "Looking to deploy Pages? Get started", and the GitHub account and repo were now available.
+From researching this issue, it is possible this was because the repo we were trying to connect belonged to an organization, and the organization token is stale. Most suggested deleting and reinstalling the Cloudflare GitHub App, but in our case that didn't work.
+
+We eventually went back to the first page after "Create application" (Create a Worker) and chose "Continue with GitHub" from there. When we returned this time the connection was set up, so we went back and chose "Looking to deploy Pages? Get started", and the GitHub account and repo were now available.
 
 ## Connecting Other Repositories
 

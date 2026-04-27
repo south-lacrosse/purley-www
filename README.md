@@ -31,6 +31,6 @@ Run from the command line within the project:
 
 Running `npm run build` builds the site to static HTML in `./dist/`. You can deploy these files to any web host.
 
-We have decided to use Cloudflare as out hosts as they will host static sites for free, and you can set up custom domains. We have installed the Cloudflare Workers and Pages App on this GitHub repo, so changes are automatically deployed when a change is pushed to GitHub.
+We have decided to use Cloudflare as our hosts as they will host static sites for free, and you can set up custom domains. We have installed the Cloudflare Workers and Pages App on this GitHub repo, so changes are automatically deployed when a change is pushed to GitHub.
 
 See our [Cloudflare docs](docs/cloudflare.md) for more details.
