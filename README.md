@@ -20,6 +20,7 @@ Run from the command line within the project:
 * `npm run astro preferences disable devToolbar` - disable (or enable) the development toolbar in browser
 * `npm run astro preferences list`- list preferences
 * `npm run astro -- --help` - Get help using the Astro CLI
+* `npm run check-links` - check `./dist/` for broken links using linkinator. You must run the build first!
 
 ## Related Documents
 
