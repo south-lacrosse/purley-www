@@ -260,6 +260,10 @@ blockquote::before {
 	color: var(--white-text);
 	line-height: 1.875;
 }
+.related-simple-link {
+	padding: 0;
+	display: initial;
+}
 .related-link:visited {
 	color: var(--white-text);
 }
