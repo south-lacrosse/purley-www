@@ -9,7 +9,9 @@ To connect the repo to Cloudflare we had to install the `Cloudflare Workers and 
 Useful links:
 
 * [Cloudflare Dashboard](https://dash.cloudflare.com/) - to see Pages apps, on the left select Build > Compute > Workers & Pages
-* [Branch Build Controls](https://developers.cloudflare.com/pages/configuration/branch-build-controls/) - how to pause automatic building for a branch
+* [Branch Build Controls](https://developers.cloudflare.com/pages/configuration/branch-build-controls/) - how to pause automatic building for a branch, and how to enable previews for other branches
+
+Note: by default Cloudflare will build previews for all non-production branches to `{preview-hash}.project.pages.dev`, but we have disabled this. To turn back on use the Branch Build Controls link above. Also note that as we have bulk redirects configured any preview URLs will be redirected to our custom domain anyway.
 
 ## Cloudflare Account
 
@@ -39,6 +41,6 @@ Then [follow the Cloudflare instructions](https://developers.cloudflare.com/page
 
 Pages by default creates a subdomain `project.pages.dev`. As part of the setup process you should also setup a custom domain `project.southlacrosse.org.uk` - there should be a link during the setup, and the process is straightforward, just follow the instructions. It will ask you to add a DNS CNAME record which points to the `pages.dev` domain, so you will need access to the southlacrosse DNS settings.
 
-Once that is done you should make sure the site is [redirected to the custom domain](https://developers.cloudflare.com/pages/how-to/redirect-to-custom-domain/).
+Once that is done you should make sure the site is [redirected to the custom domain](https://developers.cloudflare.com/pages/how-to/redirect-to-custom-domain/). Note that bulk redirects work at the account level, so if you redirect `project.pages.dev` then it will also redirect any preview URLs, effectively masking them.
 
 Note it is important that the site has the canonical URL on each page (which we set in `BaseLayout.astro`), as if for any reason a crawler gets to the `pages.dev` pages then it will prevent the search engine from thinking it's duplicate content.
