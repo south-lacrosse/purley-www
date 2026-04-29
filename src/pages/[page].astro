@@ -14,10 +14,12 @@ export const getStaticPaths = (async ({ paginate }) => {
 
 const page = Astro.props.page;
 const { currentPage, lastPage, url } = page;
+const pageXofY = lastPage > 1 ? `Page ${currentPage} of ${lastPage}` : '';
 ---
 
-<BaseLayout title={'Archives' + (currentPage > 1 ? ` Page ${currentPage}` : '')} robots={false}>
-	<h1>Archives</h1>
+<BaseLayout title={'Archives' + (pageXofY ? ' ' + pageXofY : '')} robots={false}>
+	<h1 class:list={[{ 'with-byline': pageXofY }]}>Archives</h1>
+	{pageXofY && <p class="byline-big">{pageXofY}</p>}
 	<ul class="archives-list">
 		{
 			page.data.map((entry) => (
