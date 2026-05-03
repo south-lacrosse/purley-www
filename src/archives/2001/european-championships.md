@@ -25,7 +25,7 @@ It didn't take much to persuade the core of the Purley team, and the project was
 
 I'm not sure if Peter had already enticed Trevor Rogers to be team manager, or if that came later, but Trevor got busy organising everything that was needed behind the scenes. Open trials were arranged over a weekend at Reading, and several Northern players attended and made it into the final squad.
 
-I won't go into the events of the week spent in Wales here, except to say that England finished runners-up, comprehensively beaten by Germany in the final. For a full write-up see [the article in Lacrosse Talk by Jeff Kettlewell](https://drive.google.com/file/d/1jjHXAqM93NNw9Y1Wlk354VKDJUH5K7Ox/view?usp=drive_link) (see page 14, with more coverage from a Welsh angle on the following pages) - or see the [high res version](https://drive.google.com/file/d/16W37mmsCYiYxN9WSRStmhXfEO61t2nnK/view?usp=drive_link) if you want better images.
+I won't go into the events of the week spent in Wales here, except to say that England finished runners-up, comprehensively beaten by Germany in the final. For a full write-up see [the article in Lacrosse Talk by Jeff Kettlewell](https://drive.google.com/file/d/1jjHXAqM93NNw9Y1Wlk354VKDJUH5K7Ox/view?usp=drive_link) (see page 14, with more coverage from a Welsh angle on the following pages) - or see [a text only version with no pictures](european-championships-report) (but much easier to read!), or a [high res version](https://drive.google.com/file/d/16W37mmsCYiYxN9WSRStmhXfEO61t2nnK/view?usp=drive_link).
 
 However, there are couple stand-out memories that are worth noting here:
 
@@ -108,7 +108,7 @@ Dave Hallows - Hampstead\
 Peter Compton - Spencer\
 Tom Warnes - Hulmeians
 
-### Asst Coaches
+### Assistant Coaches
 
 Justin Camarda - Hitchin\
 Denham Pope - **Purley**\
