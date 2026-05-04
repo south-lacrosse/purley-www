@@ -17,7 +17,7 @@ const { currentPage, lastPage, url } = page;
 const pageXofY = lastPage > 1 ? `Page ${currentPage} of ${lastPage}` : '';
 ---
 
-<BaseLayout title={'Archives' + (pageXofY ? ' ' + pageXofY : '')} robots={false}>
+<BaseLayout title={'Archives' + (pageXofY ? ' ' + pageXofY : '')} type="index">
 	<h1 class:list={[{ 'with-byline': pageXofY }]}>Archives</h1>
 	{pageXofY && <p class="byline-big">{pageXofY}</p>}
 	<ul class="archives-list">

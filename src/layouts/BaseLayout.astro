@@ -3,10 +3,16 @@ import '~/styles/global.css';
 
 interface Props {
 	title: string;
-	robots?: boolean;
+	/**
+	 * home = home page,
+	 * page = markdown pages in src/pages,
+	 * archive = markdown content in src/archives,
+	 * index = index of archive pages
+	 */
+	type: 'home' | 'page' | 'archive' | 'index';
 }
 
-const { title, robots = true } = Astro.props;
+const { title, type } = Astro.props;
 
 // When we build with format: 'file' the Astro.url will include the '.html' to
 // match the file it generated, and 'index.html' for the home page, so we need
@@ -28,7 +34,7 @@ const canonicalURL = new URL(path, Astro.site);
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<title>{title}{path !== '/' && ' - Purley Lacrosse'}</title>
-		{!robots && <meta name="robots" content="noindex,follow" />}
+		{type === 'index' && <meta name="robots" content="noindex,follow" />}
 		<link rel="icon" type="image/png" href="/favicon.png" sizes="96x96" />
 		<link rel="icon" href="/favicon.ico" />
 		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -48,7 +54,19 @@ const canonicalURL = new URL(path, Astro.site);
 			<slot name="bottom-navigation" />
 		</div>
 		<footer>
-			<slot name="related" />
+			{
+				type === 'archive' ? (
+					<slot name="related" />
+				) : (
+					type !== 'index' && (
+						<nav class="related-nav" aria-label="Secondary">
+							<a href="/1" class="related-link related-simple-link">
+								Full Archives
+							</a>
+						</nav>
+					)
+				)
+			}
 			<div class="center small">&copy; 1906-2022</div>
 		</footer>
 	</body>
