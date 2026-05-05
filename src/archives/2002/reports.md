@@ -17,7 +17,7 @@ stint working in Germany.
 On the pitch, however, it was business as usual as Purley cruised to a
 27 - 3 win over last years Flags finalists Hitchin. In order to match last
 seasons achievements, Purley will need the midfield to step up their game
-to cover the loss of Mike Barrett, but judging from this performace both
+to cover the loss of Mike Barrett, but judging from this performance both
 Matt Payne and Scott Nicholls look very capable of doing so.
 
 ## Bath Away - 13 Oct 2001
@@ -44,7 +44,7 @@ score 18-3.
 
 ## Oxford Away, Senior Flags round 1 - 3 Nov 2001
 
-Due to work commitments, holidays and injuries Purley stuggled to get 10
+Due to work commitments, holidays and injuries Purley struggled to get 10
 men to take the field. The final team line-up is one that isn't likely to
 be repeated. Tony 'the Fossilator' Bennett was lured out of retirement to
 play in goal, and probably breaks the Purley record for the oldest player
@@ -55,7 +55,7 @@ only area that had a familiar look.
 
 In order for there not to be a cup upset, Purley had to control the ball
 and counter the fitness and superior numbers of the students. Play was
-scrappy at the beggining of the first quarter, with few decissive breaks on
+scrappy at the beginning of the first quarter, with few decisive breaks on
 goal - and it was the students who managed to score first. Purley replied
 with a goal from Paul Terry, and Stuart Green opened his account for Purley
 to make the quarter time score 2-1. Purley managed to maintain the lead in
@@ -65,7 +65,7 @@ behind.
 A change of tactics at half time saw Purley spread the play wider in
 attack, leaving more room for dodging - and Matt Payne capitalised with a
 couple of well taken goals, including a rather nice round the back shot,
-and Purley managed to pull away into a comfortable 8-3 lead at three quater
+and Purley managed to pull away into a comfortable 8-3 lead at three quarter
 time. The final quarter was much of the same - final score 11-4.
 
 ## Hillcroft at Home - 10 Nov 2001
@@ -86,7 +86,7 @@ Gold were determined to put on a more clinical display this time out - and
 came out firing on all cylinders in the first quarter. Scott Nicholls
 seemed to be winning every ground ball from the face-off, the Purley
 defence was stripping the ball, and the attack notched up five goals. Added
-to that, what little possesion Hamsptead did have they squandered, and with
+to that, what little possession Hampstead did have they squandered, and with
 a first quarter scoreline of 5-0 the game was almost in the bag.
 
 However in the second quarter Hampstead did settle the ship, and limited
@@ -183,7 +183,7 @@ matter of time before Purley equalised.
 
 After that Purley began to dominate and never really looked back. Although
 Reading created some good chances they were unable to beat the Purley
-defence - one noteable opportunity being a one-on-one save by keeper Paul
+defence - one notable opportunity being a one-on-one save by keeper Paul
 Terry, when the shot seemed to have beaten him and was deflected onto the
 post by a nice glove save. But Purley had stepped up a couple of gears and
 the goals were all Purple and Gold.
@@ -206,7 +206,7 @@ win over Penarth. The big score-line wasn't due to Penarth being a poor
 team - they're not, they just had the misfortune to meet possibly the
 strongest squad Purley had put out this season, and the Purple attack and
 midfield were on fire. With slick passing, good movement off the ball, and
-fast and decissive cutting, it sometimes seemed that Purley were scoring at
+fast and decisive cutting, it sometimes seemed that Purley were scoring at
 will. Attack man Tim Richmond, who had returned from Australia two days
 before after a six months absence, quickly renewed his partnership with
 Dave Arnot, and between them they managed to net 17 goals. Even defence man

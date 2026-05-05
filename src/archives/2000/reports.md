@@ -152,7 +152,7 @@ pressure but they only scored once even though they created a few chances.
 The third quarter ended 6 - 4. Purley had dominated the face-offs all day
 (only losing 4 in the whole game) and this was the key to the start of the
 fourth quarter. Purley scored 3 quick goals and from this point the game
-was safe. The game ended with a sign that it truely was Purley's day with
+was safe. The game ended with a sign that it truly was Purley's day with
 Graeme Holland scoring against Simon Savage from distance!
 
 Final score 13 - 5.

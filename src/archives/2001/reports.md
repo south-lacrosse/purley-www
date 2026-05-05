@@ -243,7 +243,7 @@ Mike Barret 2, Greg Venville 2, Matt Payne 1, Dave Slaughter 1.
 
 With the current league standings, Purley knew that a victory against
 Hampstead would bring home the league championship. Apparently someone had
-told Hampstead too, as they arrived with the stongest squad Purley had
+told Hampstead too, as they arrived with the strongest squad Purley had
 faced so far, obviously intent on spoiling the party.
 
 The first quarter started with Purley controlling much of the possession,
@@ -254,13 +254,13 @@ had a long period of possession themselves, but though they pressured the
 Purley defence they rarely managed to get a good opportunity to score. At
 quarter time the score was 2-1 to Purley. In the second quarter Hampstead
 were much more incisive in attack, and took a two goal lead - which Purley
-managed to peg back to 4-5 at half time. The Purple and Gold definately
+managed to peg back to 4-5 at half time. The Purple and Gold definitely
 knew they were in a game.
 
 In the third quarter Purley knew they had to up the tempo if they were to
 win this game. With much of the early possession, Purley managed to score
 the vital first goal of the half to pull level, and went on to build up a
-decissive lead as they notched up six goals in the quarter to Hampstead's
+decisive lead as they notched up six goals in the quarter to Hampstead's
 one. Facing a four goal deficit going in the fourth quarter Hampstead
 really needed to score first if they were to have a chance of winning, but
 Purley were in their stride now and it was they who scored first, and from
@@ -271,7 +271,7 @@ then on controlled the game to run out 14-6 winners.
 With a couple of players resting injuries for next weeks flags final,
 Purley could only manage a squad of 10 men. The conditions for lacrosse
 were not helpful - the amount of recent rain had made the pitch very heavy,
-and difficult to pick up on. Indeed, there were a couple of occaisions
+and difficult to pick up on. Indeed, there were a couple of occasions
 during the game when the referee had to call a face due to the ball being
 lost in the mud!
 
