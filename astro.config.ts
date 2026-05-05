@@ -21,7 +21,11 @@ export default defineConfig({
 	build: {
 		format: 'file',
 	},
-	integrations: [mdx(), sitemap(), removeOriginalImages()],
+	integrations: [
+		mdx(),
+		sitemap({ filter: (page) => !page.match(/^https:\/\/purley.southlacrosse.org.uk\/\d+$/) }),
+		removeOriginalImages(),
+	],
 	markdown: {
 		rehypePlugins: [rehypeFigureImages, rehypeTables],
 	},
