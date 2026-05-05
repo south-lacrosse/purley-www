@@ -1,7 +1,6 @@
 ---
 title: Purley v Surbiton at Lords 1927
-date: 1927-05-01
-isApprox: true
+date: 1927-05-01 # approx
 ---
 
 ![Team picture](1927team.jpg)\

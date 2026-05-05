@@ -1,7 +1,6 @@
 ---
 title: League & Flags Winners 2000/1
-date: 2000-09-01
-isApprox: true
+date: 2000-09-01 # approx
 ---
 
 ![Team Picture](2001flags-02.jpg)\

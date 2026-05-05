@@ -1,7 +1,6 @@
 ---
 title: League & Flags Winners 1999/2000
-date: 1999-09-01
-isApprox: true
+date: 1999-09-01 # approx
 ---
 
 ![Team picture](1999-2000champs.jpg)\

@@ -1,7 +1,6 @@
 ---
 title: 2004/5 Roster
-date: 2004-09-03
-isApprox: true
+date: 2004-09-03 # approx
 ---
 
 | No. | Name | Posn. | Hometown |

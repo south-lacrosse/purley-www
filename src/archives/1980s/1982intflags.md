@@ -1,7 +1,6 @@
 ---
 title: Intermediate Flags Winners 1982
-date: 1982-05-01
-isApprox: true
+date: 1982-05-01 # approx
 ---
 
 ![Team picture](1982intflags.jpg)\

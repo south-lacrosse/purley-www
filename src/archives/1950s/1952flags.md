@@ -1,7 +1,6 @@
 ---
 title: Purley Flags Winning Team 1952
-date: 1952-05-01
-isApprox: true
+date: 1952-05-01 # approx
 ---
 
 This newspaper report was printed at the time - though I'm not sure which

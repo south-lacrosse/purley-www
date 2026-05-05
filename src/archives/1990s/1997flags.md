@@ -1,7 +1,6 @@
 ---
 title: Senior Flags Final 1997
-date: 1997-05-01
-isApprox: true
+date: 1997-05-01 # approx
 ---
 
 ## Purley Break the Kenton Stranglehold

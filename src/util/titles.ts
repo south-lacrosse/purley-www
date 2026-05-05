@@ -1,11 +1,10 @@
 import type { CollectionEntry } from 'astro:content';
 
-const options: Intl.DateTimeFormatOptions = {
+const dateTimeFormat = new Intl.DateTimeFormat('en-GB', {
 	year: 'numeric',
 	month: 'short',
 	day: 'numeric',
-};
-const dateTimeFormat = new Intl.DateTimeFormat('en-GB', options);
+});
 
 export function titleDate(date: Date) {
 	return dateTimeFormat.format(date);

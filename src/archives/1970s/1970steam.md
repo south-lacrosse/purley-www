@@ -1,7 +1,6 @@
 ---
 title: 1970s Team
-date: 1970-05-01
-isApprox: true
+date: 1970-05-01 # approx
 ---
 
 ![Team Picture](1970s-team.jpg)\

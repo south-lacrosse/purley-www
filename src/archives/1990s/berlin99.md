@@ -1,7 +1,6 @@
 ---
 title: Berlin Open 1999
-date: 1999-05-01
-isApprox: true
+date: 1999-05-01 # approx
 ---
 
 ## A Weekend in Paradise
