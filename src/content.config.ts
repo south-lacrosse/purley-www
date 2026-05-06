@@ -4,14 +4,22 @@ import { z } from 'astro/zod';
 
 const archives = defineCollection({
 	loader: glob({ base: './src/archives', pattern: '**/*.{md,mdx}' }),
-	schema: z.object({
-		title: z.string(),
-		titleShort: z.string().optional(),
-		author: z.string().optional(),
-		date: z.date(),
-		isApprox: z.boolean().default(false),
-		category: z.enum(['match-report', 'results', 'stats']).optional(),
-	}),
+	schema: z
+		.object({
+			title: z.string(),
+			titleShort: z.string().optional(),
+			byline: z.string().optional(),
+			date: z.date(),
+			showDate: z.boolean().optional(),
+			category: z.enum(['match-report', 'results', 'stats']).optional(),
+		})
+		.transform((data) => ({
+			...data,
+			showDate:
+				typeof data.showDate === 'undefined'
+					? data.category === 'match-report'
+					: data.showDate,
+		})),
 });
 
 const galleries = defineCollection({

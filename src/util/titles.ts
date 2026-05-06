@@ -12,7 +12,7 @@ export function titleDate(date: Date) {
 
 export function entryTitle(entry: CollectionEntry<'archives'>) {
 	let title = entry.data.title;
-	if (entry.data.category === 'match-report' && !entry.data.isApprox) {
+	if (entry.data.showDate) {
 		title += ' - ' + titleDate(entry.data.date);
 	}
 	return title;

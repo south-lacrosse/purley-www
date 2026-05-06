@@ -1,7 +1,7 @@
 ---
 title: Cardiff at Home, Prem
 titleShort: 9 Feb Cardiff
-author: Danny Buckland
+byline: By Danny Buckland
 date: 2013-02-09
 category: match-report
 ---

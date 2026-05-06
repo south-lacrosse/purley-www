@@ -1,7 +1,7 @@
 ---
 title: European Championships 2001
 layout: '~/layouts/PageLayout.astro'
-author: Jeff Kettlewell of England / Hulmeians
+byline: By Jeff Kettlewell of England / Hulmeians
 ---
 
 *This is the text from an article about the tournament by Jeff Kettlewell from LacrosseTalk. We have reproduced it here as that version is not that easy to read, which you can see if you go to the [the original article](https://drive.google.com/file/d/1jjHXAqM93NNw9Y1Wlk354VKDJUH5K7Ox/view?usp=drive_link).*

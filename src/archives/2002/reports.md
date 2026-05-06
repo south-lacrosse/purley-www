@@ -1,7 +1,7 @@
 ---
 title: Match Reports 2001/02
 date: 2002-05-01 # approx
-isApprox: true
+showDate: false
 category: match-report
 ---
 

@@ -3,12 +3,13 @@
  * Layout for markdown pages outside of the content directory, e.g. Contact
  */
 import BaseLayout from '~/layouts/BaseLayout.astro';
+import Heading from '~/components/Heading.astro';
 
 const { frontmatter } = Astro.props;
-const { title } = frontmatter;
+const { title, byline } = frontmatter;
 ---
 
 <BaseLayout {title} type="page">
-	<h1>{title}</h1>
+	<Heading {title} {byline} />
 	<slot />
 </BaseLayout>

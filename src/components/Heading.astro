@@ -1,0 +1,22 @@
+---
+/**
+ * Page heading with title and possibly byline
+ */
+interface Props {
+	title: string;
+	byline?: string;
+}
+
+const { title, byline } = Astro.props;
+---
+
+{
+	byline ? (
+		<header>
+			<h1 class="with-byline">{title}</h1>
+			<p class="byline">{byline}</p>
+		</header>
+	) : (
+		<h1>{title}</h1>
+	)
+}

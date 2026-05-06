@@ -1,7 +1,7 @@
 ---
 title: Premier Survival Specialists
 titleShort: 06 May Prem Playoff
-author: Danny Buckland
+byline: By Danny Buckland
 date: 2015-05-06
 category: match-report
 

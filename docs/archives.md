@@ -2,6 +2,8 @@
 
 Apart from the home page, almost all pages on the site are stored in markdown (`.md`) or extended markdown (`.mdx`) format in the [src/archives](../src/archives) directory.
 
+You can also put non-archives markdown pages in the `src/pages` directory. These files must have a `layout` property to specify the component used to layout the page, a `title` property, and optionally a `byline` property.
+
 Markdown is an easy-to-use markup language that is used with plain text to add formatting elements (headings, bulleted lists, URLs) to plain text without the use of a formal text editor or the use of HTML tags. This makes creating pages for this site much easier.
 
 Our Astro build tool uses [GitHub flavoured markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [Smartypants](https://daringfireball.net/projects/smartypants/) to smarten up punctuation, and we have a few of custom additions to markdown as below:
@@ -23,10 +25,10 @@ Whenever Astro runs (dev or build) it will validate the frontmatter against the 
 
 * `title` - long title, displayed at the top of the page and as the page title
 * `titleShort` - short title, only displayed for links to related pages that appears in the page footer, so only needed for match reports
-* `author` - author name to give credit to external sources, displayed just below title for match reports
+* `byline` - displayed just below title
 * `date` - archive date in format like `1933-05-01`. Archives are listed in date order
-* `isApprox` - default false, true if the date is approximate, which stops the date from being displayed just after the title in match reports
-* `category` - type of archive, one of `match-report`, `results`, or  `stats`
+* `showDate` - whether the date will be shown as (or appended to) the byline to the page title, and on links for next/previous pages and in the archives index. Defaults to true for category 'match-report', false otherwise.
+* `category` - type of archive, one of `match-report`, `results`, or `stats`
 
 The category determine which related pages are linked to in the footer:
 
