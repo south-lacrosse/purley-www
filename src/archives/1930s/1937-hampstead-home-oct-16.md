@@ -1,8 +1,8 @@
 ---
-title: Hampstead at Home - 16 Oct 1937
+title: Hampstead at Home
 date: 1937-10-16
+showDate: true
 ---
-## Match played 16th October, 1937.
 
 *From Lacrosse magazine, November 6th 1937*
 

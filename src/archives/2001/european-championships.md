@@ -37,9 +37,9 @@ Each team was given their nation's flag, and told to form into ranks of three. W
 
 We soon met up with Mr P's New Orleans style jazz band, who had been organised to lead the teams. We walked through the park, the jazz blaring (think "Live and Let Die" with the funeral procession in New Orleans), passing a few startled people walking their dogs, and to be frank we were all starting to feel a little bit silly.
 
-Then we got to the exit of the park, and onto the main road into Cardiff. Now, what we didn't know, or perhaps weren't aware of, it that one of the organisers was very high up in the Cardiff constabulary, who had closed the roads off for us to march the just over half a mile to City Hall, and arranged for two police horses to lead the way.
+Then we got to the exit of the park, and onto the main road into Cardiff. Now, what we didn't know, or perhaps weren't aware of, is that one of the organisers was very high up in the Cardiff constabulary, and had arranged for the roads to be closed off for us to march the just over half a mile to City Hall, and for two police horses to lead the way.
 
-So, the jazz band fell in behind the horses. and we started walking down the middle of the main road into Cardiff. It really was surreal, and even more so as we passed the entrance to Cardiff Castle where there were huge crowds of people on the pavements who loudly cheered or booed the teams, some people even leaning out of hotel windows to shout.
+So, the jazz band fell in behind the horses, and we started walking down the middle of the main road into Cardiff. It really was surreal, and even more so as we passed the entrance to Cardiff Castle where there were huge crowds of people on the pavements who loudly cheered or booed the teams, some people even leaning out of hotel windows to shout.
 
 Sadly they weren't there for us, but had gathered for the Robbie Williams concert that was due to start shortly in the Millennium Stadium. But still, you can dream - and it did make it a walk to remember.
 

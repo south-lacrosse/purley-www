@@ -1,9 +1,8 @@
 ---
-title: Purley 9, Lee 14 at Lords 1947
+title: Purley 9, Lee 14 at Lords
 date: 1947-12-13
+showDate: true
 ---
-
-## December 13th 1947
 
 ![](1947lords1.jpg)\
 All eyes on the ball
