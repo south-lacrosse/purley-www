@@ -1,5 +1,5 @@
 ---
-title: Purley v Surbiton at Lords 1927
+title: Purley v Surbiton at Lord's 1927
 date: 1927-05-01 # approx
 ---
 

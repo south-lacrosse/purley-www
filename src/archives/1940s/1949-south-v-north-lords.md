@@ -1,5 +1,5 @@
 ---
-title: South v North, Lords
+title: South v North, Lord's
 date: 1949-03-26
 showDate: true
 ---

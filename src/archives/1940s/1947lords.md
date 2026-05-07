@@ -1,5 +1,5 @@
 ---
-title: Purley 9, Lee 14 at Lords
+title: Purley 9, Lee 14 at Lord's
 date: 1947-12-13
 showDate: true
 ---
