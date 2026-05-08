@@ -16,3 +16,6 @@ being away skiing (its amazing at how many lacrosse players forget when the
 Flags finals are - Ed). However, this made the victory all the more sweet
 for his replacement for the day, Gus Govus, who before moving to Purley had
 spent 14 seasons playing for Beckenham.
+
+![Team picture](1982intflags-2.jpg)\
+A more casual line-up

@@ -1,7 +1,10 @@
 ---
 title: 30 Hour Game - It's A World Record
-date: 1981-05-01 # approx
+date: 1980-06-14
+showDate: true
 ---
+
+The game took place over the weekend of the 14th-15th June 1980.
 
 ![Game photo](30-hour-game.jpg)\
 Glynn Thatcher (glasses), Pete Metcalfe (RA), Tim Murphy (LA), Steve Cattle (behind Tim)
@@ -40,7 +43,7 @@ basis before."
 
 The previous record for
 the longest game was a men's
-match of Z4 hours by the
+match of 24 hours by the
 England squad organised by
 Mr Smith in 1978.
 
@@ -67,7 +70,7 @@ Miss Carole Cameron, one
 of the 42 players in the game
 held on the outside pitch at the
 sports centre, Farnborough
-Avenue, Sanderstead [actually Monks Hill, Selsdon], said: "I
+Avenue, Sanderstead \[actually Monks Hill, Selsdon\], said: "I
 didn't do it for that kind of
 recognition — I did it to raise
 money for Help a London
