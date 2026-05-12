@@ -113,4 +113,6 @@ Here's my video:
 <YouTube id="TtRtkTzHVBU" />
 ```
 
+Add `class="four-by-three"` if the video has a 4:3 aspect ratio, otherwise it will display in the default 16:9 format.
+
 See [Astro Embed YouTube](https://astro-embed.netlify.app/components/youtube/) for details.
