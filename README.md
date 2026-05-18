@@ -35,3 +35,19 @@ Running `npm run build` builds the site to static HTML in `./dist/`. You can dep
 We have decided to use Cloudflare as our hosts as they will host static sites for free, and you can set up custom domains. We have installed the Cloudflare Workers and Pages App on this GitHub repo, so changes are automatically deployed when a change is pushed to GitHub.
 
 See our [Cloudflare docs](docs/cloudflare.md) for more details.
+
+## Licensing
+
+### Code
+
+All source code and documentation in this repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code.
+
+### Content & Assets
+
+All rights reserved. Standard copyright applies to all non-code content, including but not limited to:
+
+* Written text (excluding documentation)
+* Images, graphics, and logos
+* Data files
+
+This includes, but is not limited to, all files in `/data`, `/public`, `/src/archives`, `/src/data`, `/src/images`, and all images and markdown (.md) files under `/src/pages`.
