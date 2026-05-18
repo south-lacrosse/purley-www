@@ -1,15 +1,17 @@
 ---
 /**
- * Pagination links, nicely styled
+ * Pagination links, nicely styled.
+ *
+ * Warning: Assumes page numbers are on each url, which won't be the case for
+ * [...page].astro
  */
 interface Props {
 	currentPage: number;
 	lastPage: number;
-	currentUrl: string;
+	baseUrl: string;
 }
 
-const { currentPage, lastPage, currentUrl } = Astro.props;
-const baseUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/') + 1);
+const { currentPage, lastPage, baseUrl } = Astro.props;
 
 // Pagination algorithm is:
 //  display previous/next links if we are not on the first/last page

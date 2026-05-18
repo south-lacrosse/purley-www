@@ -13,5 +13,6 @@
 			"fileMatch": ["/src/data/stats/**"],
 			"url": "./.astro/collections/stats.schema.json"
 		}
-	]
+	],
+	"cSpell.words": ["intermitent"]
 }

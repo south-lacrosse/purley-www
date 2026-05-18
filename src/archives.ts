@@ -1,6 +1,5 @@
 import { type CollectionEntry, getCollection } from 'astro:content';
-
-export const ARCHIVES_PAGE_SIZE = 30;
+import { ARCHIVES_PAGE_BASE, ARCHIVES_PAGE_SIZE } from '~/constants';
 
 // get and sort the archive entries into date order
 const archiveEntries = await getCollection('archives');
@@ -29,10 +28,11 @@ const groupedArchiveEntries = archiveEntries.reduce(
 	{} as { [group: string]: CollectionEntry<'archives'>[] }
 );
 
-// gets the archives index page number so an archive page can link back to the
-// index it's on
+/**
+ * Get the archives page path so an archive entry can link back to the index it's on
+ */
 export function getArchivesPage(index: number) {
-	return Math.floor(index / ARCHIVES_PAGE_SIZE) + 1;
+	return ARCHIVES_PAGE_BASE + (Math.floor(index / ARCHIVES_PAGE_SIZE) + 1);
 }
 
 export function getRelatedEntries(

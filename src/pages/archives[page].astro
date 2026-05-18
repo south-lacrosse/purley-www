@@ -1,8 +1,16 @@
 ---
+/**
+ * Build all archives pages (index) routes.
+ *
+ * Important: if you change the file name/folder then make sure you change
+ * ARCHIVES_PAGE_BASE to match.
+ */
+
 import type { GetStaticPaths } from 'astro';
 
 import BaseLayout from '~/layouts/BaseLayout.astro';
-import { archiveEntries, ARCHIVES_PAGE_SIZE } from '~/archives';
+import { archiveEntries } from '~/archives';
+import { ARCHIVES_PAGE_BASE, ARCHIVES_PAGE_SIZE } from '~/constants';
 import PaginationLinks from '~/components/PaginationLinks.astro';
 import { entryTitle } from '~/util/titles';
 
@@ -12,8 +20,7 @@ export const getStaticPaths = (async ({ paginate }) => {
 	});
 }) satisfies GetStaticPaths;
 
-const page = Astro.props.page;
-const { currentPage, lastPage, url } = page;
+const { data, currentPage, lastPage } = Astro.props.page;
 const pageXofY = lastPage > 1 ? `Page ${currentPage} of ${lastPage}` : '';
 ---
 
@@ -22,7 +29,7 @@ const pageXofY = lastPage > 1 ? `Page ${currentPage} of ${lastPage}` : '';
 	{pageXofY && <p class="byline-big">{pageXofY}</p>}
 	<ul class="archives-list">
 		{
-			page.data.map((entry) => (
+			data.map((entry) => (
 				<li>
 					<a href={`/${entry.id}`}>{entryTitle(entry)}</a>
 				</li>
@@ -32,7 +39,7 @@ const pageXofY = lastPage > 1 ? `Page ${currentPage} of ${lastPage}` : '';
 	<PaginationLinks
 		currentPage={currentPage}
 		lastPage={lastPage}
-		currentUrl={url.current}
+		baseUrl={ARCHIVES_PAGE_BASE}
 		slot="bottom-navigation"
 	/>
 </BaseLayout>

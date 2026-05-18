@@ -1,0 +1,15 @@
+---
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import { ARCHIVES_PAGE_BASE } from '~/constants';
+
+const title = 'Page Not Found';
+---
+
+<BaseLayout {title} type="404">
+	<h1>{title}</h1>
+	<p>Sorry, but the page you were trying to view does not exist.</p>
+	<p>
+		Please double check the URL, or visit our <a href="/">home page</a>
+		or <a href={ARCHIVES_PAGE_BASE + '1'}>full archives</a>.
+	</p>
+</BaseLayout>

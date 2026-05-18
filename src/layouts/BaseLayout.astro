@@ -1,5 +1,6 @@
 ---
 import '~/styles/global.css';
+import { ARCHIVES_PAGE_BASE } from '~/constants';
 
 interface Props {
 	title: string;
@@ -9,7 +10,7 @@ interface Props {
 	 * archive = markdown content in src/archives,
 	 * index = index of archive pages
 	 */
-	type: 'home' | 'page' | 'archive' | 'index';
+	type: 'home' | 'page' | 'archive' | 'index' | '404';
 }
 
 const { title, type } = Astro.props;
@@ -58,9 +59,13 @@ const canonicalURL = new URL(path, Astro.site);
 				type === 'archive' ? (
 					<slot name="related" />
 				) : (
-					type !== 'index' && (
+					type !== 'index' &&
+					type !== '404' && (
 						<nav class="related-nav" aria-label="Secondary">
-							<a href="/1" class="related-link related-simple-link">
+							<a
+								href={ARCHIVES_PAGE_BASE + '1'}
+								class="related-link related-simple-link"
+							>
 								Full Archives
 							</a>
 						</nav>

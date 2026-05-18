@@ -11,11 +11,16 @@ import removeOriginalImages from './src/integrations/remove-original-images';
 import rehypeFigureImages from './src/plugins/rehype-figure-images';
 import rehypeTables from './src/plugins/rehype-tables';
 
+import { ARCHIVES_PAGE_BASE } from './src/constants';
+
+const site = 'https://purley.southlacrosse.org.uk';
+const sitemapExclude = new RegExp('^' + site + ARCHIVES_PAGE_BASE + '\\d+$');
+
 export default defineConfig({
 	// when comparing different builds uncomment the following line (and don't
 	// forget to put it back after)
 	// compressHTML: false,
-	site: 'https://purley.southlacrosse.org.uk',
+	site,
 	// see docs/design-notes.md for trailing slash and build file format
 	trailingSlash: 'never',
 	build: {
@@ -23,7 +28,7 @@ export default defineConfig({
 	},
 	integrations: [
 		mdx(),
-		sitemap({ filter: (page) => !page.match(/^https:\/\/purley.southlacrosse.org.uk\/\d+$/) }),
+		sitemap({ filter: (page) => !page.match(sitemapExclude) }),
 		removeOriginalImages(),
 	],
 	markdown: {
