@@ -205,7 +205,7 @@ hr {
 a {
 	color: #1a0dab;
 }
-.no-unvisited,
+.top-nav-link,
 a:visited {
 	color: var(--purple-logo);
 }
@@ -243,6 +243,12 @@ blockquote::before {
 
 .top-nav {
 	text-align: right;
+}
+.top-nav-link:not(:last-child) {
+	margin-right: 0.25rem;
+}
+.top-nav-link:not(:first-child) {
+	margin-left: 0.25rem;
 }
 /* used for page 1/2/3 and also next/prev */
 .page-nav {
@@ -294,6 +300,11 @@ blockquote::before {
 .related-link:hover,
 .related-link:focus-visible {
 	color: var(--gold-logo);
+}
+
+.separated {
+	display: flex;
+	gap: 1.5rem;
 }
 
 /*--------------- Tables ---------------------------*/

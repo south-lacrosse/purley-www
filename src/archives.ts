@@ -29,10 +29,14 @@ const groupedArchiveEntries = archiveEntries.reduce(
 );
 
 /**
- * Get the archives page path so an archive entry can link back to the index it's on
+ * Get the archives page path. If an index is supplied then return the archive
+ * page that archive entry was on.
  */
-export function getArchivesPage(index: number) {
-	return ARCHIVES_PAGE_BASE + (Math.floor(index / ARCHIVES_PAGE_SIZE) + 1);
+export function getArchivesPage(index?: number) {
+	return (
+		ARCHIVES_PAGE_BASE +
+		(index === undefined ? '1' : Math.floor(index / ARCHIVES_PAGE_SIZE) + 1)
+	);
 }
 
 export function getRelatedEntries(

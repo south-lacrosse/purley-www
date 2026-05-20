@@ -1,0 +1,41 @@
+---
+/**
+ * Site search component, currently using Pagefind.
+ *
+ * We need a custom results template to remove .html from all result URLs, as
+ * there doesn't currently seem to be a way to remove it when indexing, so it
+ * has to be removed client side.
+ *
+ * The template is in a separate html file as the Prettier Astro plugin
+ * doesn't correctly format html inside the <script..>, and the Astro VSCode
+ * extension shows errors.
+ */
+import PagefindConfig from 'astro-pagefind/components/PagefindConfig.astro';
+import template from './search-results.template.html?raw';
+
+interface Props {
+	preload?: boolean;
+}
+const { preload } = Astro.props;
+
+const templateHtml = template.replace(/^\s*/gm, '');
+---
+
+<div class="search-box content">
+	<noscript>In order to search you need Javascript enabled.</noscript>
+	<PagefindConfig {preload} />
+	<pagefind-input></pagefind-input>
+	<pagefind-keyboard-hints></pagefind-keyboard-hints>
+	<pagefind-summary></pagefind-summary>
+	<pagefind-results>
+		<script type="text/pagefind-template" set:html={templateHtml} is:inline />
+	</pagefind-results>
+</div>
+
+<style is:global>
+	.search-box {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5em;
+	}
+</style>

@@ -1,0 +1,13 @@
+---
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import SiteSearch from '~/components/SiteSearch.astro';
+import TopLinks from '~/components/TopLinks.astro';
+
+const title = 'Search';
+---
+
+<BaseLayout {title} type="search">
+	<TopLinks exclude="search" />
+	<h1>{title}</h1>
+	<SiteSearch preload />
+</BaseLayout>

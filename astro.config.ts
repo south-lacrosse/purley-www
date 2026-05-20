@@ -7,6 +7,7 @@ import sitemap from '@astrojs/sitemap';
 // Astro copies original images when building, so we delete then here as we
 // don't ever use them.
 import removeOriginalImages from './src/integrations/remove-original-images';
+import pagefind from 'astro-pagefind';
 
 import rehypeFigureImages from './src/plugins/rehype-figure-images';
 import rehypeTables from './src/plugins/rehype-tables';
@@ -14,7 +15,7 @@ import rehypeTables from './src/plugins/rehype-tables';
 import { ARCHIVES_PAGE_BASE } from './src/constants';
 
 const site = 'https://purley.southlacrosse.org.uk';
-const sitemapExclude = new RegExp('^' + site + ARCHIVES_PAGE_BASE + '\\d+$');
+const sitemapExclude = new RegExp(`^${site}(${ARCHIVES_PAGE_BASE}\\d+|/search)$`);
 
 export default defineConfig({
 	// when comparing different builds uncomment the following line (and don't
@@ -30,6 +31,11 @@ export default defineConfig({
 		mdx(),
 		sitemap({ filter: (page) => !page.match(sitemapExclude) }),
 		removeOriginalImages(),
+		pagefind({
+			indexConfig: {
+				rootSelector: 'article',
+			},
+		}),
 	],
 	markdown: {
 		rehypePlugins: [rehypeFigureImages, rehypeTables],

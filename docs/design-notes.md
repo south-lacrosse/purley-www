@@ -78,3 +78,9 @@ build: {
     format: 'file',
 },
 ```
+
+## Search
+
+Search is provided by [Pagefind](https://pagefind.app/) using the [Astro Pagefind integration](https://github.com/shishkin/astro-pagefind).
+
+Configuration is in `astro.config.ts`, with the root selector set to `article`, which we use to enclose archives content, markdown pages in `src/pages`, and `index.astro`.

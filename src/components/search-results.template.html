@@ -1,0 +1,25 @@
+<li class="pf-result">
+	<div class="pf-result-card">
+		{{#if and(options.show_images, meta.image)}}
+		<img class="pf-result-image" src="{{ meta.image | resolveUrl(meta.url | default(url)) }}" alt="{{ meta.image_alt | default(meta.title) }}">
+		{{/if}}
+		<div class="pf-result-content">
+			<p class="pf-result-title">
+				<a class="pf-result-link" href="{{ meta.url | default(url) | safeUrl | replace('.html', '') }}">{{ meta.title }}</a>
+			</p>
+			{{#if excerpt}}
+			<p class="pf-result-excerpt">{{+ excerpt +}}</p>
+			{{/if}}
+		</div>
+	</div>
+	{{#if sub_results}}
+	<ul class="pf-heading-chips">
+		{{#each sub_results as sub}}
+		<li class="pf-heading-chip">
+			<a class="pf-heading-link" href="{{ sub.url | safeUrl | replace('.html', '') }}">{{ sub.title }}</a>
+			<p class="pf-heading-excerpt">{{+ sub.excerpt +}}</p>
+		</li>
+		{{/each}}
+	</ul>
+	{{/if}}
+</li>

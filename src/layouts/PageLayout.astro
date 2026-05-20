@@ -4,12 +4,16 @@
  */
 import BaseLayout from '~/layouts/BaseLayout.astro';
 import Heading from '~/components/Heading.astro';
+import TopLinks from '~/components/TopLinks.astro';
 
 const { frontmatter } = Astro.props;
 const { title, byline } = frontmatter;
 ---
 
 <BaseLayout {title} type="page">
-	<Heading {title} {byline} />
-	<slot />
+	<TopLinks />
+	<article>
+		<Heading {title} {byline} />
+		<slot />
+	</article>
 </BaseLayout>

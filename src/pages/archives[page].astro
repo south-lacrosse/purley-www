@@ -9,9 +9,11 @@
 import type { GetStaticPaths } from 'astro';
 
 import BaseLayout from '~/layouts/BaseLayout.astro';
+import PaginationLinks from '~/components/PaginationLinks.astro';
+import TopLinks from '~/components/TopLinks.astro';
+
 import { archiveEntries } from '~/archives';
 import { ARCHIVES_PAGE_BASE, ARCHIVES_PAGE_SIZE } from '~/constants';
-import PaginationLinks from '~/components/PaginationLinks.astro';
 import { entryTitle } from '~/util/titles';
 
 export const getStaticPaths = (async ({ paginate }) => {
@@ -25,7 +27,8 @@ const pageXofY = lastPage > 1 ? `Page ${currentPage} of ${lastPage}` : '';
 ---
 
 <BaseLayout title={'Archives' + (pageXofY ? ' ' + pageXofY : '')} type="index">
-	<h1 class:list={['with-top-margin', { 'with-byline': pageXofY }]}>Archives</h1>
+	<TopLinks exclude="archives" />
+	<h1 class:list={[{ 'with-byline': pageXofY }]}>Archives</h1>
 	{pageXofY && <p class="byline-big">{pageXofY}</p>}
 	<ul class="archives-list">
 		{

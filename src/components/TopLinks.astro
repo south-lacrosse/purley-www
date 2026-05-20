@@ -1,0 +1,41 @@
+---
+/**
+ * Archives/Search links for the top of the page
+ */
+
+// Note: we create links in code as Astro/Prettier screws up formatting of the
+// <a> tags in the body (it line wraps the text onto a separate line so there's
+// additional whitespace, at least of Astro 6.3).
+
+// We don't want to turn prettier off, so this is the best compromise
+
+import { getArchivesPage } from '~/archives';
+
+interface Props {
+	/**
+	 * Index of an archive entry within the archives collection. The archives
+	 * link will then link to the archives page that archive entry was on.
+	 *
+	 * Omit to link to the 1st archives page.
+	 */
+	index?: number;
+	exclude?: 'archives' | 'search';
+}
+
+function createLink(href: string, text: string) {
+	return `<a class="top-nav-link" href="${href}">${text}</a>`;
+}
+
+const { index, exclude } = Astro.props;
+
+let links = '';
+if (exclude !== 'archives') {
+	links = createLink(getArchivesPage(index), 'Archives');
+}
+if (exclude !== 'search') {
+	if (links) links += ' | ';
+	links += createLink('/search', 'Search');
+}
+---
+
+<nav class="top-nav" set:html={links} />

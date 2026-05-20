@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '~/layouts/BaseLayout.astro';
-import { ARCHIVES_PAGE_BASE } from '~/constants';
+import { getArchivesPage } from '~/archives';
 import { Image } from 'astro:assets';
 
 import img_shield from '~/archives/shield.png';
@@ -41,7 +41,11 @@ import img_20080419_sixes_1 from '~/archives/2008/20080419-sixes-1.jpg';
 			<a href="1950s/1953all">1953</a> - it really was a year to remember. Purley won all three
 			flags trophies, and two of the leagues.
 		</p>
-		<p>Or see the <a href={ARCHIVES_PAGE_BASE + '1'}>Full Archives</a>.</p>
+		<p>
+			Or see the <a href={getArchivesPage()}>Full Archives</a>, or use the <a href="search"
+				>Site Search</a
+			>.
+		</p>
 		<h1 class="with-top-margin">Honours</h1>
 		<h2>League</h2>
 		<figure>
@@ -178,4 +182,8 @@ import img_20080419_sixes_1 from '~/archives/2008/20080419-sixes-1.jpg';
 			unless noted e.g. (A) denotes A team.
 		</p>
 	</article>
+	<nav slot="footer-navigation" class="related-nav separated" aria-label="Secondary">
+		<a href={getArchivesPage()} class="related-link related-simple-link">Full Archives</a>
+		<a href="/search" class="related-link related-simple-link">Search</a>
+	</nav>
 </BaseLayout>

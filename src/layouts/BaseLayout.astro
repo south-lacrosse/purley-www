@@ -1,23 +1,23 @@
 ---
 import '~/styles/global.css';
-import { ARCHIVES_PAGE_BASE } from '~/constants';
 
 interface Props {
 	title: string;
 	/**
-	 * home = home page,
+	 * home,
 	 * page = markdown pages in src/pages,
 	 * archive = markdown content in src/archives,
-	 * index = index of archive pages
+	 * index = index of archive pages,
+	 * 404, search
 	 */
-	type: 'home' | 'page' | 'archive' | 'index' | '404';
+	type: 'home' | 'page' | 'archive' | 'index' | '404' | 'search';
 }
 
 const { title, type } = Astro.props;
 
-// When we build with format: 'file' the Astro.url will include the '.html' to
-// match the file it generated, and 'index.html' for the home page, so we need
-// to remove those to match our URL scheme.
+// When we build with "format: 'file'"" the Astro.url will include the '.html'
+// to match the file it generated, and 'index.html' for the home page, so we
+// need to remove those to match our URL scheme.
 const path = Astro.url.pathname.replace(/index.html$/, '').replace(/.html$/, '');
 
 // Note: always set the canonical URL as deploying to platforms like Cloudflare
@@ -35,7 +35,11 @@ const canonicalURL = new URL(path, Astro.site);
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<title>{title}{path !== '/' && ' - Purley Lacrosse'}</title>
-		{type === 'index' && <meta name="robots" content="noindex,follow" />}
+		{
+			(type === 'index' || type === 'search' || type === '404') && (
+				<meta name="robots" content="noindex,follow" />
+			)
+		}
 		<link rel="icon" type="image/png" href="/favicon.png" sizes="96x96" />
 		<link rel="icon" href="/favicon.ico" />
 		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -55,23 +59,7 @@ const canonicalURL = new URL(path, Astro.site);
 			<slot name="bottom-navigation" />
 		</div>
 		<footer>
-			{
-				type === 'archive' ? (
-					<slot name="related" />
-				) : (
-					type !== 'index' &&
-					type !== '404' && (
-						<nav class="related-nav" aria-label="Secondary">
-							<a
-								href={ARCHIVES_PAGE_BASE + '1'}
-								class="related-link related-simple-link"
-							>
-								Full Archives
-							</a>
-						</nav>
-					)
-				)
-			}
+			<slot name="footer-navigation" />
 			<div class="center small">&copy; 1906-2022</div>
 		</footer>
 	</body>

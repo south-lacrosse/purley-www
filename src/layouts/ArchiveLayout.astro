@@ -4,9 +4,9 @@ import type { CollectionEntry } from 'astro:content';
 import BaseLayout from '~/layouts/BaseLayout.astro';
 import Heading from '~/components/Heading.astro';
 import NextPrevLinks from '~/components/NextPrevLinks.astro';
+import TopLinks from '~/components/TopLinks.astro';
 import Related from '~/components/Related.astro';
 
-import { getArchivesPage } from '~/archives';
 import { titleDate } from '~/util/titles';
 
 interface Props {
@@ -30,13 +30,11 @@ if (showDate) {
 ---
 
 <BaseLayout title={titleTag} type="archive">
-	<nav slot="top-navigation" class="top-nav">
-		<a href={getArchivesPage(index)} class="no-unvisited">Archives</a>
-	</nav>
+	<TopLinks slot="top-navigation" {index} />
 	<article>
 		<Heading {title} {byline} />
 		<slot />
 	</article>
 	<NextPrevLinks index={index} slot="bottom-navigation" />
-	{category && <Related id={id!} category={category} slot="related" />}
+	{category && <Related id={id!} category={category} slot="footer-navigation" />}
 </BaseLayout>
