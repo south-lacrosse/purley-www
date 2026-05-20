@@ -30,7 +30,9 @@ if (showDate) {
 ---
 
 <BaseLayout title={titleTag} type="archive">
-	<nav slot="top-navigation" class="top-nav"><a href={getArchivesPage(index)}>Archives</a></nav>
+	<nav slot="top-navigation" class="top-nav">
+		<a href={getArchivesPage(index)} class="no-unvisited">Archives</a>
+	</nav>
 	<article>
 		<Heading {title} {byline} />
 		<slot />

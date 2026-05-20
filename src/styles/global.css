@@ -130,10 +130,35 @@ footer {
 
 /*--------------------- Headings -------------------*/
 
+h1,
+h2,
+h3,
+h4 {
+	font-weight: bold;
+	line-height: 1.3;
+	text-wrap: balance;
+	overflow-wrap: break-word;
+}
+
 h1 {
 	font-size: 2.25rem;
+}
+h1,
+.byline,
+.byline-big {
 	margin-top: 0;
-	padding-bottom: 0.1em;
+	margin-bottom: 1.5rem;
+}
+.with-top-margin {
+	margin-top: 1.5rem;
+}
+.with-byline {
+	margin-bottom: 0;
+}
+h2,
+h3,
+h4 {
+	margin-bottom: 1rem;
 }
 h2 {
 	font-size: 1.625rem;
@@ -147,26 +172,9 @@ h3 {
 	font-size: 1.25rem;
 	margin-top: 1.25rem;
 }
-h1,
-h2,
-h3,
-h4 {
-	font-weight: bold;
-	margin-bottom: 1rem;
-	line-height: 1.3;
-	text-wrap: balance;
-	overflow-wrap: break-word;
-}
-.with-byline {
-	margin-bottom: 0;
-}
 .byline {
 	color: var(--byline-text);
-	margin-top: 0;
 	font-size: 0.875rem;
-}
-.byline-big {
-	margin-top: 0;
 }
 
 /*--------------- Basic tags -----------------------*/
@@ -195,6 +203,10 @@ hr {
 	border-top: 0.0625rem solid var(--light-border);
 }
 a {
+	color: #1a0dab;
+}
+.no-unvisited,
+a:visited {
 	color: var(--purple-logo);
 }
 blockquote {
@@ -230,7 +242,7 @@ blockquote::before {
 }
 
 .top-nav {
-	margin-top: 0.25rem;
+	text-align: right;
 }
 /* used for page 1/2/3 and also next/prev */
 .page-nav {
