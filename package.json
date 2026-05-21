@@ -25,7 +25,7 @@
 		"@astrojs/check": "^0.9.9",
 		"@astrojs/mdx": "^5.0.6",
 		"@astrojs/sitemap": "^3.7.2",
-		"astro": "^6.3.6",
+		"astro": "^6.3.7",
 		"astro-pagefind": "^2.0.0",
 		"glightbox": "^3.3.1"
 	},
