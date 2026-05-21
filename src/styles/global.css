@@ -312,7 +312,7 @@ blockquote::before {
 	display: initial;
 }
 .related-link:visited {
-	color: var(--white-text);
+	color: #fdda96;
 }
 .related-link:hover,
 .related-link:focus-visible {
