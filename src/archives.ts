@@ -25,7 +25,7 @@ const groupedArchiveEntries = archiveEntries.reduce(
 		entries[group].push(entry);
 		return entries;
 	},
-	{} as { [group: string]: CollectionEntry<'archives'>[] }
+	{} as Record<string, typeof archiveEntries>
 );
 
 /**

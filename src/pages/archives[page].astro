@@ -14,7 +14,7 @@ import TopLinks from '~/components/TopLinks.astro';
 
 import { archiveEntries } from '~/archives';
 import { ARCHIVES_PAGE_BASE, ARCHIVES_PAGE_SIZE } from '~/constants';
-import { entryTitle } from '~/util/titles';
+import { titleDate } from '~/util/titles';
 
 export const getStaticPaths = (async ({ paginate }) => {
 	return paginate(archiveEntries, {
@@ -24,21 +24,39 @@ export const getStaticPaths = (async ({ paginate }) => {
 
 const { data, currentPage, lastPage } = Astro.props.page;
 const pageXofY = lastPage > 1 ? `Page ${currentPage} of ${lastPage}` : '';
+
+// Assumes all archives are in a folder!
+const dataByFolder = Object.groupBy(data, ({ id }) => id.split('/')[0]) as Record<
+	string,
+	typeof data
+>;
 ---
 
 <BaseLayout title={'Archives' + (pageXofY ? ' ' + pageXofY : '')} type="index">
 	<TopLinks exclude="archives" />
 	<h1 class:list={[{ 'with-byline': pageXofY }]}>Archives</h1>
 	{pageXofY && <p class="byline-big">{pageXofY}</p>}
-	<ul class="archives-list">
-		{
-			data.map((entry) => (
-				<li>
-					<a href={`/${entry.id}`}>{entryTitle(entry)}</a>
-				</li>
-			))
-		}
-	</ul>
+	{
+		Object.entries(dataByFolder).map(([folder, data]) => (
+			<>
+				<h2 class="archives-group">{folder}</h2>
+				<ul class="archives-list">
+					{data.map((entry) => (
+						<li>
+							<a class="archives-link" href={`/${entry.id}`}>
+								<span class="underline">{entry.data.title}</span>
+								{entry.data.showDate && (
+									<span class="archives-date">
+										{' - ' + titleDate(entry.data.date)}
+									</span>
+								)}
+							</a>
+						</li>
+					))}
+				</ul>
+			</>
+		))
+	}
 	<PaginationLinks
 		currentPage={currentPage}
 		lastPage={lastPage}

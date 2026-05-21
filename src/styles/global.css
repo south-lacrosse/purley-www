@@ -108,7 +108,6 @@ article > ol,
 p,
 figure,
 blockquote,
-.archives-list,
 lite-youtube {
 	margin-top: 1em;
 	margin-bottom: 1em;
@@ -196,6 +195,9 @@ small,
 .center {
 	text-align: center;
 }
+.underline {
+	text-decoration: underline;
+}
 hr {
 	margin-top: 0.625rem;
 	margin-bottom: 0.625rem;
@@ -233,12 +235,27 @@ blockquote::before {
 
 /*--------------- Navigation -----------------------*/
 
+.archives-group {
+	font-size: 1.25rem;
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+}
 .archives-list {
-	padding: 0;
-	list-style: none;
+	box-sizing: border-box;
+	padding-left: 1.5rem;
+	margin-top: 0;
+	margin-bottom: 1em;
+	list-style-type: '–  ';
 }
 .archives-list > li {
 	margin-bottom: 0.625rem;
+}
+.archives-link {
+	text-decoration: none;
+}
+.archives-date {
+	text-decoration: none;
+	color: var(--byline-text);
 }
 
 .top-nav {
