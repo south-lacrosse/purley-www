@@ -8,6 +8,6 @@ export default defineConfig([
 		ignores: ['dist/', '.astro/'],
 	},
 	eslint.configs.recommended, // JavaScript
-	...tseslint.configs.recommended, // TypeScript
-	...eslintPluginAstro.configs.recommended, // Astro
+	tseslint.configs.recommended, // TypeScript
+	eslintPluginAstro.configs.recommended, // Astro
 ]);
