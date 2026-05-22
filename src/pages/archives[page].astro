@@ -26,10 +26,10 @@ const { data, currentPage, lastPage } = Astro.props.page;
 const pageXofY = lastPage > 1 ? `Page ${currentPage} of ${lastPage}` : '';
 
 // Assumes all archives are in a folder!
-const dataByFolder = Object.groupBy(data, ({ id }) => id.split('/')[0]) as Record<
-	string,
-	typeof data
->;
+// We use Map instead of Object as Object will order by integers first (or
+// strings it can make into integers), then strings, so in our case we'd get
+// 2000,2001,1990s, but map will keep the insertion order.
+const dataByFolder = Map.groupBy(data, ({ id }) => id.split('/')[0]);
 ---
 
 <BaseLayout title={'Archives' + (pageXofY ? ' ' + pageXofY : '')} type="index">
@@ -37,7 +37,7 @@ const dataByFolder = Object.groupBy(data, ({ id }) => id.split('/')[0]) as Recor
 	<h1 class:list={[{ 'with-byline': pageXofY }]}>Archives</h1>
 	{pageXofY && <p class="byline-big">{pageXofY}</p>}
 	{
-		Object.entries(dataByFolder).map(([folder, data]) => (
+		Array.from(dataByFolder, ([folder, data]) => (
 			<>
 				<h2 class="archives-group">{folder}</h2>
 				<ul class="archives-list">
