@@ -23,20 +23,20 @@
 	"dependencies": {
 		"@astro-community/astro-embed-youtube": "^0.5.10",
 		"@astrojs/check": "^0.9.9",
-		"@astrojs/mdx": "^5.0.6",
-		"@astrojs/sitemap": "^3.7.2",
-		"astro": "^6.3.7",
+		"@astrojs/mdx": "^6.0.0",
+		"@astrojs/sitemap": "^3.7.3",
+		"astro": "^6.4.0",
 		"astro-pagefind": "^2.0.0",
 		"glightbox": "^3.3.1"
 	},
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",
-		"@typescript-eslint/parser": "^8.59.4",
+		"@typescript-eslint/parser": "^8.60.0",
 		"eslint": "^10.4.0",
 		"eslint-plugin-astro": "^1.7.0",
 		"prettier": "^3.8.3",
 		"prettier-plugin-astro": "^0.14.1",
 		"typescript": "^5.9.3",
-		"typescript-eslint": "^8.59.4"
+		"typescript-eslint": "^8.60.0"
 	}
 }

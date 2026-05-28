@@ -9,6 +9,7 @@ import sitemap from '@astrojs/sitemap';
 import removeOriginalImages from './src/integrations/remove-original-images';
 import pagefind from 'astro-pagefind';
 
+import { unified } from '@astrojs/markdown-remark';
 import rehypeFigureImages from './src/plugins/rehype-figure-images';
 import rehypeTables from './src/plugins/rehype-tables';
 
@@ -38,7 +39,9 @@ export default defineConfig({
 		}),
 	],
 	markdown: {
-		rehypePlugins: [rehypeFigureImages, rehypeTables],
+		processor: unified({
+			rehypePlugins: [rehypeFigureImages, rehypeTables],
+		}),
 	},
 	image: {
 		layout: 'constrained',
