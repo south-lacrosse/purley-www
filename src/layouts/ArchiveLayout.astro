@@ -16,7 +16,7 @@ interface Props {
 
 const { id } = Astro.params;
 const { data, index } = Astro.props;
-const { title, date, showDate, category } = data;
+const { title, date, showDate, category, video = false } = data;
 let { byline = '' } = data;
 
 let titleTag = title; // the page title tag, i.e. what appears in the browser tab
@@ -35,6 +35,13 @@ if (showDate) {
 		<Heading {title} {byline} />
 		<slot />
 	</article>
+	{
+		video && (
+			<nav class="content-links">
+				<a href="/videos">Other videos</a>
+			</nav>
+		)
+	}
 	<NextPrevLinks index={index} slot="bottom-navigation" />
 	{category && <Related id={id!} category={category} slot="footer-navigation" />}
 </BaseLayout>

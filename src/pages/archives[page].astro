@@ -9,12 +9,12 @@
 import type { GetStaticPaths } from 'astro';
 
 import BaseLayout from '~/layouts/BaseLayout.astro';
+import ArchivesList from '~/components/ArchivesList.astro';
 import PaginationLinks from '~/components/PaginationLinks.astro';
 import TopLinks from '~/components/TopLinks.astro';
 
 import { archiveEntries } from '~/archives';
 import { ARCHIVES_PAGE_BASE, ARCHIVES_PAGE_SIZE } from '~/constants';
-import { titleDate } from '~/util/titles';
 
 export const getStaticPaths = (async ({ paginate }) => {
 	return paginate(archiveEntries, {
@@ -40,20 +40,7 @@ const dataByFolder = Map.groupBy(data, ({ id }) => id.split('/')[0]);
 		Array.from(dataByFolder, ([folder, data]) => (
 			<>
 				<h2 class="archives-group">{folder}</h2>
-				<ul class="archives-list">
-					{data.map((entry) => (
-						<li>
-							<a class="archives-link" href={`/${entry.id}`}>
-								<span class="underline">{entry.data.title}</span>
-								{entry.data.showDate && (
-									<span class="archives-date">
-										{' - ' + titleDate(entry.data.date)}
-									</span>
-								)}
-							</a>
-						</li>
-					))}
-				</ul>
+				<ArchivesList list={data} />
 			</>
 		))
 	}

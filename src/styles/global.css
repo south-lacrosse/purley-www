@@ -267,6 +267,10 @@ blockquote::before {
 .top-nav-link:not(:first-child) {
 	margin-left: 0.25rem;
 }
+.content-links {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
 /* used for page 1/2/3 and also next/prev */
 .page-nav {
 	padding-top: 0.25rem;

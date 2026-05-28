@@ -12,6 +12,7 @@ const archives = defineCollection({
 			date: z.date(),
 			showDate: z.boolean().optional(),
 			category: z.enum(['match-report', 'results', 'stats']).optional(),
+			video: z.boolean().optional(),
 		})
 		.transform((data) => ({
 			...data,

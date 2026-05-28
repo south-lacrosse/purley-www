@@ -1,0 +1,24 @@
+---
+/**
+ * List of pages with videos
+ *
+ * We might want to make this a tag, but we don't have any other tags that
+ * really make sense, so videos would be the only one
+ *
+ * We also don't paginate as there aren't that many pages
+ */
+
+import { archiveEntries } from '~/archives';
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import ArchivesList from '~/components/ArchivesList.astro';
+import TopLinks from '~/components/TopLinks.astro';
+
+const title = 'Video Archives';
+const videoArchives = archiveEntries.filter((post) => post.data.video);
+---
+
+<BaseLayout {title} type="index">
+	<TopLinks />
+	<h1>{title}</h1>
+	<ArchivesList list={videoArchives} />
+</BaseLayout>

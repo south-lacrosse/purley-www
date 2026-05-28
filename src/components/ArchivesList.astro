@@ -1,0 +1,29 @@
+---
+/**
+ * List of archive pages
+ */
+import { type CollectionEntry } from 'astro:content';
+
+import { titleDate } from '~/util/titles';
+
+interface Props {
+	list: CollectionEntry<'archives'>[];
+}
+
+const { list } = Astro.props;
+---
+
+<ul class="archives-list">
+	{
+		list.map((entry) => (
+			<li>
+				<a class="archives-link" href={`/${entry.id}`}>
+					<span class="underline">{entry.data.title}</span>
+					{entry.data.showDate && (
+						<span class="archives-date">{' - ' + titleDate(entry.data.date)}</span>
+					)}
+				</a>
+			</li>
+		))
+	}
+</ul>
