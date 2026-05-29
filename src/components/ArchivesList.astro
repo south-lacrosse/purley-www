@@ -17,12 +17,14 @@ const { list } = Astro.props;
 	{
 		list.map((entry) => (
 			<li>
-				<a class="archives-link" href={`/${entry.id}`}>
-					<span class="underline">{entry.data.title}</span>
-					{entry.data.showDate && (
+				{entry.data.showDate ? (
+					<a class="archives-link" href={`/${entry.id}`}>
+						<span class="underline">{entry.data.title}</span>
 						<span class="archives-date">{' - ' + titleDate(entry.data.date)}</span>
-					)}
-				</a>
+					</a>
+				) : (
+					<a href={`/${entry.id}`}>{entry.data.title}</a>
+				)}
 			</li>
 		))
 	}
