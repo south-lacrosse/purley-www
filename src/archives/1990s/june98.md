@@ -74,7 +74,7 @@ Speed and skill are one thing but to today's youth, surrounded by designer
 labels and glossy adverts, image is everything. Show a picture of a player
 with a 1960s motorcycle helmet, knee-length socks and shorts that might as
 well have 'Speedo' tagged on them, to a group of 16-20 year olds and
-they're not going to listen to anything you say about lacrosse. They''ll
+they're not going to listen to anything you say about lacrosse. They'll
 just tell you it looks crap - sad but true.
 
 We know what the game's like, we saw the game and accepted it, but

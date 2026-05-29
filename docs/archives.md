@@ -29,6 +29,7 @@ Whenever Astro runs (dev or build) it will validate the frontmatter against the 
 * `date` - archive date in format like `1933-05-01`. Archives are listed in date order
 * `showDate` - whether the date will be shown as (or appended to) the byline to the page title, and on links for next/previous pages and in the archives index. Defaults to true for category 'match-report', false otherwise.
 * `category` - type of archive, one of `match-report`, `results`, or `stats`
+* `video` - true if the page has videos, will get added to the `/videos` page, and add a link to that page below the article
 
 The category determine which related pages are linked to in the footer:
 
