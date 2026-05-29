@@ -72,7 +72,7 @@ MJ Berman 4, Mike Barrett 3, Matt Payne 2
 
 ## Cheadle at Home, Iroquois Cup/Wilkinson Sword - 28 Oct 2000
 
-See the [report](/2001/wilkinson)
+See the [report and video](/2001/wilkinson)
 
 ## Bath Away, Senior Flags Semi-Final & League - 25 Nov 2000
 
@@ -100,13 +100,7 @@ finals - so congratulations to them.
 
 ## Hitchin Away - 9 Dec 2000
 
-With Flags semi-final wins for both Hitchin and Purley two weeks ago, this
-match turned out to be a dry run of the Flags Final to be played in April.
-The Hitchin team started well, hustling for every ball, and throwing Purley
-out of their stride. After 10 minutes of the first quarter the teams were
-level at 2-2, but then the Purley side settled, their defence cut out any
-silly mistakes, and after that it was all one way traffic. Final score:
-18 - 3.
+See [report and video](hitchin-away-match-report-9-dec).
 
 ## Bath at Home - 13 Jan 2001
 

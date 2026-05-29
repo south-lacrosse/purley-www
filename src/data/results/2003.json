@@ -3,6 +3,12 @@
 	"flags": "Senior",
 	"fixtures": [
 		{
+			"date": "2002-09-28",
+			"opposition": "Bath 8s",
+			"result": "Video",
+			"report": "bath-eights"
+		},
+		{
 			"date": "2002-10-05",
 			"opposition": "Hillcroft",
 			"location": "Home",
