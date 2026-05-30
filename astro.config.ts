@@ -9,9 +9,9 @@ import sitemap from '@astrojs/sitemap';
 import removeOriginalImages from './src/integrations/remove-original-images';
 import pagefind from 'astro-pagefind';
 
-import { unified } from '@astrojs/markdown-remark';
-import rehypeFigureImages from './src/plugins/rehype-figure-images';
-import rehypeTables from './src/plugins/rehype-tables';
+import { satteri } from '@astrojs/markdown-satteri';
+import satteriFigureImages from './src/plugins/satteri-figure-images';
+import satteriTables from './src/plugins/satteri-tables';
 
 import { ARCHIVES_PAGE_BASE } from './src/constants';
 
@@ -39,8 +39,8 @@ export default defineConfig({
 		}),
 	],
 	markdown: {
-		processor: unified({
-			rehypePlugins: [rehypeFigureImages, rehypeTables],
+		processor: satteri({
+			hastPlugins: [satteriFigureImages, satteriTables],
 		}),
 	},
 	image: {
