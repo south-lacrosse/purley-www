@@ -51,7 +51,7 @@ It also turns out that our Welsh hosts went all out on the pomp and ceremony, wi
 
 Before this tournament I don't think any of us appreciated how essential the services of a team physio/sports masseur are for a week-long tournament.
 
-With most of the team not being used to having the services of a physio, the first evening the queue for a sports massage at team physio Steve Cluney's door was only made up of most of the Purley players, and we'd mainly gone to show support for him being there are as we knew him from back at our club (he'd worked with Mike Barrett).
+With most of the team not being used to having the services of a physio, the first evening the queue for a sports massage at team physio Steve Cluney's door was only made up of most of the Purley players, and we'd mainly gone to show support for him being there as we knew him from back at our club (he'd worked with Mike Barrett).
 
 We'd had training sessions that morning and afternoon, and the hard ground meant many of us had tight calves, along with other assorted strains. When we left his massage table the difference was remarkable, the tension was gone, and full flexibility had returned. Any of us who had doubts were now thoroughly sold on the treatment, even with the excruciating pain some of Steve's techniques caused!
 
