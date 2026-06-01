@@ -1,6 +1,6 @@
 ---
 title: Other Clubs From the 1890s
-layout: '~/layouts/PageLayout.astro'
+date: 1890-12-01 # approx
 ---
 
 ## Albert Park Lacrosse Club 1890
