@@ -51,3 +51,12 @@ switch (category) {
 		</nav>
 	)
 }
+{
+	relatedEntries.length === 0 && category === 'match-report' && (
+		<nav class="related-nav" aria-label="Secondary">
+			<a href="results" class="related-link related-simple-link">
+				Results
+			</a>
+		</nav>
+	)
+}
