@@ -6,8 +6,8 @@ category: match-report
 
 # Q1      P 3 v OU 4      Arnie,Jess,Jess         (1-0,2-0,2-1,2-2,2-3,3-3,3-4)           Q1 3 v 4
 # Q2      P 5 v OU 6      Jess,Jamie              (3-5,4-5,4-6,5-6)                               Q2 2 v 2
-# Q3      P12 v OU 6      Nigel,Chris,Gram,Matt,Matt,Arnie,Jamie  (6-6,7-6,8-6,9-6,10-6,11-6,12-6, Q3 7 v 0       
-# 
+# Q3      P12 v OU 6      Nigel,Chris,Gram,Matt,Matt,Arnie,Jamie  (6-6,7-6,8-6,9-6,10-6,11-6,12-6, Q3 7 v 0
+#
 # Q4      P14 v OU 6      Nigel,Jamie               (13-6,14-6)                             Q4 2 v 0
 ---
 
@@ -35,14 +35,14 @@ The defence stepped up, the attack controlled the ball, and clinical
 finishing saw the Purple and Gold pull into a comfortable 12-6 lead. The
 only down-side was that Nigel Tasko was sidelined with a neck injury.
 Initially it looked serious, indeed Purley were on the phone for the
-ambulance when Nigel decided to stuggle to his feet.
+ambulance when Nigel decided to struggle to his feet.
 
 In the final quarter possession was all Oxford's. Purley didn't help
-themselves by failing to clear on many occaisons, and the midfield and
+themselves by failing to clear on many occasions, and the midfield and
 attack were in run 'n gun mode which gave possession back to Oxford far too
 quickly. But by now the Purley defence had the measure of the Oxford
 attack. Strong body on the outside men, and close marking on the crease saw
-Oxford's opportunities dry up, and on the rare occaisons they did get
+Oxford's opportunities dry up, and on the rare occasions they did get
 through 'keeper Paul Terry made a couple of fine saves. The Purley attack
 were still as clinical as the previous quarter, with 2 goals from their
 limited offense - including one from Nigel Tasko, who showed that these

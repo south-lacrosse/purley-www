@@ -10,7 +10,7 @@ category: match-report
 
 A clear but cold afternoon greeted the two teams at Warlingham, who both
 impeccably observed a minutes silence before the start of the game for
-Rememberance Day.
+Remembrance Day.
 
 Both teams came out fighting scrappily, with an exchange of goals at either
 end. EG then started to control the ball against the ever watertight Purley
@@ -27,7 +27,7 @@ into the final period.
 The final quarter saw EG come out strong and managed to notch up 3 very
 quick goals, including a fast break of their own. Purley managed to get one
 back after that, but with some good stifling play from EG, they managed to
-close the game out despite Purleys efforts and clung on to win 7-5, which
+close the game out despite Purley's efforts and clung on to win 7-5, which
 should set up an interesting re-match.
 
 Team: Goal: Paul Terry; Defence: Andy Booth, Dave Copple, Dave Slaughter,

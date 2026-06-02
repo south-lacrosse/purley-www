@@ -20,8 +20,8 @@ Hitchin's chances to a minimum. Final score 5-1 to Purley. This meant that
 we had won our group and had qualified for the final.
 
 The other Division in the Senior competition was much closer with Hillcroft
-beating Hampstead and Croydon but losing to Walcoutian Blues. And Hampstead
-beating Walcoutians and Croydon but losing to Hillcroft. At this tournament
+beating Hampstead and Croydon but losing to Walcountian Blues. And Hampstead
+beating Walcountians and Croydon but losing to Hillcroft. At this tournament
 you gain an additional point for each goal scored and Hampstead ended up
 qualifying for the final as they had scored one more than Hillcroft.
 
@@ -38,7 +38,7 @@ half time when Hampstead's Dave Leach was sprinting down on a fast break
 with Purley's Sam Bugeja hot on his heals and beginning to catch him up.
 Suddenly Purley's Ted Whitehouse appeared on Dave Leach's blind-side and
 timed the hit really well, knocking Dave to the ground. Purley recycled the
-ball and Graeme Holland scored in the final seconds to make the halftime
+ball and Graeme Holland scored in the final seconds to make the half-time
 score to 4-2 to Purley. The second half was a excellent demonstration of
 how both teams can play, both creating excellent scoring opportunities and
 taking it to the cage as quickly as possible. Purley just had the edge with

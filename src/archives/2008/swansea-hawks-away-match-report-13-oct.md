@@ -9,11 +9,11 @@ category: match-report
 # Q2   2   4  2-0
 # Q3   3  10  1-6  Jamie,Matt,Mike,Jesse,Matt,Jamie   3-4,3-5...
 # Q4   4  12  1-2  Bill,Jesse     4-10,4-11,4-12
-# laxforums
-# Good game and another good learning for the hawks!! Slightly dissapointed with the final result after
-# a poor 3rd quater giving up 5 or 6 goals on man down. Fair play to Purley for showing their experiance
+# lax forums
+# Good game and another good learning for the hawks!! Slightly disappointed with the final result after
+# a poor 3rd quarter giving up 5 or 6 goals on man down. Fair play to Purley for showing their experience
 # and class to make the most of the situation but if we had kept our heads a little more the score could
-# have been alot closer.
+# have been a lot closer.
 ---
 
 It's a bit of a hike down to Swansea, and Purley only managed to take 11

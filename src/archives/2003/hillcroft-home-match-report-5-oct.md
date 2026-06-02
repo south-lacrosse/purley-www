@@ -19,7 +19,7 @@ season. Hillcroft have lost a couple of players during the off-season, and
 though they are well organised thanks to coach Ray Nash, they didn't have
 the experience necessary to trouble Purley. In fact the scoreline could
 have been a lot worse. Steve Flint in the Hillcroft goal had several good
-one-on-one saves to keep the scoreline down. Also Purleys ace attack man
+one-on-one saves to keep the scoreline down. Also Purley's ace attack man
 Tim Richmond suffered a knee injury during the second quarter and had to
 sit out the rest of the game, though Purley new boy Mark Dingfield had an
 impressive debut in attack, top scoring with six goals.

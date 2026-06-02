@@ -126,7 +126,7 @@ Wales we would be in the final.
 Face-off was at 6pm with both sides eager to win
 well. The game started slowly, going to a 2-2 draw
 before England pulled away to take the game 15-5
-thanks to the outstanding face-off work of 17 vear-old
+thanks to the outstanding face-off work of 17 year-old
 Dan Kallaugher who lost only one out of 28 faces during
 the match.
 

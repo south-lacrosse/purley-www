@@ -37,7 +37,7 @@ the quarter.
 
 Mentally it was still anyone's game and Purley seemed amped to mark a
 comeback and regain control of the match, but this did not materialize as
-Hampstead executed a well practiced plan and won the quarter with all of
+Hampstead executed a well-practised plan and won the quarter with all of
 the four goals scored.
 
 A lot can happen in twenty minutes of lacrosse and despite being down 13-6
@@ -58,7 +58,7 @@ close to all of the second half. In a game where numbers add up and count
 for everything Purley's defence and goal tending were truly tested and were
 able to thwart most of Hampstead's relentless attack.
 
-There will no doubt be some serious planning and practicing ahead for
+There will no doubt be some serious planning and practising ahead for
 Purley over the remaining games in the season before they meet back up with
 Hampstead in the Flags Finals on March 18th.
 

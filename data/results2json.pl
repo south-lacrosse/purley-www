@@ -72,7 +72,7 @@ foreach my $name (@names) {
 	close(OUT);
 }
 
-# read in XML file and remove spaces, remove linefeeds before <br>
+# read in XML file and remove spaces, remove line feeds before <br>
 sub read_xml_file {
 	my ($filename) = @_;
 	open(FH, '<', $filename) or die $!;

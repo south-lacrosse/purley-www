@@ -7,7 +7,7 @@ category: match-report
 
 There has always been an intense rivalry between these two teams, and the
 current ground sharing arrangement gave that rivalry another edge. The
-Blues were definately fired up for this game, and from start to finish they
+Blues were definitely fired up for this game, and from start to finish they
 fought hard - at most ground balls it seemed that the Blues had their
 second man there before Purley.
 
@@ -19,7 +19,7 @@ entirely different story, as the Purple and Gold attack moved into first
 gear, and scored 7 goals without reply. The Blues responded in the third
 quarter, which they only lost 2-1, to take the score to 12-3, but Purley
 had left the best till last. In the final quarter they completely
-dominated, moving the ball swifly and accurately in attack, and with many
+dominated, moving the ball swiftly and accurately in attack, and with many
 well worked goals in the 11 that they scored. Final score 23-3.
 
 The one factor that seemed to have a major effect on this game was the

@@ -38,7 +38,7 @@ Tahal drove across the middle to score on a bounce shot to seal a 7-6 come
 from behind win. It was a gut check for Purley - if they were to reach the
 semis they could not afford any more set backs.
 
-Purley's second game of the day pitted them against Sundyburg of Sweden.
+Purley's second game of the day pitted them against Sundbyberg of Sweden.
 The defeat by the Czechs would become a blessing in disguise as every team
 was now viewed as an unknown quantity: We were not about to take them
 lightly. As it turned out the Swedes were no match for the controlled
@@ -58,7 +58,7 @@ teams fought hard but Purley's skills were too much for VFK and their
 frustrations manifested in a mild scuffle that broke out in the second
 quarter. During a battle for a ground ball, Hess whipped his stick around
 the head of Dave Arnot and Hess was charged with a two minute
-unsportsmanship penalty. Unable to stop the barrage of shots from Purley,
+unsportsmanlike penalty. Unable to stop the barrage of shots from Purley,
 VFK resorted to placing Hess in goal, but that move proved to be futile as
 Dave Arnot's laser cranks continued the assault on the VFK goalies. In the
 end the purple haze came out with a 13-1 victory, but what the German team
@@ -121,7 +121,7 @@ With the DJ apparently on a break, it was eerily quiet as the teams took to
 the field, the Purley team eye-blacking up for the last time (it bloody
 works!!) as the Czechs eyed us from the far end of the field. You could cut
 the tension with a knife. The whistle blew and within 2 mins Malesice
-scored. Undaunted, Bill Curtis won the ensueing face and blasted one
+scored. Undaunted, Bill Curtis won the ensuing face and blasted one
 straight back at them. 1-1 and the game was set to be a shoot-out.
 
 The Czechs had other ideas however, and refused to let us drop into the

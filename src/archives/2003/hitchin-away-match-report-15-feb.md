@@ -7,7 +7,7 @@ category: match-report
 
 With both teams only having 10 players, and no ref available, it was
 decided to play the game without a referee. This can sometimes lead to
-tension between the two sides, but on this occaision both teams acted in a
+tension between the two sides, but on this occasion both teams acted in a
 very sportsman like manner - it was a very clean game, but when there was a
 foul both sides sent their own players to the sin bin, even when the other
 team would probably have let the foul go.

@@ -46,7 +46,7 @@ score 18-3.
 
 Due to work commitments, holidays and injuries Purley struggled to get 10
 men to take the field. The final team line-up is one that isn't likely to
-be repeated. Tony 'the Fossilator' Bennett was lured out of retirement to
+be repeated. Tony 'the Fossillator' Bennett was lured out of retirement to
 play in goal, and probably breaks the Purley record for the oldest player
 to start a first team game. Therefore regular keeper Paul Terry was moved
 up into attack (now, how often does that happen), and in midfield Stuart
@@ -73,7 +73,7 @@ time. The final quarter was much of the same - final score 11-4.
 Winning the first quarter 4-0, it looked like this would be another
 comfortable win for Purley. However Hillcroft had other ideas, and in the
 second quarter fought hard to control the ball - aided by some sloppy play
-from Purley. Hillcoft scored the only goal of the quarter to end the half
+from Purley. Hillcroft scored the only goal of the quarter to end the half
 4-1 down. Despite this brief comeback, Hillcroft didn't have the fire power
 in attack to seriously threaten the Purley goal, and though the Purple
 attack wasn't completely on song they managed to keep the scoring ticking

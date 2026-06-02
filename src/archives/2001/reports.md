@@ -231,7 +231,7 @@ doesn't show in the score-line.
 
 Scores by quarter: 8-1, 11-2, 19-2, 23-2\
 Goals: Tim Richmond 6, Dave Arnot 4, Graeme Holland 4, Scott Nicholls 3,
-Mike Barret 2, Greg Venville 2, Matt Payne 1, Dave Slaughter 1.
+Mike Barrett 2, Greg Venville 2, Matt Payne 1, Dave Slaughter 1.
 
 ## Hampstead at Home - 10 Mar 2001
 

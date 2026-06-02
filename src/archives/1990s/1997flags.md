@@ -25,7 +25,7 @@ Purley had yet to score.
 
 Purley's fortunes changed however at the beginning of the second quarter.
 John Jessop had his second goal of the match disallowed when the Purley
-coach requested a stick check on ]essop's stick. The stick was found to be
+coach requested a stick check on Jessop's stick. The stick was found to be
 too short and not only was the goal disallowed, but Jessop incurred a
 three-minute penalty. Purley were determined to take advantage of the
 situation, Tim Richmond and Darren Novell both scoring past keeper Simon

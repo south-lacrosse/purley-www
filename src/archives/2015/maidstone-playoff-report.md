@@ -41,7 +41,7 @@ in but too few on target and slowly Maidstone got into the game with some
 bustling breaks lead by midfield powerhouse Hugh Mitchison.
 
 They equalised on 12 minutes after breaking down a clear and capitalizing
-on the broken play with dangerman attacker Travis Gibbons finishing it off.
+on the broken play with danger man attacker Travis Gibbons finishing it off.
 
 Gibbons then fed Mitchison with enough space up top to send a guided
 missile flashing into the top right corner for the lead four minutes later.
@@ -53,7 +53,7 @@ Both keepers showed their class with multiple saves from some heavy
 artillery and on the doorstep blocks to increase the tension jangling
 through both sides.
 
-Matt O'Leary had to be sharp to save as Gibbons barreled round the post and
+Matt O'Leary had to be sharp to save as Gibbons barrelled round the post and
 shot and then Dave Slaughter's timely take-away a minute later kept Purley
 alive.
 
@@ -91,11 +91,11 @@ culminated with another clear shooting line for Payne who converted for a
 
 Maidstone were now chasing the game and Purley struck again early on to
 give them breathing space with a defensive slip punished by a quick pass to
-Justin Baronowski who finished from point blank.
+Justin Baranowski who finished from point blank.
 
 With Joe Burnett ordering his defensive troops and putting the pressure on,
 the Red Wolves roared back and Gibbons hit the bar but as the broken play
-raced back, Payne found Baronowski unmarked on the crease for his second
+raced back, Payne found Baranowski unmarked on the crease for his second
 and a 9-4 lead.
 
 The Kent side wasn't done yet and blazed back in the final 10 minutes with
