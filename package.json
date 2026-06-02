@@ -15,7 +15,8 @@
 		"astro": "astro",
 		"format": "prettier -w .",
 		"lint": "eslint .",
-		"check-links": "npx linkinator ./dist"
+		"check-links": "npx linkinator ./dist",
+		"check-spelling": "npx cspell lint ."
 	},
 	"engines": {
 		"node": ">=21.0.0"

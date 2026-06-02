@@ -8,6 +8,7 @@ Folder structure:
 ├── .astro    (Astro generated files)
 ├── .vscode   (VSCode config)
 ├── bin       (useful command line tools)
+├── cspell    (code spell checker dictionaries)
 ├── data      (original data files and their build scripts)
 ├── docs      (documentation)
 ├── dist      (generated website, only exists after build)
