@@ -21,7 +21,7 @@ Folder structure:
     ├── integrations  (Astro integrations to customise the build)
     ├── layouts       (page layouts, reusable HTML scaffolding for our pages)
     ├── pages         (pages and routes which generate the site)
-    ├── plugins       (remark & rehype plugins to modify markdown/html)
+    ├── plugins       (plugins to modify markdown/html)
     ├── styles        (CSS)
     └── util          (utility code)
 ```
@@ -40,7 +40,7 @@ The `archives` collection is rendered using dynamic routes in `src/pages` with:
 * `[...id].astro` - matches file paths of any depth, so will generate `/2000/flags` for source file `src/archives2000/flags.md`
 * `[page].astro` - creates the archives index, `page` will be replaced by the page number
 
-Note the variable name inside the square must match a property in the params returned in the exported `getStaticPaths()` function.
+Note the variable name inside the square brackets must match a property in the params returned in the exported `getStaticPaths()` function.
 
 ## Astro Configuration
 
@@ -85,3 +85,5 @@ build: {
 Search is provided by [Pagefind](https://pagefind.app/) using the [Astro Pagefind integration](https://github.com/shishkin/astro-pagefind).
 
 Configuration is in `astro.config.ts`, with the root selector set to `article`, which we use to enclose archives content, markdown pages in `src/pages`, and `index.astro`.
+
+Note that because of the build file format above, Pagefind returns URLs ending '.html'. As of version 1.5.2 there doesn't seem to be a way to stop this, so we use a custom template on the client end to remove it there. See the `SiteSearch.astro` component for details.

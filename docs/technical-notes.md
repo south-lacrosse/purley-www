@@ -1,8 +1,8 @@
 # Technical Notes
 
-## Remark & Rehype Plugins
+## Satteri, Remark, and Rehype Plugins
 
-Changes to these don't get automatically picked up if running the dev server. To make sure the server is restarted just touch `/astro.config.ts`.
+Changes to these don't get automatically picked up if running the dev server. To make sure the server is restarted just touch `/astro.config.ts`, or you may possibly need to stop and restart.
 
 ## VSCode
 

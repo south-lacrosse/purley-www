@@ -1,12 +1,12 @@
 # Archives
 
-Apart from the home page, almost all pages on the site are stored in markdown (`.md`) or extended markdown (`.mdx`) format in the [src/archives](../src/archives) directory.
+Apart from the home page, almost all pages on the site are stored in markdown (`.md`) or extended markdown (`.mdx`) format in the [src/archives](../src/archives) directory. You must used extended markdown if you need to import custom components (Gallery, YouTube etc.).
 
 You can also put non-archives markdown pages in the `src/pages` directory. These files must have a `layout` property to specify the component used to layout the page, a `title` property, and optionally a `byline` property.
 
 Markdown is an easy-to-use markup language that is used with plain text to add formatting elements (headings, bulleted lists, URLs) to plain text without the use of a formal text editor or the use of HTML tags. This makes creating pages for this site much easier.
 
-Our Astro build tool uses [GitHub flavoured markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [Smartypants](https://daringfireball.net/projects/smartypants/) to smarten up punctuation, and we have a few of custom additions to markdown as below:
+Our Astro build tool uses [GitHub flavoured markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), smart punctuation, and we have a few customisations as below:
 
 ## Frontmatter
 
@@ -27,7 +27,7 @@ Whenever Astro runs (dev or build) it will validate the frontmatter against the 
 * `titleShort` - short title, only displayed for links to related pages that appears in the page footer, so only needed for match reports
 * `byline` - displayed just below title
 * `date` - archive date in format like `1933-05-01`. Archives are listed in date order
-* `showDate` - whether the date will be shown as (or appended to) the byline to the page title, and on links for next/previous pages and in the archives index. Defaults to true for category 'match-report', false otherwise.
+* `showDate` - whether the date will be shown in byline to the page title, and on links for next/previous pages and in the archives index. Defaults to true for category 'match-report', false otherwise.
 * `category` - type of archive, one of `match-report`, `results`, or `stats`
 * `video` - true if the page has videos, will get added to the `/videos` page, and add a link to that page below the article
 
@@ -47,9 +47,9 @@ Caption text here \
 Caption line 2
 ```
 
-This will only work if the image is the first element in a paragraph, so it must have a blank line preceding it. It is best to have a `\` line break before the caption text, as this and any leading whitespace will be removed from the caption.
+This will only work if the image is the first element in a paragraph, so it must have a blank line preceding it, and be the only image in the paragraph. It is best to have a `\` line break before the caption text, as this and any leading whitespace will be removed from the caption.
 
-Note: this is non-standard, and relies on our `plugins/rehype-figure-images.ts` rehype plugin. The plugin will also enclose any images on their own line with a `<figure>` tag instead of the usual paragraph `<p>`.
+Note: this is non-standard, and relies on our custom plugin in `/src/plugins`. The plugin will also enclose any images on their own line with a `<figure>` tag instead of the usual paragraph `<p>`.
 
 ## Image Galleries
 
@@ -111,7 +111,7 @@ import { YouTube } from '@astro-community/astro-embed-youtube';
 
 Here's my video:
 
-<YouTube id="TtRtkTzHVBU" />
+<YouTube id="TtRtkTzHVnU" />
 ```
 
 Add `class="four-by-three"` if the video has a 4:3 aspect ratio, otherwise it will display in the default 16:9 format.
