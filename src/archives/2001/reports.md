@@ -283,4 +283,4 @@ Matt Payne 1.
 
 ## Senior Flags Final v Hitchin - 24 Mar 2001
 
-See the [report](/2001/flags)
+See the [video & report](/2001/flags)

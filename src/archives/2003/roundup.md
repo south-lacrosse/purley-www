@@ -4,7 +4,7 @@ date: 2002-09-01 # approx
 ---
 
 ![Team Picture](2003flags-01.jpg)\
-*From left to right:* Sam Bugeja, Andy Booth (kneeling), Dave Slaughter,
+Sam Bugeja, Andy Booth (kneeling), Dave Slaughter,
 Jamie Tasko, Darren Novell, Mike Husey, Paul Terry, Matt Payne, Stuart
 Green, Mark Dingfield, Graeme Holland, Ryan Lynch, Chris Spence, Dean
 Searle
@@ -21,4 +21,4 @@ Check out the [results and match reports](results).
 
 **Final:** Purley 10 - Hampstead 8
 
-Check out the [report & pictures](2003flags).
+Check out the [video, report & pictures](2003flags).

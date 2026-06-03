@@ -1,11 +1,6 @@
 {
 	"images": [
 		{
-			"src": "20020323flags-01.jpg",
-			"alt": "Team photo",
-			"caption": "Team Photo time<br>Back Row: Denham Pope, Graeme Holland, Scott Nicholls, Chris Spence, Stuart Green, Jamie Tasko, Mike Husey, Dave Arnot, Tony Bennett<br>Front Row: Andy Booth, Paul Terry, Matt Payne, Darren Novell, Dean Searle, Ben Clueit, Dave Slaughter"
-		},
-		{
 			"src": "20020323flags-02.jpg",
 			"caption": "Chris Spence on the drive"
 		},
@@ -55,7 +50,7 @@
 		},
 		{
 			"src": "20020323flags-14.jpg",
-			"caption": "Dave Arnot, ready for another drive"
+			"caption": "Dave Arnot ready for another drive"
 		},
 		{
 			"src": "20020323flags-15.jpg",
@@ -67,7 +62,7 @@
 		},
 		{
 			"src": "20020323flags-18.jpg",
-			"caption": "The Skipper - about to give an 'awesome' acceptance speech"
+			"caption": "The Skipper about to give an 'awesome' acceptance speech"
 		}
 	]
 }

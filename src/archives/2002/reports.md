@@ -197,7 +197,7 @@ about next week's game versus Hampstead.
 
 ## Senior Flags Final v Hampstead- 23 Mar 2002
 
-See the [report](/2002/2002flags)
+See the [video & report](/2002/2002flags)
 
 ## Penarth Away - 6 Apr 2002
 

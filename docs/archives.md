@@ -79,7 +79,7 @@ Gallery files look something like:
     "images": [
         {
             "src": "image1.jpg",
-            "caption": "Caption which can have HTML<br>2nd line"
+            "caption": "Caption which can have HTML<br>2nd line, but don't make it too long!"
         },
         {
             "src": "image2.jpg",

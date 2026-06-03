@@ -20,4 +20,4 @@ Check out the [results and match reports](results).
 
 **Final:** Purley 16 - Hillcroft 5
 
-Check out the [report & pictures](2004flags).
+Check out the [video, report & pictures](2004flags).

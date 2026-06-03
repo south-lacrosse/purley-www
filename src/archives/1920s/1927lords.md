@@ -10,12 +10,12 @@ G.A.Bryan, J.W.Taylor(?), S.H.Keech\
 
 ---
 
-![](1927goal.jpg)\
+![Game action](1927goal.jpg)\
 Action in front of Purley's goal
 
 ---
 
-![](1927goal2.jpg)\
+![Game action](1927goal2.jpg)\
 Ewen (the Purley Captain) saves a difficult shot\
 *Other Purley players (left to right):* Taylor, Atfield, Bolton, Miller &
 Keach

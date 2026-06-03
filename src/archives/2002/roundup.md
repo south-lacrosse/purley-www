@@ -21,4 +21,4 @@ Check out the [match reports](reports), or the [results](results).
 
 **Final:** Purley 12 - Hampstead 8
 
-Check out the [report & pictures](2002flags).
+Check out the [video, report & pictures](2002flags).

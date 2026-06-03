@@ -21,4 +21,4 @@ Check out the [match reports](reports), or the [results](results).
 
 **Final:** Purley 16 - Hitchin 2
 
-Check out the [report and pictures](flags).
+Check out the [video, report & pictures](flags).

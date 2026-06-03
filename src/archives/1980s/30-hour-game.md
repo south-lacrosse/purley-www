@@ -6,12 +6,12 @@ showDate: true
 
 The game took place over the weekend of the 14th-15th June 1980.
 
-![Game photo](30-hour-game.jpg)\
+![Game action](30-hour-game.jpg)\
 Glynn Thatcher (glasses), Pete Metcalfe (RA), Tim Murphy (LA), Steve Cattle (behind Tim)
 
 Below is an article which we believe is from the Croydon Advertiser.
 
-![Game photo](30-hour-game-headline.jpg)
+![Game action](30-hour-game-headline.jpg)
 
 by Jane Hodgson
 

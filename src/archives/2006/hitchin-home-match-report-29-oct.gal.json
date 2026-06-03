@@ -2,15 +2,11 @@
 	"images": [
 		{
 			"src": "20051029-hitchin-001.jpg",
-			"caption": "Mike Barrett clears the ball"
+			"caption": "Mike Barrett clears"
 		},
 		{
 			"src": "20051029-hitchin-013.jpg",
 			"caption": "Hitchin double team Dave Arnot"
-		},
-		{
-			"src": "20051029-hitchin-630.jpg",
-			"caption": "Nigel Tasko tries to get the shot away"
 		},
 		{
 			"src": "20051029-hitchin-633.jpg",
@@ -18,7 +14,7 @@
 		},
 		{
 			"src": "20051029-hitchin-639.jpg",
-			"caption": "The Hitchin D man fails with the over the head check..."
+			"caption": "Failing with the over the head check..."
 		},
 		{
 			"src": "20051029-hitchin-640.jpg",
@@ -30,11 +26,11 @@
 		},
 		{
 			"src": "20051029-hitchin-666.jpg",
-			"caption": "The ball is fed across the goal on a Hitchin fast break..."
+			"caption": "A feed across goal on a Hitchin fast break..."
 		},
 		{
 			"src": "20051029-hitchin-667.jpg",
-			"caption": "...and Papa Booth gets a nice interception. Looks like a knee buckler for the Hitchin attack man."
+			"caption": "...and Papa Booth gets a nice interception"
 		}
 	]
 }
