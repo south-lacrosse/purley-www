@@ -52,4 +52,4 @@ windy day and the team deserve the greatest credit for their performance.
 Team: *Goal:* Dave Slaughter; *Defence:* Dave Hudson, Dave Copple, Andy
 Fernando; *Midfield:* Mike Barrett (2), Dave Cluney(1), Rob Clark(2);
 *Attack:*Jamie Tasko (2), Ryan McDonald (4), Wes Wilkinson (2) \
-Ref: Hazel
+Ref: Hazel Wisbey

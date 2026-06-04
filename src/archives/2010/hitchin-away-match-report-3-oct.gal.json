@@ -1,10 +1,6 @@
 {
 	"images": [
 		{
-			"src": "20091003-hitchin-1.jpg",
-			"caption": "Spot the ball as Andy Booth slides to help out Mike Barrett "
-		},
-		{
 			"src": "20091003-hitchin-2.jpg",
 			"caption": "Hamish Dickson looks to show his twinkle toes"
 		},
@@ -14,11 +10,11 @@
 		},
 		{
 			"src": "20091003-hitchin-4.jpg",
-			"caption": "Hamish Dickson and Dave Hudson look to double team Hitchin's #1"
+			"caption": "Hamish Dickson and Dave Hudson look to double team #1"
 		},
 		{
 			"src": "20091003-hitchin-5.jpg",
-			"caption": "The Purley D swarm in on danger in the crease: L to R Andy Booth, Hamish Dickson, Dave Hudson, Dave Slaughter"
+			"caption": "The Purley D swarm in on danger in the crease: Andy Booth, Hamish Dickson, Dave Hudson, Dave Slaughter"
 		},
 		{
 			"src": "20091003-hitchin-6.jpg",
@@ -26,7 +22,7 @@
 		},
 		{
 			"src": "20091003-hitchin-7.jpg",
-			"caption": "Nice drive by Wes Wilkinson, but has he seen Matt Payne lurking in a scoring position"
+			"caption": "Drive by Wes Wilkinson, but has he seen Matt Payne lurking?"
 		}
 	]
 }
