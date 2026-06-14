@@ -6,6 +6,7 @@ import Heading from '~/components/Heading.astro';
 import NextPrevLinks from '~/components/NextPrevLinks.astro';
 import TopLinks from '~/components/TopLinks.astro';
 import Related from '~/components/Related.astro';
+import VideoLibrary from '~/assets/video_library.svg';
 
 import { titleDate } from '~/util/titles';
 
@@ -38,6 +39,7 @@ if (showDate) {
 	{
 		video && (
 			<nav class="content-links">
+				<VideoLibrary class="icon" />
 				<a href="/videos">Other videos</a>
 			</nav>
 		)
